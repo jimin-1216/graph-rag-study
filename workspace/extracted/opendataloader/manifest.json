@@ -1,0 +1,42 @@
+{
+  "input_dir": "C:\\Jimin\\graph-rag-study\\data\\raw",
+  "output_dir": "C:\\Jimin\\graph-rag-study\\workspace\\extracted\\opendataloader",
+  "document_count": 7,
+  "documents": [
+    {
+      "source_pdf": "C:\\Jimin\\graph-rag-study\\data\\raw\\(매뉴얼) 은행 검사매뉴얼('25.7.게시용).pdf",
+      "json_output": "C:\\Jimin\\graph-rag-study\\workspace\\extracted\\opendataloader\\(매뉴얼) 은행 검사매뉴얼('25.7.게시용).json",
+      "markdown_output": "C:\\Jimin\\graph-rag-study\\workspace\\extracted\\opendataloader\\(매뉴얼) 은행 검사매뉴얼('25.7.게시용).md"
+    },
+    {
+      "source_pdf": "C:\\Jimin\\graph-rag-study\\data\\raw\\FIU보고정보 보안기준 원문-원본.pdf",
+      "json_output": "C:\\Jimin\\graph-rag-study\\workspace\\extracted\\opendataloader\\FIU보고정보 보안기준 원문-원본.json",
+      "markdown_output": "C:\\Jimin\\graph-rag-study\\workspace\\extracted\\opendataloader\\FIU보고정보 보안기준 원문-원본.md"
+    },
+    {
+      "source_pdf": "C:\\Jimin\\graph-rag-study\\data\\raw\\RBA 자금세탁 위험평가업무 취급지침 원문-원본.pdf",
+      "json_output": "C:\\Jimin\\graph-rag-study\\workspace\\extracted\\opendataloader\\RBA 자금세탁 위험평가업무 취급지침 원문-원본.json",
+      "markdown_output": "C:\\Jimin\\graph-rag-study\\workspace\\extracted\\opendataloader\\RBA 자금세탁 위험평가업무 취급지침 원문-원본.md"
+    },
+    {
+      "source_pdf": "C:\\Jimin\\graph-rag-study\\data\\raw\\가상자산 관련 자금세탁방지업무 취급지침 원문-원본.pdf",
+      "json_output": "C:\\Jimin\\graph-rag-study\\workspace\\extracted\\opendataloader\\가상자산 관련 자금세탁방지업무 취급지침 원문-원본.json",
+      "markdown_output": "C:\\Jimin\\graph-rag-study\\workspace\\extracted\\opendataloader\\가상자산 관련 자금세탁방지업무 취급지침 원문-원본.md"
+    },
+    {
+      "source_pdf": "C:\\Jimin\\graph-rag-study\\data\\raw\\국외 자금세탁방지업무 취급지침 원문-원본.pdf",
+      "json_output": "C:\\Jimin\\graph-rag-study\\workspace\\extracted\\opendataloader\\국외 자금세탁방지업무 취급지침 원문-원본.json",
+      "markdown_output": "C:\\Jimin\\graph-rag-study\\workspace\\extracted\\opendataloader\\국외 자금세탁방지업무 취급지침 원문-원본.md"
+    },
+    {
+      "source_pdf": "C:\\Jimin\\graph-rag-study\\data\\raw\\자금세탁방지업무 취급규정 원문-원본.pdf",
+      "json_output": "C:\\Jimin\\graph-rag-study\\workspace\\extracted\\opendataloader\\자금세탁방지업무 취급규정 원문-원본.json",
+      "markdown_output": "C:\\Jimin\\graph-rag-study\\workspace\\extracted\\opendataloader\\자금세탁방지업무 취급규정 원문-원본.md"
+    },
+    {
+      "source_pdf": "C:\\Jimin\\graph-rag-study\\data\\raw\\자금세탁방지업무 취급지침 원문-원본.pdf",
+      "json_output": "C:\\Jimin\\graph-rag-study\\workspace\\extracted\\opendataloader\\자금세탁방지업무 취급지침 원문-원본.json",
+      "markdown_output": "C:\\Jimin\\graph-rag-study\\workspace\\extracted\\opendataloader\\자금세탁방지업무 취급지침 원문-원본.md"
+    }
+  ]
+}

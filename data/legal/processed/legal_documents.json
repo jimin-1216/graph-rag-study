@@ -1,0 +1,78 @@
+[
+  {
+    "document_id": "law:spec_financial_transaction_act",
+    "slug": "spec_financial_transaction_act",
+    "document_type": "법률",
+    "title": "특정 금융거래정보의 보고 및 이용 등에 관한 법률",
+    "title_hanja": "특정 금융거래정보의 보고 및 이용 등에 관한 법률",
+    "promulgation_date": "20230718",
+    "effective_date": "20240719",
+    "department": "금융위원회",
+    "law_id": "009244",
+    "mst": "252787",
+    "kind": "law"
+  },
+  {
+    "document_id": "law:spec_financial_transaction_act_enforcement_decree",
+    "slug": "spec_financial_transaction_act_enforcement_decree",
+    "document_type": "대통령령",
+    "title": "특정 금융거래정보의 보고 및 이용 등에 관한 법률 시행령",
+    "title_hanja": "특정 금융거래정보의 보고 및 이용 등에 관한 법률 시행령",
+    "promulgation_date": "20251230",
+    "effective_date": "20260102",
+    "department": "금융위원회",
+    "law_id": "009256",
+    "mst": "281385",
+    "kind": "law"
+  },
+  {
+    "document_id": "law:aml_and_cft_business_rule",
+    "slug": "aml_and_cft_business_rule",
+    "document_type": "고시",
+    "title": "자금세탁방지 및 공중협박자금조달금지에 관한 업무규정",
+    "promulgation_date": "20251022",
+    "effective_date": "20260122",
+    "department": "금융정보분석원",
+    "rule_id": "2100000267264",
+    "kind": "adm_rule"
+  },
+  {
+    "document_id": "law:proceeds_of_crime_act",
+    "slug": "proceeds_of_crime_act",
+    "document_type": "법률",
+    "title": "범죄수익은닉의 규제 및 처벌 등에 관한 법률",
+    "title_hanja": "범죄수익은닉의 규제 및 처벌 등에 관한 법률",
+    "promulgation_date": "20220104",
+    "effective_date": "20220104",
+    "department": "법무부",
+    "law_id": "009245",
+    "mst": "238751",
+    "kind": "law"
+  },
+  {
+    "document_id": "law:real_name_financial_transactions_act",
+    "slug": "real_name_financial_transactions_act",
+    "document_type": "법률",
+    "title": "금융실명거래 및 비밀보장에 관한 법률",
+    "title_hanja": "금융실명거래 및 비밀보장에 관한 법률",
+    "promulgation_date": "20250401",
+    "effective_date": "20250401",
+    "department": "금융위원회",
+    "law_id": "000549",
+    "mst": "270423",
+    "kind": "law"
+  },
+  {
+    "document_id": "law:real_name_financial_transactions_act_enforcement_decree",
+    "slug": "real_name_financial_transactions_act_enforcement_decree",
+    "document_type": "대통령령",
+    "title": "금융실명거래 및 비밀보장에 관한 법률 시행령",
+    "title_hanja": "금융실명거래 및 비밀보장에 관한 법률 시행령",
+    "promulgation_date": "20241203",
+    "effective_date": "20241227",
+    "department": "금융위원회",
+    "law_id": "003086",
+    "mst": "266785",
+    "kind": "law"
+  }
+]

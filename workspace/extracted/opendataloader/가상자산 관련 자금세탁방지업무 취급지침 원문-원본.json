@@ -1,0 +1,3762 @@
+{
+  "file name" : "가상자산 관련 자금세탁방지업무 취급지침 원문-원본.pdf",
+  "number of pages" : 23,
+  "author" : null,
+  "title" : null,
+  "creation date" : "D:20260403131515+09'00'",
+  "modification date" : "D:20260403131515+09'00'",
+  "kids" : [ {
+    "type" : "heading",
+    "id" : 20,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 141.523, 753.618, 453.354, 770.433 ],
+    "heading level" : 2,
+    "font" : "�޸ո���",
+    "font size" : 15.943,
+    "text color" : "[0.0]",
+    "content" : "가상자산 관련 자금세탁방지업무 취급지침"
+  }, {
+    "type" : "list",
+    "id" : 25,
+    "level" : "4",
+    "page number" : 1,
+    "bounding box" : [ 410.717, 637.557, 538.628, 687.008 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 410.717, 676.514, 538.628, 687.008 ],
+      "font" : "�޸ո���",
+      "font size" : 9.949,
+      "text color" : "[0.0]",
+      "content" : "2018. 1.30. 제정",
+      "kids" : [ {
+        "type" : "list",
+        "id" : 10,
+        "level" : "4",
+        "page number" : 1,
+        "bounding box" : [ 410.717, 650.503, 538.628, 673.942 ],
+        "numbering style" : "arabic numbers",
+        "number of list items" : 2,
+        "list items" : [ {
+          "type" : "list item",
+          "page number" : 1,
+          "bounding box" : [ 410.717, 663.449, 538.628, 673.942 ],
+          "font" : "�޸ո���",
+          "font size" : 9.949,
+          "text color" : "[0.0]",
+          "content" : "2018. 7.10. 제1차 개정",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 1,
+          "bounding box" : [ 410.717, 650.503, 538.628, 660.996 ],
+          "font" : "�޸ո���",
+          "font size" : 9.949,
+          "text color" : "[0.0]",
+          "content" : "2019. 4. 8. 제2차 개정",
+          "kids" : [ ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 410.717, 637.557, 538.628, 648.05 ],
+      "font" : "�޸ո���",
+      "font size" : 9.949,
+      "text color" : "[0.0]",
+      "content" : "2019. 5.20. 제3차 개정",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 26,
+    "level" : "5",
+    "page number" : 1,
+    "bounding box" : [ 410.657, 598.6, 538.628, 634.985 ],
+    "font" : "�޸ո���",
+    "font size" : 9.949,
+    "text color" : "[0.0]",
+    "content" : "2021. 3.23. 제4차 개정 2021. 7.15. 제5차 개정 2025. 7. 8. 제6차 개정"
+  }, {
+    "type" : "paragraph",
+    "id" : 27,
+    "page number" : 1,
+    "bounding box" : [ 492.392, 585.534, 538.616, 596.027 ],
+    "font" : "�޸ո���",
+    "font size" : 9.949,
+    "text color" : "[0.0]",
+    "content" : "(전부개정)"
+  }, {
+    "type" : "heading",
+    "id" : 21,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 257.5, 514.719, 337.377, 531.534 ],
+    "heading level" : 2,
+    "font" : "�޸ո���",
+    "font size" : 15.943,
+    "text color" : "[0.0]",
+    "content" : "제1장 총칙"
+  }, {
+    "type" : "list",
+    "id" : 22,
+    "level" : "1",
+    "page number" : 1,
+    "bounding box" : [ 42.457, 261.451, 552.422, 477.623 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 3,
+    "next list id" : 36,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 42.457, 362.141, 552.422, 477.623 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제1조(목적) 이 지침은 가상자산 관련 금융거래에 관하여 「특정 금융거래 정 보의 보고 및 이용 등에 관한 법률」(이하 “「특금법」”)과 그 하위법령의 시행에 필요한 사항을 명확히 하고, 자금세탁 및 공중협박자금 조달 행위(이 하 “자금세탁등”)를 효과적으로 방지하기 위해 준수가 필요한 사항을 정하 는데 그 목적이 있다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 42.457, 311.796, 516.737, 326.588 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제2조(적용) 가상자산 관련 자금세탁방지업무는 이 지침을 우선 적용한다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 42.457, 261.451, 537.725, 276.243 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제3조(용어의 정의) 이 지침에서 사용하는 용어의 정의는 다음 각 호와 같다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 23,
+    "level" : "2",
+    "page number" : 1,
+    "bounding box" : [ 56.429, 185.934, 552.477, 251.07 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 56.429, 185.934, 552.477, 251.07 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "1. “가상자산”이란 경제적 가치를 지닌 것으로서 전자적으로 거래 또는 이 전될 수 있는 전자적 증표(그에 관한 일체의 권리를 포함한다)를 말한다. 다만, 다음 각 목의 어느 하나에 해당하는 것은 제외한다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 24,
+    "level" : "3",
+    "page number" : 1,
+    "bounding box" : [ 70.461, 60.071, 552.421, 175.553 ],
+    "numbering style" : "korean letters",
+    "number of list items" : 3,
+    "next list id" : 29,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 70.461, 135.589, 552.421, 175.553 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "가. 화폐·재화·용역 등으로 교환될 수 없는 전자적 증표 또는 그 증표에 관한 정보로서 발행인이 사용처와 그 용도를 제한한 것",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 70.461, 85.244, 552.421, 125.208 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "나. 「게임산업진흥에 관한 법률」 제32조제1항제7호에 따른 게임물의 이 용을 통하여 획득한 유·무형의 결과물",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 70.461, 60.071, 552.421, 74.863 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "다. 「전자금융거래법」 제2조제14호에 따른 선불전자지급수단 및 같은 조",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 28,
+    "page number" : 2,
+    "bounding box" : [ 84.434, 755.671, 238.431, 770.463 ],
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "제15호에 따른 전자화폐"
+  }, {
+    "type" : "list",
+    "id" : 29,
+    "level" : "3",
+    "page number" : 2,
+    "bounding box" : [ 70.461, 352.911, 552.421, 745.29 ],
+    "numbering style" : "korean letters",
+    "number of list items" : 8,
+    "previous list id" : 24,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 70.461, 705.326, 552.421, 745.29 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "라. 「주식·사채 등의 전자등록에 관한 법률」 제2조제4호에 따른 전자등 록주식등",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 70.461, 654.981, 552.421, 694.945 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "마. 「전자어음의 발행 및 유통에 관한 법률」 제2조제2호에 따른 전자어 음",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 70.461, 629.809, 347.093, 644.6 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "바. 「상법」 제862조에 따른 전자선하증권",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 70.461, 579.464, 552.421, 619.428 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "사. 「한국은행법」에 따른 한국은행(이하 “한국은행”이라 한다)이 발행 하는 전자적 형태의 화폐 및 그와 관련된 서비스",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 70.461, 554.291, 410.058, 569.083 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "아. 「전자금융거래법」제2조제16호에 따른 전자채권",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 70.461, 503.946, 552.421, 543.91 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "자. 발행하는 자가 일정한 금액이나 물품·용역의 수량을 기재하여 발행한 상품권 중 휴대폰 등 모바일기기에 저장되어 사용되는 상품권",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 70.461, 453.601, 552.421, 493.565 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "차. 당행, 은행, 농협은행, 수협은행, 한국산업은행이 한국은행의 네트워크 를 통해 전자적 형태로 취급하는 예금 및 그에 준하는 전자적 증표",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 70.461, 352.911, 552.421, 443.22 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "카. 수집을 주된 목적으로 하는 전자적 증표, 거래 당사자 간의 거래 확인 만을 목적으로 하는 전자적 증표 등 단일하게 존재하여 다른 전자적 증 표로 대체할 수 없는 전자적 증표(다만, 특정 재화나 서비스의 지급수단 으로 사용이 가능한 전자적 증표는 제외)",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 30,
+    "level" : "Subtitle",
+    "page number" : 2,
+    "bounding box" : [ 56.429, 302.566, 552.421, 342.53 ],
+    "heading level" : 4,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "2. “가상자산사업자”란 다음 가목부터 마목까지의 어느 하나에 해당하는 행위를 영업으로 하는 자를 말한다."
+  }, {
+    "type" : "list",
+    "id" : 31,
+    "level" : "3",
+    "page number" : 2,
+    "bounding box" : [ 70.461, 101.186, 552.421, 292.185 ],
+    "numbering style" : "korean letters",
+    "number of list items" : 5,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 70.461, 277.394, 301.876, 292.185 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "가. 가상자산을 매도, 매수하는 행위",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 70.461, 252.221, 375.037, 267.013 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "나. 가상자산을 다른 가상자산과 교환하는 행위",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 70.461, 151.531, 552.421, 241.84 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "다. 가상자산을 이전하는 행위 중 영업을 하기 위해 가상자산을 하나의 가 상자산주소에서 다른 가상자산주소로 전송하는 등 이용자 상호 간에, 가 상자산사업자 상호 간에 또는 이용자와 가상자산사업자 간에 가상자산 을 전송하는 행위",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 70.461, 126.359, 333.06, 141.15 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "라. 가상자산을 보관 또는 관리하는 행위",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 70.461, 101.186, 455.754, 115.978 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "마. 가목 및 나목의 행위를 중개, 알선하거나 대행하는 행위",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 32,
+    "level" : "Subtitle",
+    "page number" : 2,
+    "bounding box" : [ 56.429, 76.014, 504.743, 90.805 ],
+    "heading level" : 4,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "3. “고객”이란 금융거래를 위해 은행과 계약을 체결한 자를 말한다."
+  }, {
+    "type" : "list",
+    "id" : 33,
+    "level" : "2",
+    "page number" : 3,
+    "bounding box" : [ 56.429, 503.946, 552.422, 770.463 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 4,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 56.429, 730.499, 552.421, 770.463 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "4. “이용자”란 가상자산사업자를 통해 가상자산을 매매, 교환, 이전 또는 보관·관리하는 자를 말한다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 56.429, 654.981, 552.421, 720.118 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "5. “실명확인 입출금 계정 서비스”란 본인임이 확인된 이용자의 은행계좌 와 가상자산사업자의 동일은행 계좌 간에만 입출금을 허용하는 서비스를 말한다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 56.429, 604.636, 552.421, 644.6 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "6. “집금계좌”란 가상자산 관련 거래를 위하여 가상자산사업자가 이용자와 의 금융거래를 목적으로 금융회사등에 개설한 계좌를 말한다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 56.429, 503.946, 552.422, 594.255 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "7. 기타 이 지침에서 정의하지 않은 용어의 의미는 「특금법」, 동법 시행령 및 감독규정, 「자금세탁방지 및 공중협박자금 조달 금지에 관한 업무규 정」및 「가상자산 이용자 보호 등에 관한 법률」(이하 “「가상자산이용 자보호법」”)을 준용한다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 34,
+    "level" : "Subtitle",
+    "page number" : 3,
+    "bounding box" : [ 153.517, 451.548, 441.361, 468.363 ],
+    "heading level" : 2,
+    "font" : "�޸ո���",
+    "font size" : 15.943,
+    "text color" : "[0.0]",
+    "content" : "제2장 가상자산사업자에 대한 고객확인"
+  }, {
+    "type" : "heading",
+    "id" : 35,
+    "level" : "Subtitle",
+    "page number" : 3,
+    "bounding box" : [ 105.543, 397.607, 489.335, 414.422 ],
+    "heading level" : 2,
+    "font" : "�޸ո���",
+    "font size" : 15.943,
+    "text color" : "[0.0]",
+    "content" : "제1절 고객을 가상자산사업자로 인식하지 못한 경우"
+  }, {
+    "type" : "list",
+    "id" : 36,
+    "level" : "1",
+    "page number" : 3,
+    "bounding box" : [ 42.457, 245.029, 552.421, 360.511 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "previous list id" : 22,
+    "next list id" : 41,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 42.457, 320.547, 552.421, 360.511 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제4조(식별절차의 운영) 고객이 가상자산사업자인지 여부를 식별하기 위한 절 차를 운영하여야 한다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 42.457, 245.029, 552.421, 284.993 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제5조(식별을 위한 준수사항) ① 고객이 다음 각 호과 같은 업종에 해당하는 경우 그 고객이 가상자산사업자인지 여부의 식별에 특별히 주의하여야 한다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 37,
+    "level" : "2",
+    "page number" : 3,
+    "bounding box" : [ 56.429, 68.822, 329.822, 234.648 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 7,
+    "next list id" : 38,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 56.429, 219.857, 193.215, 234.648 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "1. 전자상거래 소매업",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 56.429, 194.684, 228.117, 209.476 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "2. 전자상거래 소매 중개업",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 56.429, 169.512, 277.17, 184.303 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "3. 응용소프트웨어 개발 및 공급업",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 56.429, 144.339, 329.822, 159.131 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "4. 컴퓨터 및 주변장치, 소프트웨어 도매업",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 56.429, 119.167, 329.822, 133.958 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "5. 컴퓨터 및 주변장치, 소프트웨어 소매업",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 56.429, 93.994, 298.158, 108.786 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "6. 시스템 소프트웨어 개발 및 공급업",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 56.429, 68.822, 200.172, 83.613 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "7. 컴퓨터 시설 관리업",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 38,
+    "level" : "2",
+    "page number" : 4,
+    "bounding box" : [ 56.429, 529.119, 354.049, 770.463 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 10,
+    "previous list id" : 37,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 56.429, 755.671, 256.182, 770.463 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "8. 컴퓨터 프로그래밍 서비스업",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 56.429, 730.499, 179.184, 745.29 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "9. 주변기기 제조업",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 56.429, 705.326, 151.239, 720.118 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "10. 통신판매업",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 56.429, 680.154, 228.116, 694.945 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "11. 기타 정보 서비스업 등",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 56.429, 654.981, 326.104, 669.773 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "12. 기타 게임 소프트웨어 개발 및 공급업",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 56.429, 629.809, 354.049, 644.6 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "13. 컴퓨터시스템 통합 자문 및 구축 서비스업",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 56.429, 604.636, 347.093, 619.428 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "14. 포털 및 기타 인터넷 정보 매개 서비스업",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 56.429, 579.464, 172.227, 594.255 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "15. 컴퓨터 제조업",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 56.429, 554.291, 158.195, 569.083 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "16. 광고 대행업",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 56.429, 529.119, 284.127, 543.91 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "17. 그 외 기타 광고 관련 서비스업",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 39,
+    "level" : "3",
+    "page number" : 4,
+    "bounding box" : [ 56.429, 252.221, 552.422, 518.738 ],
+    "numbering style" : "circled arabic numbers",
+    "number of list items" : 3,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 56.429, 478.774, 552.422, 518.738 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "② 고객이 다음 각 호의 금융거래를 하는 경우 그 고객이 가상자산사업자인 지 여부의 식별에 특별히 주의하여야 한다.",
+      "kids" : [ {
+        "type" : "list",
+        "id" : 9,
+        "level" : "2",
+        "page number" : 4,
+        "bounding box" : [ 56.429, 352.911, 552.421, 468.393 ],
+        "numbering style" : "arabic numbers",
+        "number of list items" : 4,
+        "list items" : [ {
+          "type" : "list item",
+          "page number" : 4,
+          "bounding box" : [ 56.429, 428.429, 552.421, 468.393 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "1. 법인 또는 단체 고객의 자본금 규모 대비 금융거래 규모, 횟수가 과다한 거래",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 4,
+          "bounding box" : [ 56.429, 403.256, 460.79, 418.048 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "2. 심야시간(오전 0시~오전 6시)에 금융거래가 지속적으로 발생",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 4,
+          "bounding box" : [ 56.429, 378.084, 305.115, 392.875 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "3. 단시간내에 다수의 금융거래가 발생",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 4,
+          "bounding box" : [ 56.429, 352.911, 500.97, 367.703 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "4. 기타 가상자산사업자의 식별에 필요하다고 인정되는 금융거래유형",
+          "kids" : [ ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 56.429, 302.566, 552.421, 342.53 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "③ 본 조의 식별절차를 통해 고객이 가상자산사업자임을 인식한 경우 자금 세탁 등의 위험이 높은 고객으로 분류하여 제2절에 따른 사항을 이행한다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 56.429, 252.221, 552.422, 292.185 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "④ 제9조에 따라 가상자산사업자 현황을 가상자산사업자 식별에 활용하여야 한다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 40,
+    "level" : "Subtitle",
+    "page number" : 4,
+    "bounding box" : [ 133.488, 199.824, 461.27, 216.638 ],
+    "heading level" : 2,
+    "font" : "�޸ո���",
+    "font size" : 15.943,
+    "text color" : "[0.0]",
+    "content" : "제2절 고객을 가상자산사업자로 인식한 경우"
+  }, {
+    "type" : "list",
+    "id" : 41,
+    "level" : "1",
+    "page number" : 4,
+    "bounding box" : [ 42.457, 72.418, 552.421, 162.727 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 36,
+    "next list id" : 44,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 42.457, 72.418, 552.421, 162.727 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제6조(고객확인 강화) ① 가상자산사업자로 식별한 고객에 대해서는 자금세탁 등의 위험이 높은 고객으로 분류하고, 「자금세탁방지업무 취급지침」 제49 조의4에 따른 강화된 고객확인 이외에 다음 각 호의 정보를 추가로 확인하 여야 한다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 42,
+    "level" : "2",
+    "page number" : 5,
+    "bounding box" : [ 56.429, 478.774, 552.421, 770.463 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 8,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 56.429, 755.671, 347.092, 770.463 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "1. 가상자산사업자가 제공하는 서비스의 내용",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 56.429, 730.499, 529.034, 745.29 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "2. 가상자산사업자의 실명확인 입출금 계정 서비스 이용여부 및 이용계획",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 56.429, 680.154, 552.421, 720.118 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "3. 가상자산사업자가 이용자의 생년월일, 주소, 연락처 등을 포함한 신원사항 확인 여부",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 56.429, 654.981, 521.958, 669.773 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "4. 가상자산사업가 이용자별 거래내역을 구분하여 관리하고 있는지 여부",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 56.429, 579.464, 552.421, 644.6 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "5. 가상자산사업자가 이용자를 상대로 가상자산은 법정 화폐가 아니라는 사 실과 가상자산의 내용, 매매 및 그 밖의 거래에 따르는 위험 등을 이용자 가 이해할 수 있도록 설명하고 그 의사를 확인하는지 여부",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 56.429, 529.119, 552.421, 569.083 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "6. 가상자산사업자가 가상자산거래 관련 집금을 위해 임직원 계좌 등 별도의 계좌를 운용하는지 여부",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 56.429, 503.946, 438.003, 518.738 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "7. 정부에서 발표하는 가상자산과 관련한 정책의 준수 여부",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 56.429, 478.774, 452.035, 493.565 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "8. 기타 자금세탁등의 방지를 위해 필요하다고 인정하는 사항",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 43,
+    "level" : "Subtitle",
+    "page number" : 5,
+    "bounding box" : [ 56.429, 428.429, 552.421, 468.393 ],
+    "heading level" : 4,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "② 제1항의 추가정보 확인은 가상자산사업자의 사무소 등을 방문하여 현지 실사 방법으로 실시할 수 있다."
+  }, {
+    "type" : "list",
+    "id" : 44,
+    "level" : "1",
+    "page number" : 5,
+    "bounding box" : [ 42.457, 302.566, 552.421, 392.875 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 41,
+    "next list id" : 48,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 42.457, 302.566, 552.421, 392.875 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제7조(실명확인 입출금 계정 서비스 미이용시 고객확인 강화) ① 실명확인 입 출금 계정 서비스를 이용하지 않는 가상자산사업자로 식별한 고객중 계좌를 집금계좌 용도로 사용하는 경우에 대해서는 자금세탁등을 효과적으로 방지 하기 위하여 다음 각 호의 사항을 이행하여야 한다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 45,
+    "level" : "2",
+    "page number" : 5,
+    "bounding box" : [ 56.429, 76.014, 552.421, 292.185 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 4,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 56.429, 201.876, 552.421, 292.185 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "1. 가상자산사업자의 임직원 계좌가 가상자산 관련 금융거래에 활용되는 것 으로 의심되는 경우 임직원 명의 계좌에 대해 「자금세탁방지업무 취급지 침」제23조제2항제1호에 따른 강화된 고객확인 이외에 제6조제1항 각 호 의 정보의 추가확인 및 모니터링 강화",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 56.429, 176.704, 497.731, 191.495 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "2. 「민법」 상 미성년자, 외국인 등의 가상자산 관련 금융거래 식별",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 56.429, 101.186, 552.421, 166.323 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "3. 가상자산사업자 이용자의 금융거래내역 관리를 대행하거나 실시간 관리가 가능하도록 하는 등 가상자산사업자의 가상자산 관련 금융거래내역 관리 에 편의성을 제공하는 행위 자제",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 56.429, 76.014, 452.035, 90.805 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "4. 기타 자금세탁등의 방지를 위해 필요하다고 인정되는 사항",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 46,
+    "level" : "3",
+    "page number" : 6,
+    "bounding box" : [ 56.429, 629.809, 552.481, 770.463 ],
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "② 실명확인 입출금 계정 서비스를 이용하지 않는 가상자산사업자로 식별한 고객중 계좌를 집금계좌 이외의 목적으로 사용하는 경우에 대해서는 해당 계좌에서 다음 각 호에 해당하는 거래가 발생한 경우 「특금법」 제5조의2 제1항제2호나목에 따른 금융거래 목적과 집금계좌 이외의 목적으로 사용되 는지를 입증하기 위한 서류제출을 요구하는 등 자금의 원천을 확인하고, 제1 항 각 호의 사항을 이행하여야 한다."
+  }, {
+    "type" : "list",
+    "id" : 47,
+    "level" : "2",
+    "page number" : 6,
+    "bounding box" : [ 56.429, 529.119, 552.422, 619.428 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 3,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 56.429, 604.636, 424.09, 619.428 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "1. 제5조제2항 각 호에 해당하는 금융거래가 발생한 경우",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 56.429, 554.291, 552.422, 594.255 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "2. 가상자산사업자의 가상자산거래 관련 집금계좌로부터 이체가 지속적으로 반복되는 등 이상 거래가 발생하는 경우",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 56.429, 529.119, 452.035, 543.91 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "3. 기타 자금세탁등의 방지를 위해 필요하다고 인정되는 사항",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 48,
+    "level" : "1",
+    "page number" : 6,
+    "bounding box" : [ 42.457, 68.822, 552.422, 493.565 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 3,
+    "previous list id" : 44,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 42.457, 428.429, 552.421, 493.565 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제8조(지속적인 고객확인) ① 가상자산사업자에 대해서 자금세탁등의 위험이 높은 고객으로 분류하여 6개월 이내의 주기로 제6조의 고객확인을 이행하여 야 한다.",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 12,
+        "level" : "2",
+        "page number" : 6,
+        "bounding box" : [ 56.429, 352.911, 552.421, 418.048 ],
+        "font" : "�޸ո���",
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "② 제1항에도 불구하고 가상자산사업자가 실명확인 입출금 계정 서비스를 이용하지 않는 경우 3개월 이내의 주기로 제6조 및 제7조의 고객확인을 이 행하여야 한다."
+      }, {
+        "type" : "paragraph",
+        "id" : 13,
+        "level" : "3",
+        "page number" : 6,
+        "bounding box" : [ 197.533, 300.513, 397.345, 317.328 ],
+        "font" : "�޸ո���",
+        "font size" : 15.943,
+        "text color" : "[0.0]",
+        "content" : "제3절 정보공유체계의 운영"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 42.457, 198.28, 552.421, 263.417 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제9조(정보공유체계 운영) 관련 법령이 허용하는 범위 내에서 국내외에 소재한 가상자산사업자 현황을 당행의 내부와 타 금융회사 등 간에 공유할 수 있는 체계를 운영하여야 한다.",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 14,
+        "level" : "3",
+        "page number" : 6,
+        "bounding box" : [ 193.455, 145.882, 401.303, 162.697 ],
+        "font" : "�޸ո���",
+        "font size" : 15.943,
+        "text color" : "[0.0]",
+        "content" : "제3장 의심되는 거래의 보고"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 42.457, 68.822, 552.422, 108.786 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제10조(주요 의심거래 유형) 가상자산사업자의 금융거래, 고객과 가상자산사업 자 간 금융거래가 “별표”의 어느 하나에 해당하는 경우 의심거래 여부를",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 49,
+    "page number" : 7,
+    "bounding box" : [ 56.489, 730.499, 552.422, 770.463 ],
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "판단하여 합당한 근거가 있는 경우 금융정보분석원에 그 사실을 보고하여야 한다."
+  }, {
+    "type" : "heading",
+    "id" : 50,
+    "level" : "Subtitle",
+    "page number" : 7,
+    "bounding box" : [ 42.457, 654.981, 552.421, 694.945 ],
+    "heading level" : 4,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "제11조(의심거래 보고사항) 제10조에 따라 금융정보분석원에 의심되는 거래를 보고할 때에는 다음 각 호의 사항을 포함하여야 한다."
+  }, {
+    "type" : "list",
+    "id" : 51,
+    "level" : "4",
+    "page number" : 7,
+    "bounding box" : [ 56.429, 554.291, 424.09, 644.6 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 4,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 56.429, 629.809, 263.137, 644.6 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "1. 보고대상이 된 금융거래 자료",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 56.429, 604.636, 410.058, 619.428 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "2. 보고대상 고객에 대한 「특금법」 상 고객확인 정보",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 56.429, 579.464, 312.072, 594.255 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "3. 의심되는 합당한 근거를 기록한 자료",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 56.429, 554.291, 424.09, 569.083 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "4. 기타 자금세탁등의 우려를 해소하기 위해 판단한 사항",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 52,
+    "level" : "Subtitle",
+    "page number" : 7,
+    "bounding box" : [ 42.457, 478.774, 552.421, 518.738 ],
+    "heading level" : 4,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "제12조(거래모니터링 강화) ① 가상자산과 관련한 거래에 대하여 다음 각 호와 같이 의심되는 거래 행위를 식별하기 위한 필요한 조치를 수행하여야 한다."
+  }, {
+    "type" : "list",
+    "id" : 53,
+    "level" : "4",
+    "page number" : 7,
+    "bounding box" : [ 56.429, 277.394, 552.421, 468.393 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 5,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 56.429, 428.429, 552.421, 468.393 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "1. 가상자산 관련 금융거래에 대해 기존 의심거래보고기준(Rule)에 근거한 모 니터링 강화",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 56.429, 378.084, 552.421, 418.048 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "2. 가상자산 관련 금융거래에 대해 새로운 의심거래보고기준(Rule)을 추가적 으로 수립",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 56.429, 327.739, 552.421, 367.703 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "3. 고객 중 3년 내의 기간 동안 고액현금거래보고 내역이 있는 고객과 가상 자산사업자 간 금융거래에 대한 모니터링 강화",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 56.429, 302.566, 452.035, 317.358 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "4. 가상자산 관련 금융거래에 대한 모니터링 전담인력의 지정",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 56.429, 277.394, 515.001, 292.185 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "5. 다음 각 목의 경우를 포함하여 비정상적인 거래 유형에 특별한 주의",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 54,
+    "level" : "5",
+    "page number" : 7,
+    "bounding box" : [ 70.461, 151.531, 552.421, 267.013 ],
+    "numbering style" : "korean letters",
+    "number of list items" : 4,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 70.461, 252.221, 466.067, 267.013 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "가. 고객의 금융거래금액이나 금융거래량이 지나치게 큰 경우",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 70.461, 227.049, 479.981, 241.84 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "나. 고객의 예금회전율이 예금 규모에 비해 지나치게 높은 경우",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 70.461, 201.876, 508.045, 216.668 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "다. 고객이 국외에 소재한 가상자산사업자에 해외 송금을 하는 경우",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 70.461, 151.531, 552.421, 191.495 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "라. 가상자산사업자의 가상자산 거래 관련 집금계좌로부터 이체가 지속적 으로 반복되는 경우 등",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 55,
+    "level" : "2",
+    "page number" : 7,
+    "bounding box" : [ 56.429, 101.186, 552.421, 141.15 ],
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "② 가상자산사업자가 실명확인 입출금 계정 서비스가 구축되지 않은 계좌를 통하여 금융거래를 하는 경우에는 특별한 주의를 기울여야 한다."
+  }, {
+    "type" : "heading",
+    "id" : 56,
+    "level" : "Subtitle",
+    "page number" : 8,
+    "bounding box" : [ 165.51, 753.618, 429.367, 770.433 ],
+    "heading level" : 2,
+    "font" : "�޸ո���",
+    "font size" : 15.943,
+    "text color" : "[0.0]",
+    "content" : "제4장 실명확인 입출금 계정 서비스"
+  }, {
+    "type" : "list",
+    "id" : 57,
+    "level" : "1",
+    "page number" : 8,
+    "bounding box" : [ 42.457, 198.28, 552.421, 716.522 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "next list id" : 63,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 42.457, 626.213, 552.421, 716.522 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제13조(실명확인 입출금 계정 서비스 계약(재계약 포함) 절차) ① 실명확인 입 출금 계정 서비스 업무 담당부서(이하 “담당부서”)가 가상자산사업자와 서 비스 계약을 체결하고자 할 경우에는 다음 각 호의 조치를 단계별로 수행해 야 한다.",
+      "kids" : [ {
+        "type" : "list",
+        "id" : 16,
+        "level" : "3",
+        "page number" : 8,
+        "bounding box" : [ 56.429, 374.488, 552.422, 615.832 ],
+        "numbering style" : "arabic numbers",
+        "number of list items" : 4,
+        "list items" : [ {
+          "type" : "list item",
+          "page number" : 8,
+          "bounding box" : [ 56.429, 550.695, 552.422, 615.832 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "1. 담당부서는 가상자산사업자가 제14조제1항 각 호의 요건을 충족하였는지 확인 후 자금세탁방지부에 자금세탁위험평가(이하 “위험평가”라 한다)를 의뢰",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 8,
+          "bounding box" : [ 56.429, 475.178, 552.421, 540.314 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "2. 자금세탁방지부는 제14조제1항 각 호의 요건 충족여부 확인 및 제15조에 따른 위험평가를 실시하고, 위험평과 결과를 반영한 부서 의견을 보고책임 자의 승인을 받아 담당부서에 통보",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 8,
+          "bounding box" : [ 56.429, 424.833, 552.421, 464.797 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "3. 담당부서는 위험평가 결과 등을 종합적으로 고려하여 실명확인 입출금 계 정 서비스 계약 여부를 결정",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 8,
+          "bounding box" : [ 56.429, 374.488, 552.421, 414.452 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "4. 실명확인 입출금계정 서비스를 개시(계약) 또는 존속(재계약)할 경우에는 담당부서의 그룹장 및 보고책임자의 사전승인을 받은 후 은행장에게 보고",
+          "kids" : [ ]
+        } ]
+      }, {
+        "type" : "paragraph",
+        "id" : 17,
+        "level" : "2",
+        "page number" : 8,
+        "bounding box" : [ 56.429, 298.97, 552.422, 364.107 ],
+        "font" : "�޸ո���",
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "② 자금세탁방지부는 실명확인 입출금 계정 서비스를 이용중인 가상자산사 업자에 대하여 계약 체결로부터 매 12개월 이내에서 1회 이상 위험평가를 실시한다."
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 42.457, 198.28, 552.421, 263.417 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제14조(실명확인 입출금 계정 서비스 계약 기준 등) ① 실명확인 입출금 계정 서비스를 계약할 때 가상자산사업자가 다음 각 호의 요건을 충족하는지 여 부를 확인하여야 한다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 58,
+    "level" : "3",
+    "page number" : 8,
+    "bounding box" : [ 56.429, 72.418, 552.422, 187.899 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "next list id" : 60,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 56.429, 97.59, 552.422, 187.899 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "1. 예치금(이용자로부터 가상자산의 매매, 매매의 중개, 그 밖의 영업행위와 관련하여 예치받은 금전을 말함)을 고유재산과 분리하여 「가상자산이용자 보호법」 시행령 제8조에 따라 「은행법」에 따른 은행 등 공신력 있는 기관에 예치 또는 신탁하여 관리하고 있을 것",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 56.429, 72.418, 552.421, 87.209 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "2. 「특금법」 제5조의2제1항제3호마목2)에 따른 정보보호 관리체계 인증을",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 60,
+    "level" : "3",
+    "page number" : 9,
+    "bounding box" : [ 56.429, 227.049, 552.481, 770.463 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 9,
+    "previous list id" : 58,
+    "list items" : [ {
+      "type" : "list item",
+      "id" : 59,
+      "page number" : 9,
+      "bounding box" : [ 70.402, 755.671, 133.488, 770.463 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "획득할 것",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 56.429, 579.464, 552.481, 745.29 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "3. 「범죄수익은닉의 규제 및 처벌 등에 관한 법률」, 「공중 등 협박목적 및 대량살상무기확산을 위한 자금조달행위의 금지에 관한 법률」, 「외국 환 거래법」 및 「자본시장과 금융투자업에 관한 법률」 등 대통령령으로 정하는 금융관련 법률에 따라 벌금 이상의 형을 선고받고 그 집행이 끝나 거나(집행이 끝난 것으로 보는 경우를 포함한다) 집행이 면제된 날부터 5 년이 지나지 아니한 자(가상자산사업자가 법인인 경우에는 그 대표자와 임 원을 포함한다)에 해당하지 않을 것",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 56.429, 529.119, 552.421, 569.083 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "4. 「특금법」 제7조제3항제4호에 따른 신고 또는 변경신고가 말소되고 5년 이 지나지 아니한 자에 해당하지 않을 것",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 56.429, 503.946, 340.136, 518.738 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "5. 고객별로 거래내역을 분리하여 관리할 것",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 56.429, 453.601, 552.421, 493.565 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "6. 「특금법」 제7조제1항 또는 제2항에 따른 신고 또는 변경신고 의무를 이 행하지 아니한 자에 해당하지 않을 것",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 56.429, 403.256, 552.421, 443.22 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "7. 거래내역 파악이 곤란하여 자금세탁 위험이 큰 가상자산(소위 “다크코 인”)을 취급하지 않을 것",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 56.429, 327.739, 552.421, 392.875 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "8. 해킹·전산장애 등 대통령령으로 정하는 사고에 따른 책임을 이행하기 위 하여 보험 또는 공제에 가입하거나 준비금을 적립하는 등 필요한 조치를 취하고 있을 것",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 56.429, 277.394, 552.421, 317.358 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "9. 예치금과 고유재산간 구분·관리를 상시적으로 확인할 수 있는 절차를 마 련하고 있을 것",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 56.429, 227.049, 552.421, 267.013 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "10. 그밖에 보고책임자가 별도로 정한 자금세탁 위험 항목 등에 해당하지 않 을 것",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 61,
+    "level" : "4",
+    "page number" : 9,
+    "bounding box" : [ 56.429, 76.014, 552.423, 216.668 ],
+    "numbering style" : "circled arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 56.429, 126.359, 552.423, 216.668 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "② 실명확인 입출금 계정 서비스를 계약하려는 경우에는 가상자산사업자가 자금세탁행위와 공중협박자금조달행위를 방지하기 위하여 구축한 절차 및 업무지침 등을 확인하여 가상자산사업자와의 금융거래등에 내재된 자금세탁 행위와 공중협박자금조달행위의 위험을 식별, 분석, 평가하여야 한다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 56.429, 76.014, 552.421, 115.978 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "③ 「특금법」 제7조제1항 또는 제2항에 따른 가상자산사업자의 신고 또는 변경신고가 수리된 이후에 금융거래등이 이루어질 것을 조건으로 하여 실명",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 62,
+    "page number" : 10,
+    "bounding box" : [ 56.489, 755.671, 340.072, 770.463 ],
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "확인 입출금 계정 서비스를 개시할 수 있다."
+  }, {
+    "type" : "list",
+    "id" : 63,
+    "level" : "1",
+    "page number" : 10,
+    "bounding box" : [ 42.457, 680.154, 552.421, 720.118 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 57,
+    "next list id" : 93,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 10,
+      "bounding box" : [ 42.457, 680.154, 552.421, 720.118 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제15조(가상자산사업자에 대한 위험평가) ① 제14조제2항의 위험평가는 다음 각 호의 위험요소를 고려하여야 한다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 64,
+    "level" : "3",
+    "page number" : 10,
+    "bounding box" : [ 56.429, 579.464, 552.421, 669.773 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 3,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 10,
+      "bounding box" : [ 56.429, 654.981, 481.06, 669.773 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "1. 고유위험 : 국가위험, 고객위험, 상품 및 서비스 위험, 사업위험",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 10,
+      "bounding box" : [ 56.429, 604.636, 552.421, 644.6 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "2. 통제위험 : 내부통제, 고객확인, 고객위험평가, 금융제재 준수 여부, 독립 적인 감사, 위험기반 모니터링 및 보고",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 10,
+      "bounding box" : [ 56.429, 579.464, 312.072, 594.255 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "3. 그밖에 평가시 고려하여야 하는 위험",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 65,
+    "level" : "Subtitle",
+    "page number" : 10,
+    "bounding box" : [ 56.429, 554.291, 528.97, 569.083 ],
+    "heading level" : 4,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "② 제1항의 위험평가 세부기준은 보고책임자가 따로 정하는 바에 의한다."
+  }, {
+    "type" : "list",
+    "id" : 66,
+    "level" : "4",
+    "page number" : 10,
+    "bounding box" : [ 42.457, 76.014, 552.421, 518.738 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 4,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 10,
+      "bounding box" : [ 42.457, 453.601, 552.421, 518.738 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제15조의2(추심이체 시 추가인증) 가상자산사업자의 추심지시에 따라 이용자 계좌에서 출금(이하 “추심이체”)이 발생할 경우에는 사전에 다음 각 호의 어느 하나에 해당하는 방법으로 이용자의 의사를 확인한다.",
+      "kids" : [ {
+        "type" : "list",
+        "id" : 6,
+        "level" : "3",
+        "page number" : 10,
+        "bounding box" : [ 56.429, 352.911, 552.421, 443.22 ],
+        "numbering style" : "arabic numbers",
+        "number of list items" : 3,
+        "list items" : [ {
+          "type" : "list item",
+          "page number" : 10,
+          "bounding box" : [ 56.429, 428.429, 535.991, 443.22 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "1. 「전자서명법」 제2조제8호에 따른 전자서명인증사업자의 전자서명인증",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 10,
+          "bounding box" : [ 56.429, 378.084, 552.421, 418.048 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "2. 「정보통신망 이용촉진 및 정보보호 등에 관한 법률」 제23조의3에 따른 본인확인기관에서 제공하는 본인확인",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 10,
+          "bounding box" : [ 56.429, 352.911, 305.115, 367.703 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "3. 기타 제1호 및 제2호에 준하는 방법",
+          "kids" : [ ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 10,
+      "bounding box" : [ 42.457, 227.049, 552.421, 317.358 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제15조의3(장기 미이용 실명계정의 관리) 1년 이상 입출금이 없는 이용자 계좌 에 대하여 추심이체를 제한할 수 있으며, 직접 또는 가상자산사업자를 통해 이용자에게 이를 안내한다. 다만, 이용자가 가상자산사업자를 통해 추심이체 계속동의에 대한 의사를 표시한 경우에는 그러하지 아니하다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 10,
+      "bounding box" : [ 42.457, 126.359, 552.421, 191.495 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제15조의4(실명계정 입출금 한도) 자금세탁방지 및 이용자 보호 등을 감안하여 한도계정 및 정상계정으로 구분하여 실명계정의 입출금 한도를 제한한다. 다 만, 이용자가 법인인 경우 달리 정할 수 있다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 10,
+      "bounding box" : [ 42.457, 76.014, 552.421, 90.805 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제15조의5(실명계정 거래목적등 확인) ① 이용자로부터 대면 또는 비대면 절차",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 67,
+    "page number" : 11,
+    "bounding box" : [ 56.489, 705.326, 552.421, 770.463 ],
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "를 통하여 다음 각 호의 사항을 확인한 경우 제15조의4에 따라 한도계정 방 식으로 개설된 실명계정의 입출금 한도를 정상계정 수준으로 확대할 수 있 다."
+  }, {
+    "type" : "list",
+    "id" : 68,
+    "level" : "3",
+    "page number" : 11,
+    "bounding box" : [ 56.429, 579.464, 552.421, 694.945 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 11,
+      "bounding box" : [ 56.429, 654.981, 552.421, 694.945 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "1. 거래목적 : “별지서식 1” 등을 통해 당행이 별도로 정한 기준 이상의 가상자산 매매등을 하였다는 사실",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 11,
+      "bounding box" : [ 56.429, 579.464, 552.421, 644.6 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "2. 자금원천 : 가상자산 매매등에 사용된 자금이 이용자의 소득(이자소득, 배 당소득, 사업소득, 근로소득, 연금소득, 기타소득, 퇴직소득, 양도소득) 또는 차입금이라는 사실",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 69,
+    "level" : "Subtitle",
+    "page number" : 11,
+    "bounding box" : [ 56.429, 529.119, 552.421, 569.083 ],
+    "heading level" : 4,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "② 제1항에 따른 확인에 필요한 경우 이용자에게 추가 증빙자료의 제출을 요청할 수 있다."
+  }, {
+    "type" : "heading",
+    "id" : 70,
+    "level" : "Subtitle",
+    "page number" : 11,
+    "bounding box" : [ 42.457, 453.601, 552.421, 493.565 ],
+    "heading level" : 4,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "제15조의6(이용자에 대한 강화된 고객확인) ① 실명계정의 개시를 신청하는 이 용자에 대해 강화된 고객확인을 실시한다."
+  }, {
+    "type" : "list",
+    "id" : 71,
+    "level" : "4",
+    "page number" : 11,
+    "bounding box" : [ 56.429, 302.566, 552.421, 443.22 ],
+    "numbering style" : "circled arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 11,
+      "bounding box" : [ 56.429, 378.084, 552.421, 443.22 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "② 실명계정이 개시된 이용자에 대해 강화된 고객확인을 1년마다 지속적으 로 실시한다. 다만, 고객확인 재이행 주기를 이용자 별 위험평가에 따른 위 험등급에 따라 다르게 적용할 수 있다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 11,
+      "bounding box" : [ 56.429, 302.566, 552.421, 367.703 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "③ 제1항 및 제2항에 따른 고객확인이 이용자의 자료제출 거부 등으로 이뤄 지지 않은 경우에는 실명계정의 개시 또는 실명계정을 통한 입출금을 거부 하거나 제한하고 의심거래보고를 검토한다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 72,
+    "level" : "Subtitle",
+    "page number" : 11,
+    "bounding box" : [ 42.457, 151.531, 552.422, 267.013 ],
+    "heading level" : 4,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "제15조의7(초고위험 이용자에 대한 고객확인 강화) ① 거액출금 등 별도로 정 한 기준에 해당하는 고위험 실명계정 이용자에 대해서는 강화된 고객확인시 문서적 검증을 실시한다. 다만, 문서적 검증이 곤란한 경우로서 신뢰할 수 있고 독립적인 자료·정보 등을 통하여 검증할 수 있는 경우에는 그러하지 아니하다."
+  }, {
+    "type" : "list",
+    "id" : 73,
+    "level" : "4",
+    "page number" : 11,
+    "bounding box" : [ 56.429, 101.186, 552.421, 141.15 ],
+    "numbering style" : "circled arabic numbers",
+    "number of list items" : 1,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 11,
+      "bounding box" : [ 56.429, 101.186, 552.421, 141.15 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "② 제1항에 따른 문서적 검증은 다음 각 호의 문서(다만, 제3호에 따른 문서 는 필요한 경우에 한함)를 이용자 등으로부터 제출받아 실시한다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 74,
+    "level" : "Subtitle",
+    "page number" : 11,
+    "bounding box" : [ 56.429, 76.014, 172.227, 90.805 ],
+    "heading level" : 4,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "1. “별지서식 1”"
+  }, {
+    "type" : "list",
+    "id" : 75,
+    "level" : "3",
+    "page number" : 12,
+    "bounding box" : [ 56.429, 654.981, 552.477, 770.463 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 12,
+      "bounding box" : [ 56.429, 705.326, 552.477, 770.463 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "2. 재직증명서, 근로소득원천징수영수증, 건강보험자격득실확인서, 연금증서, 개인사업자 소득금액 증명원 또는 소득세법상 소득의 존재를 증빙할 수 있는 서류",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 12,
+      "bounding box" : [ 56.429, 654.981, 552.421, 694.945 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "3. 기타 제1호 및 제2호에 준하는 것으로 이용자의 거래목적 및 자금원천 등 을 증빙할 수 있는 서류",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 76,
+    "level" : "Subtitle",
+    "page number" : 12,
+    "bounding box" : [ 56.429, 579.464, 552.421, 644.6 ],
+    "heading level" : 4,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "③ 문서제출 거부 또는 자료·정보 등의 부재로 제1항 및 제2항에 따른 검 증이 이뤄지지 않아 고객확인을 할 수 없는 경우, 실명계정의 입출금을 거부 하거나 제한하고 의심거래보고를 검토한다."
+  }, {
+    "type" : "list",
+    "id" : 77,
+    "level" : "4",
+    "page number" : 12,
+    "bounding box" : [ 42.457, 478.774, 552.422, 543.91 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 12,
+      "bounding box" : [ 42.457, 478.774, 552.422, 543.91 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제15조의8(법인 이용자에 대한 특례) ① 법인(대표자 포함) 이용자에 대한 고객 확인 시 합리적으로 접근 가능한 자료 및 정보 등을 통해 자금세탁위험에 대한 모니터링을 실시한다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 78,
+    "level" : "5",
+    "page number" : 12,
+    "bounding box" : [ 56.429, 227.049, 552.421, 468.393 ],
+    "numbering style" : "circled arabic numbers",
+    "number of list items" : 3,
+    "next list id" : 84,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 12,
+      "bounding box" : [ 56.429, 403.256, 552.421, 468.393 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "② 제15조의6제2항에도 불구하고 이용자가 법인인 경우에는 강화된 고객확 인을 연 1회 이상 실시한다. 이 경우 제1항에 따른 모니터링을 실시하여 고 위험 실명계정 이용자로 판단되는 경우에는 연 2회 이상 실시한다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 12,
+      "bounding box" : [ 56.429, 327.739, 552.421, 392.875 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "③ 법인 이용자가 실명계정에서 원화를 출금하기 전에 해당 거래의 목적 및 자금의 출처를 확인한다. 다만, 자금세탁위험이 현저히 낮은 경우에는 확인 하지 않을 수 있다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 12,
+      "bounding box" : [ 56.429, 227.049, 552.421, 317.358 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "④ 제3항에 따라 거래목적 및 자금원천 확인시 다음 각 호의 구분에 따른 문서적 검증을 실시한다. 다만, 문서적 검증이 곤란한 경우로서 신뢰할 수 있고 독립적인 자료·정보 등을 통하여 검증할 수 있는 경우에는 그러하지 아니하다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 79,
+    "level" : "Subtitle",
+    "page number" : 12,
+    "bounding box" : [ 56.429, 201.876, 453.715, 216.668 ],
+    "heading level" : 4,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "1. 비영리법인(부칙 제2조제1호에 따른 자로 한정한다)인 경우"
+  }, {
+    "type" : "list",
+    "id" : 80,
+    "level" : "6",
+    "page number" : 12,
+    "bounding box" : [ 70.461, 126.359, 552.421, 191.495 ],
+    "numbering style" : "korean letters",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 12,
+      "bounding box" : [ 70.461, 176.704, 193.216, 191.495 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "가. “별지서식 2”",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 12,
+      "bounding box" : [ 70.461, 126.359, 552.421, 166.323 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "나. 가목에 준하는 것으로서 거래목적 및 자금원천 등을 증빙할 수 있는 서류",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 81,
+    "level" : "Subtitle",
+    "page number" : 12,
+    "bounding box" : [ 56.429, 101.186, 481.779, 115.978 ],
+    "heading level" : 4,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "2. 가상자산사업자(부칙 제2조제2호에 따른 자로 한정한다)인 경우"
+  }, {
+    "type" : "list",
+    "id" : 82,
+    "level" : "6",
+    "page number" : 12,
+    "bounding box" : [ 70.461, 76.014, 193.215, 90.805 ],
+    "numbering style" : "korean letters",
+    "number of list items" : 1,
+    "next list id" : 83,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 12,
+      "bounding box" : [ 70.461, 76.014, 193.215, 90.805 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "가. “매도계획서”",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 83,
+    "level" : "6",
+    "page number" : 13,
+    "bounding box" : [ 70.461, 730.499, 552.421, 770.463 ],
+    "numbering style" : "korean letters",
+    "number of list items" : 1,
+    "previous list id" : 82,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 13,
+      "bounding box" : [ 70.461, 730.499, 552.421, 770.463 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "나. 가목에 준하는 것으로서 거래목적 및 자금원천 등을 증빙할 수 있는 서류",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 84,
+    "level" : "5",
+    "page number" : 13,
+    "bounding box" : [ 56.429, 654.981, 552.421, 720.118 ],
+    "numbering style" : "circled arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 78,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 13,
+      "bounding box" : [ 56.429, 654.981, 552.421, 720.118 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "⑤ 법인 이용자의 문서제출 거부 또는 자료·정보 등의 부재로 제3항 및 제 4항에 따른 확인 및 검증이 이루어지지 않은 경우 강화된 고객확인을 실시 하고 의심거래보고를 검토한다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 85,
+    "level" : "Subtitle",
+    "page number" : 13,
+    "bounding box" : [ 42.457, 554.291, 552.421, 619.428 ],
+    "heading level" : 4,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "제15조의9(실명계정에 대한 의심거래보고) ① 이용자 실명계정의 입출금이 명 확한 경제적·법적 목적 없이 복잡하거나 규모가 큰 경우 또는 비정상적 형 태 등에 해당하는 경우 의심거래보고 여부를 적극적으로 검토한다."
+  }, {
+    "type" : "list",
+    "id" : 86,
+    "level" : "5",
+    "page number" : 13,
+    "bounding box" : [ 56.429, 302.566, 552.421, 543.91 ],
+    "numbering style" : "circled arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 13,
+      "bounding box" : [ 56.429, 453.601, 552.421, 543.91 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "② 제1항에 따른 검토대상 판단기준에 다음 각 호의 경우를 포함시킨다. 다 만, 의심거래보고 검토대상에 대한 다른 판단기준에 해당 내용이 포함되어 있거나 자금세탁행위로 판단할 합리적 근거가 부족한 경우에는 그러하지 아 니하다.",
+      "kids" : [ {
+        "type" : "list",
+        "id" : 4,
+        "level" : "3",
+        "page number" : 13,
+        "bounding box" : [ 56.429, 327.739, 552.421, 443.22 ],
+        "numbering style" : "arabic numbers",
+        "number of list items" : 3,
+        "list items" : [ {
+          "type" : "list item",
+          "page number" : 13,
+          "bounding box" : [ 56.429, 428.429, 508.045, 443.22 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "1. 이용자 계좌로의 입금 규모가 당행이 정하는 기준을 초과하는 경우",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 13,
+          "bounding box" : [ 56.429, 378.084, 552.421, 418.048 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "2. 이용자 계좌로의 입금 규모가 이용자 계좌에서의 출금 규모에 비해 당행 이 정하는 기준·비율을 초과하는 경우",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 13,
+          "bounding box" : [ 56.429, 327.739, 552.421, 367.703 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "3. 기타 이용자 계좌의 입출금 형태가 일반적인 예금계좌의 거래형태와 상이 한 경우",
+          "kids" : [ ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 13,
+      "bounding box" : [ 56.429, 302.566, 354.105, 317.358 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "③ 제1항에 따른 검토 결과를 기록·관리한다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 87,
+    "level" : "Subtitle",
+    "page number" : 13,
+    "bounding box" : [ 42.457, 176.704, 552.421, 267.013 ],
+    "heading level" : 4,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "제15조의10(예치금) ① 매 영업일마다 가상자산사업자로부터 직전 영업일의 예 치금 일별 현황과 고유재산 잔액 현황을 전송받아 은행의 자료와 비교·확 인하는 등 모니터링(이하 “일일대사”)을 실시하고 해당 결과를 기록·관리 한다."
+  }, {
+    "type" : "list",
+    "id" : 88,
+    "level" : "5",
+    "page number" : 13,
+    "bounding box" : [ 56.429, 126.359, 552.421, 166.323 ],
+    "numbering style" : "circled arabic numbers",
+    "number of list items" : 1,
+    "next list id" : 91,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 13,
+      "bounding box" : [ 56.429, 126.359, 552.421, 166.323 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "② 월 1회 이상 가상자산사업자 사무시설을 방문하여 다음 각 호의 사항을 확인(이하 “현장실사”)하고 해당 결과를 기록·관리한다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 89,
+    "level" : "3",
+    "page number" : 13,
+    "bounding box" : [ 56.429, 76.014, 420.973, 115.978 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "next list id" : 90,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 13,
+      "bounding box" : [ 56.429, 101.186, 358.007, 115.978 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "1. 일일대사 결과와 가상자산사업자 DB의 일치",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 13,
+      "bounding box" : [ 56.429, 76.014, 420.973, 90.805 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "2. 실명계정 입출금의 가상자산사업자 DB에 실시간 반영",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 90,
+    "level" : "3",
+    "page number" : 14,
+    "bounding box" : [ 56.429, 755.671, 542.946, 770.463 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 89,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 14,
+      "bounding box" : [ 56.429, 755.671, 542.946, 770.463 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "3. 기타 가상자산사업자의 예치금 구분·관리를 확인하기 위해 필요한 사항",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 91,
+    "level" : "5",
+    "page number" : 14,
+    "bounding box" : [ 56.429, 579.464, 552.421, 745.29 ],
+    "numbering style" : "circled arabic numbers",
+    "number of list items" : 2,
+    "previous list id" : 88,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 14,
+      "bounding box" : [ 56.429, 680.154, 552.421, 745.29 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "③ 가상자산사업자에게 분기마다 신뢰할 수 있는 외부기관을 통해 예치금 구분·관리 실태를 점검(이하 “외부실사”)하고 그 결과를 제출하도록 요구 한다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 14,
+      "bounding box" : [ 56.429, 579.464, 552.421, 669.773 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "④ 제3항에 따라 제출받은 외부실사 결과와 가상자산사업자의 재무상태표(다 만, 가상자산사업자가「자본시장과 금융투자업에 관한 법률」제159조에 따른 사업보고서 제출대상법인인 경우 분기보고서) 및 제1항의 일일대사 결과를 비교·확인하고 해당 결과를 기록·관리한다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 92,
+    "level" : "Subtitle",
+    "page number" : 14,
+    "bounding box" : [ 241.429, 527.066, 353.328, 543.88 ],
+    "heading level" : 2,
+    "font" : "�޸ո���",
+    "font size" : 15.943,
+    "text color" : "[0.0]",
+    "content" : "제5장 내부통제"
+  }, {
+    "type" : "list",
+    "id" : 93,
+    "level" : "1",
+    "page number" : 14,
+    "bounding box" : [ 42.457, 122.763, 552.422, 489.969 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 3,
+    "previous list id" : 63,
+    "next list id" : 96,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 14,
+      "bounding box" : [ 42.457, 424.833, 552.422, 489.969 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제16조(이사회 등의 역할) ① 가상자산 관련 자금세탁방지를 위한 이사회, 은행 장, 감사, 준법감시인 및 보고책임자의 역할과 책임은 「자금세탁방지업무 취급규정」을 준용한다.",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 18,
+        "level" : "2",
+        "page number" : 14,
+        "bounding box" : [ 56.429, 349.315, 552.422, 414.452 ],
+        "font" : "�޸ո���",
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "② 실명확인 입출금 계정 서비스 등 자금세탁등의 위험성이 높은 가상자산 관련 금융거래를 개시 또는 존속할 경우에는 소관그룹장 및 보고책임자의 사전승인을 받은 후 은행장에게 보고하여야 한다."
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 14,
+      "bounding box" : [ 42.457, 273.798, 552.421, 313.762 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제17조(임직원 교육) 임직원에 대한 교육 및 연수에는 다음 각 호의 내용이 포 함되어야 한다.",
+      "kids" : [ {
+        "type" : "list",
+        "id" : 19,
+        "level" : "3",
+        "page number" : 14,
+        "bounding box" : [ 56.429, 198.28, 466.067, 263.417 ],
+        "numbering style" : "arabic numbers",
+        "number of list items" : 3,
+        "list items" : [ {
+          "type" : "list item",
+          "page number" : 14,
+          "bounding box" : [ 56.429, 248.625, 347.092, 263.417 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "1. 가상자산과 관련한 정부 정책의 주요 내용",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 14,
+          "bounding box" : [ 56.429, 223.453, 361.124, 238.244 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "2. 가상자산과 관련한 의심되는 거래의 유형 등",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 14,
+          "bounding box" : [ 56.429, 198.28, 466.067, 213.072 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "3. 기타 자금세탁등을 방지하기 위해 필요하다고 판단하는 사항",
+          "kids" : [ ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 14,
+      "bounding box" : [ 42.457, 122.763, 552.422, 162.727 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제18조(위험의 평가 및 관리) ① 가상자산 관련 금융거래에 대해 자금세탁등의 위험을 평가할 수 있는 절차를 수립·운영하여야 한다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 94,
+    "level" : "2",
+    "page number" : 14,
+    "bounding box" : [ 56.429, 72.418, 552.421, 112.382 ],
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "② 가상자산 관련 금융거래는 “상품 및 서비스” 위험을 고위험으로 분 류·취급하여야 한다."
+  }, {
+    "type" : "heading",
+    "id" : 95,
+    "level" : "Subtitle",
+    "page number" : 15,
+    "bounding box" : [ 217.442, 753.618, 377.316, 770.433 ],
+    "heading level" : 2,
+    "font" : "�޸ո���",
+    "font size" : 15.943,
+    "text color" : "[0.0]",
+    "content" : "제6장 거래의 거절 등"
+  }, {
+    "type" : "list",
+    "id" : 96,
+    "level" : "1",
+    "page number" : 15,
+    "bounding box" : [ 42.457, 676.558, 552.421, 716.522 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 93,
+    "next list id" : 102,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 15,
+      "bounding box" : [ 42.457, 676.558, 552.421, 716.522 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제19조(거래의 거절) ① 다음 각 호의 경우에는 특별한 사유가 없는 한 지체없 이 금융거래를 거절하거나 해당 거래를 종료하여야 한다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 97,
+    "level" : "2",
+    "page number" : 15,
+    "bounding box" : [ 56.429, 525.523, 552.421, 666.177 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 3,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 15,
+      "bounding box" : [ 56.429, 626.213, 552.421, 666.177 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "1. 고객이 신원확인 등을 위한 정보 제공을 거부하여 고객확인을 할 수 없는 경우",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 15,
+      "bounding box" : [ 56.429, 550.695, 552.421, 615.832 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "2. 고객이 가상자산사업자인 것으로 의심되는 경우로서 고객확인을 위해 제 공한 정보를 신뢰할 수 없어 사실상 정보 제공을 거부한 것과 동일시할 수 있는 경우",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 15,
+      "bounding box" : [ 56.429, 525.523, 508.045, 540.314 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "3. 가상자산사업자인 고객이 다음 각 목의 어느 하나에 해당하는 경우",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 98,
+    "level" : "3",
+    "page number" : 15,
+    "bounding box" : [ 70.461, 223.453, 552.421, 515.142 ],
+    "numbering style" : "korean letters",
+    "number of list items" : 5,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 15,
+      "bounding box" : [ 70.461, 475.178, 552.421, 515.142 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "가. 「특금법」 제7조제1항 및 제2항에 따른 신고 및 변경신고 의무를 이 행하지 아니한 사실이 확인된 경우",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 15,
+      "bounding box" : [ 70.461, 399.66, 552.421, 464.797 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "나. 「특금법」 제7조제3항제1호 또는 제2호에 따라 정보보호관리체계 인 증을 획득하지 못하였거나 실명확인 입출금 계정 서비스를 통해 금융거 래등을 하지 않은 사실이 확인된 경우",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 15,
+      "bounding box" : [ 70.461, 349.315, 552.421, 389.279 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "다. 「특금법」 제7조제3항에 따라 신고가 수리되지 아니한 사실이 확인된 경우",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 15,
+      "bounding box" : [ 70.461, 298.97, 552.421, 338.934 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "라. 「특금법」 제7조제4항에 따라 신고 또는 변경신고가 직권으로 말소된 사실이 확인된 경우",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 15,
+      "bounding box" : [ 70.461, 223.453, 552.421, 288.589 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "마. 가상자산사업자가 「공중 등 협박목적 및 대량살상무기확산을 위한 자 금조달행위의 금지에 관한 법률」제4조에 따른 금융거래등제한 대상자 와 금융거래를 한 사실이 밝혀진 경우",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 99,
+    "level" : "4",
+    "page number" : 15,
+    "bounding box" : [ 56.429, 173.108, 552.421, 213.072 ],
+    "numbering style" : "circled arabic numbers",
+    "number of list items" : 1,
+    "next list id" : 101,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 15,
+      "bounding box" : [ 56.429, 173.108, 552.421, 213.072 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "② 다음 각 호의 경우에는 지체없이 금융거래를 거절하거나 해당 거래를 종 료할 수 있다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 100,
+    "level" : "2",
+    "page number" : 15,
+    "bounding box" : [ 56.429, 72.418, 552.421, 162.727 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 15,
+      "bounding box" : [ 56.429, 97.59, 552.421, 162.727 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "1. 고객이 가상자산사업자인 경우로서 가상자산사업자의 주소, 연락처가 분 명하지 않거나 가상자산사업자의 휴업·폐업 등으로 제6조제2항에 따른 현지실사가 불가능한 경우",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 15,
+      "bounding box" : [ 56.429, 72.418, 438.003, 87.209 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "2. 기타 자금세탁등의 위험이 특별히 높다고 판단하는 경우",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 101,
+    "level" : "4",
+    "page number" : 16,
+    "bounding box" : [ 56.429, 654.981, 552.421, 770.463 ],
+    "numbering style" : "circled arabic numbers",
+    "number of list items" : 2,
+    "previous list id" : 99,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 16,
+      "bounding box" : [ 56.429, 730.499, 552.421, 770.463 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "③ 제1항 및 제2항에 따라 금융거래를 거절하거나 종료한 경우에는 금융정 보분석원에 의심거래로 보고하여야 한다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 16,
+      "bounding box" : [ 56.429, 654.981, 552.421, 720.118 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "④ 제1항 및 제2항에 따라 금융거래를 종료한 경우 신속한 홈페이지 공시, 가상자산사업자와의 가상계좌 정리방안 마련 등 가상자산사업자 이용자의 보호를 위한 조치를 수립하여야 한다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 102,
+    "level" : "1",
+    "page number" : 16,
+    "bounding box" : [ 42.457, 579.464, 552.421, 619.428 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 96,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 16,
+      "bounding box" : [ 42.457, 579.464, 552.421, 619.428 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제20조(기타) 이 지침에서 따로 정하지 않은 사항은 「자금세탁방지업무 취급 규정」 및 「자금세탁방지업무 취급지침」을 준용한다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 103,
+    "level" : "Subtitle",
+    "page number" : 16,
+    "bounding box" : [ 242.868, 503.946, 352.071, 518.738 ],
+    "heading level" : 3,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "부 칙<2018.1.30.>"
+  }, {
+    "type" : "list",
+    "id" : 104,
+    "level" : "3",
+    "page number" : 16,
+    "bounding box" : [ 42.457, 428.429, 312.128, 443.22 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "next list id" : 108,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 16,
+      "bounding box" : [ 42.457, 428.429, 312.128, 443.22 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "이 지침은 2018년 1월 30일부터 시행한다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 105,
+    "level" : "Subtitle",
+    "page number" : 16,
+    "bounding box" : [ 242.868, 352.911, 352.071, 367.703 ],
+    "heading level" : 3,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "부 칙<2018.7.10.>"
+  }, {
+    "type" : "list",
+    "id" : 106,
+    "level" : "3",
+    "page number" : 16,
+    "bounding box" : [ 42.457, 126.359, 312.128, 292.185 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 16,
+      "bounding box" : [ 42.457, 277.394, 312.128, 292.185 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "이 지침은 2018년 7월 10일부터 시행한다.",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 2,
+        "page number" : 16,
+        "bounding box" : [ 246.346, 201.876, 348.591, 216.668 ],
+        "font" : "�޸ո���",
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "부 칙<2019.4.8.>"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 16,
+      "bounding box" : [ 42.457, 126.359, 305.051, 141.15 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "이 지침은 2019년 4월 8일부터 시행한다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 107,
+    "level" : "Subtitle",
+    "page number" : 17,
+    "bounding box" : [ 242.868, 755.671, 352.071, 770.463 ],
+    "heading level" : 3,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "부 칙<2019.5.24.>"
+  }, {
+    "type" : "list",
+    "id" : 108,
+    "level" : "3",
+    "page number" : 17,
+    "bounding box" : [ 42.457, 680.154, 312.128, 694.945 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 104,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 17,
+      "bounding box" : [ 42.457, 680.154, 312.128, 694.945 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "이 지침은 2019년 5월 24일부터 시행한다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 109,
+    "level" : "Subtitle",
+    "page number" : 17,
+    "bounding box" : [ 242.868, 604.636, 352.071, 619.428 ],
+    "heading level" : 3,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "부 칙<2021.3.23.>"
+  }, {
+    "type" : "list",
+    "id" : 110,
+    "level" : "1",
+    "page number" : 17,
+    "bounding box" : [ 42.457, 352.911, 552.422, 543.91 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 17,
+      "bounding box" : [ 42.457, 529.119, 404.717, 543.91 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제1조(시행일) 이 지침은 2021년 3월 25일부터 시행한다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 17,
+      "bounding box" : [ 42.457, 352.911, 552.422, 518.738 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제2조(가상자산사업자에 대한 고객확인 적용례) 기존 영업중인 가상자산사업자 에 대한 제16조의 개정규정 적용은 이 지침 시행 후 최초로 실시되는 금융 거래등부터 한다. 다만, 기존 영업중인 가상자산사업자가 이 지침 시행일부 터 6개월 이내에 「특금법」 제7조제1항의 개정규정에 따라 신고를 하고 「특금법」 같은 조 제3항 및 제4항의 개정규정에 따라 신고가 수리되지 아 니하거나 직권으로 말소된 사실이 확인되지 아니한 경우에는 제16조 제1항 제3호가목의 개정규정은 적용하지 아니한다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 111,
+    "level" : "Subtitle",
+    "page number" : 17,
+    "bounding box" : [ 246.346, 277.394, 348.593, 292.185 ],
+    "heading level" : 3,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "부칙<2021.7.15.>"
+  }, {
+    "type" : "paragraph",
+    "id" : 112,
+    "page number" : 17,
+    "bounding box" : [ 42.457, 201.876, 312.128, 216.668 ],
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "이 세칙은 2021년 7월 15일부터 시행한다."
+  }, {
+    "type" : "heading",
+    "id" : 113,
+    "level" : "Subtitle",
+    "page number" : 17,
+    "bounding box" : [ 249.825, 126.359, 345.114, 141.15 ],
+    "heading level" : 3,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "부칙<2025.7.8.>"
+  }, {
+    "type" : "list",
+    "id" : 114,
+    "level" : "1",
+    "page number" : 18,
+    "bounding box" : [ 42.457, 654.981, 552.421, 770.463 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 18,
+      "bounding box" : [ 42.457, 730.499, 552.421, 770.463 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제1조(시행일) 이 지침은 2025년 7월 8일부터 시행한다. 다만, 제15조의8의 경 우 2025년 11월 1일부터 시행한다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 18,
+      "bounding box" : [ 42.457, 654.981, 552.421, 720.118 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제2조(법인 이용자 특례에 관한 적용례) 제15조의8의 규정은 이 지침 시행 이 후 최초로 실명계정을 거래하는 다음 각 호의 어느 하나에 해당하는 자에 대하여 적용한다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 115,
+    "level" : "Subtitle",
+    "page number" : 18,
+    "bounding box" : [ 56.429, 604.636, 552.421, 644.6 ],
+    "heading level" : 4,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "1. 가상자산을 기부받아 공익목적으로 사용하고자 하는 비영리법인으로서 다 음 각 목의 요건을 모두 충족하는 자"
+  }, {
+    "type" : "list",
+    "id" : 116,
+    "level" : "2",
+    "page number" : 18,
+    "bounding box" : [ 63.506, 378.084, 552.422, 594.255 ],
+    "numbering style" : "korean letters",
+    "number of list items" : 4,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 18,
+      "bounding box" : [ 63.506, 554.291, 552.421, 594.255 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "가. 「법인세법」 제24조제2항제1호에 따른 특례기부금 또는 제24조제3항제 1호에 따른 일반기부금을 수령할 수 있는 법인일 것",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 18,
+      "bounding box" : [ 63.506, 478.774, 552.421, 543.91 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "나. 「주식회사 등의 외부감사에 관한 법률」 제2조제7호에 따른 감사인에 게 회계감사를 받아야 하는 법인으로서, 최근 3개 사업연도의 감사의견 이 모두 “적정” 일 것",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 18,
+      "bounding box" : [ 63.506, 428.429, 552.421, 468.393 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "다. 「상속세 및 증여세법」 제50조의3에 따른 공익법인 결산서류 상 설립 일로부터 5년 이상 경과하였을 것",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 18,
+      "bounding box" : [ 63.506, 378.084, 552.422, 418.048 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "라. 최근 3년간 「국세기본법」 제85조의5제1항제2호에 따른 불성실기부금 수령단체 공개명단에 포함되지 않았을 것",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 117,
+    "level" : "Subtitle",
+    "page number" : 18,
+    "bounding box" : [ 56.429, 227.049, 552.421, 367.703 ],
+    "heading level" : 4,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "2. 「가상자산 이용자 보호 등에 관한 법률」 제2조제2호에 따라 가상자산시 장을 개설·운영하는 가상자산사업자로서 「특정 금융거래정보의 보고 및 이용 등에 관한 법률」 제7조에 따른 신고가 수리되었거나 변경·갱신심 사 중인 가상자산사업자 가운데 다음 각 목의 자. 다만, 영업을 종료하였 거나 종료할 예정인 자, 영업을 중단하였거나 중단할 예정인 자는 제외한 다."
+  }, {
+    "type" : "paragraph",
+    "id" : 118,
+    "level" : "3",
+    "page number" : 18,
+    "bounding box" : [ 63.506, 176.704, 186.14, 216.668 ],
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "가. 원화마켓거래소 나. 코인마켓거래소"
+  }, {
+    "type" : "heading",
+    "id" : 119,
+    "level" : "Subtitle",
+    "page number" : 19,
+    "bounding box" : [ 92.05, 727.262, 256.901, 742.054 ],
+    "heading level" : 4,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "[별표] 주요 의심거래 유형"
+  }, {
+    "type" : "text block",
+    "id" : 120,
+    "page number" : 19,
+    "bounding box" : [ 90.491, 91.4, 507.447, 713.999 ],
+    "kids" : [ {
+      "type" : "list",
+      "id" : 2,
+      "level" : "1",
+      "page number" : 19,
+      "bounding box" : [ 102.784, 241.793, 502.169, 706.747 ],
+      "numbering style" : "arabic numbers",
+      "number of list items" : 5,
+      "list items" : [ {
+        "type" : "list item",
+        "page number" : 19,
+        "bounding box" : [ 102.784, 624.894, 502.168, 706.747 ],
+        "font" : null,
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "1. (현금을 수반하는 금융거래) 고객이 가상자산사업자의 계좌로 송금한 금융거래 내역은 없으나, 그 고객이 해당 가상자산사 업자로부터 자금을 송금받아 그 자금을 대부분 현금으로 인 출하는 경우",
+        "kids" : [ ]
+      }, {
+        "type" : "list item",
+        "page number" : 19,
+        "bounding box" : [ 109.741, 550.096, 502.169, 610.252 ],
+        "font" : null,
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "2. (취급업소의 현금을 수반하는 금융거래) 가상자산사업자가 가상자산 금융거래와 관련된 가상자산사업자 명의의 계좌에 서 현금으로 출금하는 경우",
+        "kids" : [ ]
+      }, {
+        "type" : "list item",
+        "page number" : 19,
+        "bounding box" : [ 109.741, 453.601, 502.049, 535.454 ],
+        "font" : null,
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "3. (분산 금융거래) 고객이 다수 개인으로부터 송금받은 자금을 가상자산사업자에게 송금하고, 일정기간 후 다시 해당 가상자 산사업자로부터 송금받아 그 자금을 다수 개인들에게 송금 하는 경우",
+        "kids" : [ ]
+      }, {
+        "type" : "list item",
+        "page number" : 19,
+        "bounding box" : [ 109.741, 357.227, 502.169, 439.079 ],
+        "font" : null,
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "4. (외환 거래) 해외 송금 실적이 없으며, 컴퓨터와 같은 전산 장비 등의 수입 실적 또한 전혀 없는 다수 고객이 해외 법인 명 의의 계좌에 전산설비 수입 명목 등으로 자금을 송금하는 경우",
+        "kids" : [ ]
+      }, {
+        "type" : "list item",
+        "page number" : 19,
+        "bounding box" : [ 109.741, 241.793, 502.048, 345.342 ],
+        "font" : null,
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "5. (금융거래 액수) 고객의 1일 금융거래 금액이 10백만원 이상이 거나 7일 동안 합산한 금융거래 금액이 20백만원 이상을 거 래하는 경우 (금융거래 금액이 기준 이하인 경우에도 고객이 고객확인 사항에 근거하여 볼 때 자금세탁등의 우려가 있다고 판단되는 경우를 포함)",
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "list",
+      "id" : 3,
+      "level" : "2",
+      "page number" : 19,
+      "bounding box" : [ 102.305, 112.508, 502.109, 231.346 ],
+      "numbering style" : "unordered",
+      "number of list items" : 2,
+      "list items" : [ {
+        "type" : "list item",
+        "page number" : 19,
+        "bounding box" : [ 107.102, 175.919, 502.048, 231.346 ],
+        "font" : null,
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "* 금융거래 금액은 금융회사등을 통한 입·출금 등 금융거래 기준이며, 가상자산사업자를 통한 가상자산 매매가 아님 (가상자산사업자에 이미 입금한 돈으로 가상자산를 매매하는 것은 보고 대상이 아님)",
+        "kids" : [ ]
+      }, {
+        "type" : "list item",
+        "page number" : 19,
+        "bounding box" : [ 102.305, 112.508, 502.109, 167.936 ],
+        "font" : null,
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "** 금융회사등이 금액을 산정할 때는, 동일인 명의로 입금한 금액을 합산 하거나, 출금한 금액을 합산함 (예:500만원 입금 후 400만원 출금시 500 만원으로 산정)",
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 121,
+    "page number" : 20,
+    "bounding box" : [ 90.491, 91.4, 507.447, 736.415 ],
+    "kids" : [ {
+      "type" : "list",
+      "id" : 3,
+      "level" : "1",
+      "page number" : 20,
+      "bounding box" : [ 109.381, 362.569, 502.169, 727.005 ],
+      "numbering style" : "arabic numbers",
+      "number of list items" : 5,
+      "list items" : [ {
+        "type" : "list item",
+        "page number" : 20,
+        "bounding box" : [ 109.741, 645.152, 502.168, 727.005 ],
+        "font" : null,
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "6. (금융거래 빈도) 고객의 금융거래 횟수가 1일 5회 이상이 거나 7일 동안 7회 이상인 경우 (거래 빈도가 기준 이하인 경우에도 고객이 고객확인 사항에 근거하여 볼 때 자금세탁 등의 우려가 있다고 판단되는 경우를 포함)",
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 1,
+          "level" : "2",
+          "page number" : 20,
+          "bounding box" : [ 105.783, 582.035, 502.169, 637.462 ],
+          "font" : null,
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "* 금융회사등을 통한 입·출금 등 금융거래 기준이며, 가상자산사업자를 통한 가상자산 매매가 아님 (가상자산사업자에 이미 입금한 돈으로 가상 자산을 매매하는 것은 보고 대상이 아님)"
+        } ]
+      }, {
+        "type" : "list item",
+        "page number" : 20,
+        "bounding box" : [ 109.741, 511.618, 502.168, 571.774 ],
+        "font" : null,
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "7. (분할 금융거래) 고객이 위 금융거래 액수 및 금융거래 빈 도를 회피할 목적으로 금액을 분할하여 금융거래를 하고 있 다고 의심되는 합당한 근거가 있는 경우",
+        "kids" : [ ]
+      }, {
+        "type" : "list item",
+        "page number" : 20,
+        "bounding box" : [ 109.381, 461.393, 502.167, 499.853 ],
+        "font" : null,
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "8. (금융거래의 주체) 고객 중 법인 또는 단체가 가상자산사업 자와 가상자산 관련 금융거래를 하는 경우",
+        "kids" : [ ]
+      }, {
+        "type" : "list item",
+        "page number" : 20,
+        "bounding box" : [ 109.741, 388.512, 502.169, 448.669 ],
+        "font" : null,
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "9. (가상자산사업자의 금융거래) 가상자산사업자가 가상자산사업 자의 실제소유자, 임직원과 지속적으로 송금 등의 금융거래를 하는 경우",
+        "kids" : [ ]
+      }, {
+        "type" : "list item",
+        "page number" : 20,
+        "bounding box" : [ 109.621, 362.569, 357.887, 379.384 ],
+        "font" : null,
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "10. (기타) 다음 유형에 해당하는 경우",
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "list",
+      "id" : 4,
+      "level" : "3",
+      "page number" : 20,
+      "bounding box" : [ 114.898, 102.199, 502.167, 357.688 ],
+      "numbering style" : "arabic numbers",
+      "number of list items" : 9,
+      "list items" : [ {
+        "type" : "list item",
+        "page number" : 20,
+        "bounding box" : [ 114.898, 319.162, 502.048, 357.688 ],
+        "font" : null,
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "(1) 직업이나 연령 등 고객 프로필 대비 가상자산사업자와의 과도한 거래",
+        "kids" : [ ]
+      }, {
+        "type" : "list item",
+        "page number" : 20,
+        "bounding box" : [ 114.898, 297.466, 455.873, 314.296 ],
+        "font" : null,
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "(2) 평소 거래가 없던 고객이 가상자산사업자로 이체 송금",
+        "kids" : [ ]
+      }, {
+        "type" : "list item",
+        "page number" : 20,
+        "bounding box" : [ 114.898, 254.073, 502.048, 292.599 ],
+        "font" : null,
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "(3) 외국인의 계좌에 전자금융 등을 통해 가상자산사업자로부터 자 금이 빈번하게 입금되고, 입금된 자금을 현금 출금",
+        "kids" : [ ]
+      }, {
+        "type" : "list item",
+        "page number" : 20,
+        "bounding box" : [ 114.898, 232.377, 498.69, 249.207 ],
+        "font" : null,
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "(4) 외국인 계좌에 가상자산사업자 명의 자금 입금 후 비대면 출금",
+        "kids" : [ ]
+      }, {
+        "type" : "list item",
+        "page number" : 20,
+        "bounding box" : [ 114.898, 210.681, 459.231, 227.51 ],
+        "font" : null,
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "(5) 가상자산 관련 단기간 현금을 분할 또는 고액으로 거래",
+        "kids" : [ ]
+      }, {
+        "type" : "list item",
+        "page number" : 20,
+        "bounding box" : [ 114.898, 188.985, 405.021, 205.814 ],
+        "font" : null,
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "(6) 가상자산사업자 명의 자금의 빈번한 현금출금",
+        "kids" : [ ]
+      }, {
+        "type" : "list item",
+        "page number" : 20,
+        "bounding box" : [ 114.898, 145.592, 502.167, 184.118 ],
+        "font" : null,
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "(7) 가상자산사업자 명의 자금에 대한 빈번한 비대면 현금 입출금 거래",
+        "kids" : [ ]
+      }, {
+        "type" : "list item",
+        "page number" : 20,
+        "bounding box" : [ 114.898, 123.896, 474.103, 140.725 ],
+        "font" : null,
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "(8) 가상자산 관련 고액 입출금 거래를 현금으로 처리한 경우",
+        "kids" : [ ]
+      }, {
+        "type" : "list item",
+        "page number" : 20,
+        "bounding box" : [ 114.898, 102.199, 455.034, 119.029 ],
+        "font" : null,
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "(9) 가상자산 관련 모든 거래를 현금으로만 처리하는 경우",
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 122,
+    "page number" : 21,
+    "bounding box" : [ 90.491, 176.866, 507.447, 736.415 ],
+    "kids" : [ {
+      "type" : "list",
+      "id" : 1,
+      "level" : "1",
+      "page number" : 21,
+      "bounding box" : [ 114.898, 177.717, 502.168, 736.954 ],
+      "numbering style" : "arabic numbers",
+      "number of list items" : 17,
+      "list items" : [ {
+        "type" : "list item",
+        "page number" : 21,
+        "bounding box" : [ 114.898, 720.124, 359.685, 736.954 ],
+        "font" : null,
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "(10) 가상자산 관련 자금을 현금으로 인출",
+        "kids" : [ ]
+      }, {
+        "type" : "list item",
+        "page number" : 21,
+        "bounding box" : [ 114.898, 676.732, 502.049, 715.257 ],
+        "font" : null,
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "(11) 가상자산 판매대금을 계좌로 입금 받은 후 현금 출금하거나 또는 다수인에게 반복하여 송금",
+        "kids" : [ ]
+      }, {
+        "type" : "list item",
+        "page number" : 21,
+        "bounding box" : [ 114.898, 633.339, 502.048, 671.865 ],
+        "font" : null,
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "(12) 가상자산사업자로부터 입금된 자금을 해외 ATM을 통해 과도 한 규모로 현금 인출하는 거래",
+        "kids" : [ ]
+      }, {
+        "type" : "list item",
+        "page number" : 21,
+        "bounding box" : [ 114.898, 611.643, 486.816, 628.472 ],
+        "font" : null,
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "(13) 법인고객이 가상자산 결제사유로 빈번한 현금 입출금 거래",
+        "kids" : [ ]
+      }, {
+        "type" : "list item",
+        "page number" : 21,
+        "bounding box" : [ 114.898, 568.25, 502.168, 606.776 ],
+        "font" : null,
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "(14) 가상자산 관련 계좌에서 자금을 영수 받은 후 현금 출금 거 래",
+        "kids" : [ ]
+      }, {
+        "type" : "list item",
+        "page number" : 21,
+        "bounding box" : [ 114.898, 524.857, 502.048, 563.383 ],
+        "font" : null,
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "(15) 관계미상의 다수 개인 및 가상자산사업자로의 입출금거래가 지속 발생",
+        "kids" : [ ]
+      }, {
+        "type" : "list item",
+        "page number" : 21,
+        "bounding box" : [ 114.898, 503.161, 398.664, 519.991 ],
+        "font" : null,
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "(16) 가상자산사업자의 빈번한 소액 입출금 거래",
+        "kids" : [ ]
+      }, {
+        "type" : "list item",
+        "page number" : 21,
+        "bounding box" : [ 114.898, 481.465, 460.311, 498.295 ],
+        "font" : null,
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "(17) 계좌개설 없이 거액의 환전요구 또는 외국으로의 송금",
+        "kids" : [ ]
+      }, {
+        "type" : "list item",
+        "page number" : 21,
+        "bounding box" : [ 114.898, 438.072, 502.048, 476.598 ],
+        "font" : null,
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "(18) 국내 다수 개인들이(개별 연관성 無) 동일한 해외 소재 가상 자산 사업자(채굴업체)로 당발송금을 취결하는 경우",
+        "kids" : [ ]
+      }, {
+        "type" : "list item",
+        "page number" : 21,
+        "bounding box" : [ 114.898, 416.376, 497.371, 433.206 ],
+        "font" : null,
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "(19) 가상자산 업체 관련 다수에 대한 빈번한 비대면 입출금 거래",
+        "kids" : [ ]
+      }, {
+        "type" : "list item",
+        "page number" : 21,
+        "bounding box" : [ 114.898, 372.983, 502.048, 411.509 ],
+        "font" : null,
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "(20) 가상자산사업자로부터 다수의 소액 입금이 이뤄진 후 타행 으로 바로 이체",
+        "kids" : [ ]
+      }, {
+        "type" : "list item",
+        "page number" : 21,
+        "bounding box" : [ 114.898, 329.591, 502.048, 368.117 ],
+        "font" : null,
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "(21) 불특정 다수로부터 자금을 영수받아 가상자산 관련 계좌로 출금 거래",
+        "kids" : [ ]
+      }, {
+        "type" : "list item",
+        "page number" : 21,
+        "bounding box" : [ 114.898, 307.895, 333.18, 324.724 ],
+        "font" : null,
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "(22) 가상자산사업자의 거액 대체거래",
+        "kids" : [ ]
+      }, {
+        "type" : "list item",
+        "page number" : 21,
+        "bounding box" : [ 114.898, 264.502, 502.048, 303.028 ],
+        "font" : null,
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "(23) 대포통장으로 불법 자금을 입금받은 후 가상자산사업자의 가 상계좌로 송금",
+        "kids" : [ ]
+      }, {
+        "type" : "list item",
+        "page number" : 21,
+        "bounding box" : [ 114.898, 242.806, 409.459, 259.635 ],
+        "font" : null,
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "(24) 타인 명의 송금 등을 통한 가상자산 입금거래",
+        "kids" : [ ]
+      }, {
+        "type" : "list item",
+        "page number" : 21,
+        "bounding box" : [ 114.898, 221.109, 501.088, 237.939 ],
+        "font" : null,
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "(25) 국내 가상자산사업자와 과도하게 입출금거래가 발생하는 사례",
+        "kids" : [ ]
+      }, {
+        "type" : "list item",
+        "page number" : 21,
+        "bounding box" : [ 114.898, 177.717, 502.168, 216.243 ],
+        "font" : null,
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "(26) 가상자산사업자 명의의 계좌명을 사용하여 가상자산 투자목 적 자금유치에 활용",
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 123,
+    "level" : "4",
+    "page number" : 22,
+    "bounding box" : [ 85.034, 727.262, 385.711, 742.054 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "next list id" : 133,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 22,
+      "bounding box" : [ 85.034, 727.262, 385.711, 742.054 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "[별지서식1] 실명계정 가상자산 거래내역 확인서",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 124,
+    "level" : "Doctitle",
+    "page number" : 22,
+    "bounding box" : [ 126.531, 676.226, 468.586, 697.339 ],
+    "heading level" : 1,
+    "font" : "�޸ո���",
+    "font size" : 20.018,
+    "text color" : "[0.0]",
+    "content" : "실명계정 가상자산 거래내역 확인서1)"
+  }, {
+    "type" : "paragraph",
+    "id" : 127,
+    "level" : "5",
+    "page number" : 22,
+    "bounding box" : [ 85.034, 618.541, 506.902, 633.333 ],
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "○○○님의 가상자산 투자금 거래 내역을 아래와 같이 확인합니다."
+  }, {
+    "type" : "text block",
+    "id" : 128,
+    "page number" : 22,
+    "bounding box" : [ 87.733, 298.054, 507.927, 608.155 ],
+    "kids" : [ {
+      "type" : "caption",
+      "id" : 9,
+      "page number" : 22,
+      "bounding box" : [ 92.95, 470.742, 418.573, 581.429 ],
+      "linked content id" : 10,
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "고객명 : 은행계좌 : 조회기간 : 0000년 00월 00일 ~ 0000년 00월 00일 발급번호 :"
+    }, {
+      "type" : "table",
+      "id" : 10,
+      "level" : "1",
+      "page number" : 22,
+      "bounding box" : [ 95.709, 372.253, 500.851, 460.357 ],
+      "number of rows" : 3,
+      "number of columns" : 5,
+      "rows" : [ {
+        "type" : "table row",
+        "row number" : 1,
+        "cells" : [ {
+          "type" : "table cell",
+          "page number" : 22,
+          "bounding box" : [ 95.889, 440.398, 214.685, 460.087 ],
+          "row number" : 1,
+          "column number" : 1,
+          "row span" : 1,
+          "column span" : 1,
+          "kids" : [ {
+            "type" : "paragraph",
+            "id" : 1,
+            "page number" : 22,
+            "bounding box" : [ 128.211, 443.254, 182.181, 459.198 ],
+            "font" : "MalgunGothicBold",
+            "font size" : 11.987,
+            "text color" : "[0.0]",
+            "content" : "거래 일자"
+          } ]
+        }, {
+          "type" : "table cell",
+          "page number" : 22,
+          "bounding box" : [ 214.685, 440.398, 257.741, 460.087 ],
+          "row number" : 1,
+          "column number" : 2,
+          "row span" : 1,
+          "column span" : 1,
+          "kids" : [ {
+            "type" : "paragraph",
+            "id" : 2,
+            "page number" : 22,
+            "bounding box" : [ 221.16, 443.254, 251.144, 459.198 ],
+            "font" : "MalgunGothicBold",
+            "font size" : 11.987,
+            "text color" : "[0.0]",
+            "content" : "구 분"
+          } ]
+        }, {
+          "type" : "table cell",
+          "page number" : 22,
+          "bounding box" : [ 257.741, 440.398, 338.698, 460.087 ],
+          "row number" : 1,
+          "column number" : 3,
+          "row span" : 1,
+          "column span" : 1,
+          "kids" : [ {
+            "type" : "paragraph",
+            "id" : 3,
+            "page number" : 22,
+            "bounding box" : [ 271.173, 443.254, 325.144, 459.198 ],
+            "font" : "MalgunGothicBold",
+            "font size" : 11.987,
+            "text color" : "[0.0]",
+            "content" : "거래 내용"
+          } ]
+        }, {
+          "type" : "table cell",
+          "page number" : 22,
+          "bounding box" : [ 338.698, 440.398, 419.654, 460.087 ],
+          "row number" : 1,
+          "column number" : 4,
+          "row span" : 1,
+          "column span" : 1,
+          "kids" : [ {
+            "type" : "paragraph",
+            "id" : 4,
+            "page number" : 22,
+            "bounding box" : [ 347.092, 443.254, 411.693, 459.198 ],
+            "font" : "MalgunGothicBold",
+            "font size" : 11.987,
+            "text color" : "[0.0]",
+            "content" : "거래금액(원)"
+          } ]
+        }, {
+          "type" : "table cell",
+          "page number" : 22,
+          "bounding box" : [ 419.654, 440.398, 500.671, 460.087 ],
+          "row number" : 1,
+          "column number" : 5,
+          "row span" : 1,
+          "column span" : 1,
+          "kids" : [ {
+            "type" : "paragraph",
+            "id" : 5,
+            "page number" : 22,
+            "bounding box" : [ 425.05, 443.254, 495.767, 459.198 ],
+            "font" : "MalgunGothicBold",
+            "font size" : 11.987,
+            "text color" : "[0.0]",
+            "content" : "거래후잔액(원)"
+          } ]
+        } ]
+      }, {
+        "type" : "table row",
+        "row number" : 2,
+        "cells" : [ {
+          "type" : "table cell",
+          "page number" : 22,
+          "bounding box" : [ 95.889, 406.355, 214.685, 440.398 ],
+          "row number" : 2,
+          "column number" : 1,
+          "row span" : 1,
+          "column span" : 1,
+          "kids" : [ {
+            "type" : "paragraph",
+            "id" : 6,
+            "page number" : 22,
+            "bounding box" : [ 122.214, 407.894, 188.31, 439.06 ],
+            "font" : "Batang",
+            "font size" : 11.987,
+            "text color" : "[0.502]",
+            "content" : "YY.DD.MM. 시:분:초"
+          } ]
+        }, {
+          "type" : "table cell",
+          "page number" : 22,
+          "bounding box" : [ 214.685, 406.355, 257.741, 440.398 ],
+          "row number" : 2,
+          "column number" : 2,
+          "row span" : 1,
+          "column span" : 1,
+          "kids" : [ {
+            "type" : "paragraph",
+            "id" : 7,
+            "page number" : 22,
+            "bounding box" : [ 224.159, 416.284, 248.146, 432.227 ],
+            "font" : "MalgunGothic",
+            "font size" : 11.987,
+            "text color" : "[0.502]",
+            "content" : "매수"
+          } ]
+        }, {
+          "type" : "table cell",
+          "page number" : 22,
+          "bounding box" : [ 257.741, 406.355, 338.698, 440.398 ],
+          "row number" : 2,
+          "column number" : 3,
+          "row span" : 1,
+          "column span" : 1,
+          "kids" : [ ]
+        }, {
+          "type" : "table cell",
+          "page number" : 22,
+          "bounding box" : [ 338.698, 406.355, 419.654, 440.398 ],
+          "row number" : 2,
+          "column number" : 4,
+          "row span" : 1,
+          "column span" : 1,
+          "kids" : [ ]
+        }, {
+          "type" : "table cell",
+          "page number" : 22,
+          "bounding box" : [ 419.654, 406.355, 500.671, 440.398 ],
+          "row number" : 2,
+          "column number" : 5,
+          "row span" : 1,
+          "column span" : 1,
+          "kids" : [ ]
+        } ]
+      }, {
+        "type" : "table row",
+        "row number" : 3,
+        "cells" : [ {
+          "type" : "table cell",
+          "page number" : 22,
+          "bounding box" : [ 95.889, 372.523, 214.685, 406.355 ],
+          "row number" : 3,
+          "column number" : 1,
+          "row span" : 1,
+          "column span" : 1,
+          "kids" : [ ]
+        }, {
+          "type" : "table cell",
+          "page number" : 22,
+          "bounding box" : [ 214.685, 372.523, 257.741, 406.355 ],
+          "row number" : 3,
+          "column number" : 2,
+          "row span" : 1,
+          "column span" : 1,
+          "kids" : [ {
+            "type" : "paragraph",
+            "id" : 8,
+            "page number" : 22,
+            "bounding box" : [ 224.159, 382.361, 248.146, 398.304 ],
+            "font" : "MalgunGothic",
+            "font size" : 11.987,
+            "text color" : "[0.502]",
+            "content" : "매도"
+          } ]
+        }, {
+          "type" : "table cell",
+          "page number" : 22,
+          "bounding box" : [ 257.741, 372.523, 338.698, 406.355 ],
+          "row number" : 3,
+          "column number" : 3,
+          "row span" : 1,
+          "column span" : 1,
+          "kids" : [ ]
+        }, {
+          "type" : "table cell",
+          "page number" : 22,
+          "bounding box" : [ 338.698, 372.523, 419.654, 406.355 ],
+          "row number" : 3,
+          "column number" : 4,
+          "row span" : 1,
+          "column span" : 1,
+          "kids" : [ ]
+        }, {
+          "type" : "table cell",
+          "page number" : 22,
+          "bounding box" : [ 419.654, 372.523, 500.671, 406.355 ],
+          "row number" : 3,
+          "column number" : 5,
+          "row span" : 1,
+          "column span" : 1,
+          "kids" : [ ]
+        } ]
+      } ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 129,
+    "page number" : 22,
+    "bounding box" : [ 225.598, 222.56, 369.52, 241.524 ],
+    "font" : "�޸ո���",
+    "font size" : 17.98,
+    "text color" : "[0.0]",
+    "content" : "0000년 00월 00일"
+  }, {
+    "type" : "paragraph",
+    "id" : 130,
+    "page number" : 22,
+    "bounding box" : [ 85.034, 149.081, 501.064, 168.044 ],
+    "font" : "�޸ո���",
+    "font size" : 17.98,
+    "text color" : "[0.0]",
+    "content" : "중소기업은행 귀하 가상자산사업자명 (인)"
+  }, {
+    "type" : "list",
+    "id" : 132,
+    "level" : "6",
+    "page number" : 22,
+    "bounding box" : [ 85.034, 84.237, 509.933, 107.671 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "next list id" : 142,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 22,
+      "bounding box" : [ 85.034, 84.237, 509.933, 107.671 ],
+      "font" : "HCRBatang",
+      "font size" : 8.99,
+      "text color" : "[0.0]",
+      "content" : "1) 실명계정 가상자산 거래내역 확인서에 기재될 최소한의 내용을 기재한 예시 양식으로, 은행(자금세탁 방지부)과 협의 하에 가상자산사업자별로 추가적인 내용이 기재된 별도 양식 사용 가능",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 133,
+    "level" : "4",
+    "page number" : 23,
+    "bounding box" : [ 85.034, 727.262, 250.184, 742.054 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 123,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 23,
+      "bounding box" : [ 85.034, 727.262, 250.184, 742.054 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "[별지서식2] 기부금 내역서",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 134,
+    "level" : "Doctitle",
+    "page number" : 23,
+    "bounding box" : [ 136.486, 676.226, 458.512, 697.339 ],
+    "heading level" : 1,
+    "font" : "�޸ո���",
+    "font size" : 20.018,
+    "text color" : "[0.0]",
+    "content" : "실명계정 가상자산 거래내역 확인2)"
+  }, {
+    "type" : "paragraph",
+    "id" : 137,
+    "level" : "5",
+    "page number" : 23,
+    "bounding box" : [ 85.034, 618.541, 506.902, 633.333 ],
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "○○법인의 가상자산 기부금 수령 내역을 아래와 같이 확인합니다."
+  }, {
+    "type" : "text block",
+    "id" : 138,
+    "page number" : 23,
+    "bounding box" : [ 87.733, 286.666, 505.168, 608.155 ],
+    "kids" : [ {
+      "type" : "caption",
+      "id" : 7,
+      "page number" : 23,
+      "bounding box" : [ 92.95, 489.562, 467.507, 568.364 ],
+      "linked content id" : 8,
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "고객명 : 은행계좌 : 기부금 수령기간 : 0000년 00월 00일 ~ 0000년 00월 00일"
+    }, {
+      "type" : "table",
+      "id" : 8,
+      "level" : "1",
+      "page number" : 23,
+      "bounding box" : [ 95.709, 374.051, 500.851, 479.176 ],
+      "number of rows" : 4,
+      "number of columns" : 4,
+      "rows" : [ {
+        "type" : "table row",
+        "row number" : 1,
+        "cells" : [ {
+          "type" : "table cell",
+          "page number" : 23,
+          "bounding box" : [ 95.889, 459.218, 189.378, 478.906 ],
+          "row number" : 1,
+          "column number" : 1,
+          "row span" : 1,
+          "column span" : 1,
+          "kids" : [ {
+            "type" : "paragraph",
+            "id" : 1,
+            "page number" : 23,
+            "bounding box" : [ 115.617, 462.074, 169.588, 478.017 ],
+            "font" : "MalgunGothicBold",
+            "font size" : 11.987,
+            "text color" : "[0.0]",
+            "content" : "기부 일자"
+          } ]
+        }, {
+          "type" : "table cell",
+          "page number" : 23,
+          "bounding box" : [ 189.378, 459.218, 283.048, 478.906 ],
+          "row number" : 1,
+          "column number" : 2,
+          "row span" : 1,
+          "column span" : 1,
+          "kids" : [ {
+            "type" : "paragraph",
+            "id" : 2,
+            "page number" : 23,
+            "bounding box" : [ 212.165, 462.074, 260.139, 478.017 ],
+            "font" : "MalgunGothicBold",
+            "font size" : 11.987,
+            "text color" : "[0.0]",
+            "content" : "기부자명"
+          } ]
+        }, {
+          "type" : "table cell",
+          "page number" : 23,
+          "bounding box" : [ 283.048, 459.218, 353.81, 478.906 ],
+          "row number" : 1,
+          "column number" : 3,
+          "row span" : 1,
+          "column span" : 1,
+          "kids" : [ {
+            "type" : "paragraph",
+            "id" : 3,
+            "page number" : 23,
+            "bounding box" : [ 288.564, 462.074, 348.847, 478.017 ],
+            "font" : "MalgunGothicBold",
+            "font size" : 11.987,
+            "text color" : "[0.0]",
+            "content" : "기부금액(원)"
+          } ]
+        }, {
+          "type" : "table cell",
+          "page number" : 23,
+          "bounding box" : [ 353.81, 459.218, 500.671, 478.906 ],
+          "row number" : 1,
+          "column number" : 4,
+          "row span" : 1,
+          "column span" : 1,
+          "kids" : [ {
+            "type" : "paragraph",
+            "id" : 4,
+            "page number" : 23,
+            "bounding box" : [ 400.223, 462.074, 454.194, 478.017 ],
+            "font" : "MalgunGothicBold",
+            "font size" : 11.987,
+            "text color" : "[0.0]",
+            "content" : "기부 목적"
+          } ]
+        } ]
+      }, {
+        "type" : "table row",
+        "row number" : 2,
+        "cells" : [ {
+          "type" : "table cell",
+          "page number" : 23,
+          "bounding box" : [ 95.889, 430.929, 189.378, 459.218 ],
+          "row number" : 2,
+          "column number" : 1,
+          "row span" : 1,
+          "column span" : 1,
+          "kids" : [ {
+            "type" : "paragraph",
+            "id" : 5,
+            "page number" : 23,
+            "bounding box" : [ 109.621, 439.18, 175.597, 451.167 ],
+            "font" : "Batang",
+            "font size" : 11.987,
+            "text color" : "[0.502]",
+            "content" : "YY.DD.MM."
+          } ]
+        }, {
+          "type" : "table cell",
+          "page number" : 23,
+          "bounding box" : [ 189.378, 430.929, 283.048, 459.218 ],
+          "row number" : 2,
+          "column number" : 2,
+          "row span" : 1,
+          "column span" : 1,
+          "kids" : [ {
+            "type" : "paragraph",
+            "id" : 6,
+            "page number" : 23,
+            "bounding box" : [ 194.894, 432.599, 277.53, 458.898 ],
+            "font" : "MalgunGothic",
+            "font size" : 9.949,
+            "text color" : "[0.502]",
+            "content" : "익명으로 기재 가능 예) 홍ㅇㅇ"
+          } ]
+        }, {
+          "type" : "table cell",
+          "page number" : 23,
+          "bounding box" : [ 283.048, 430.929, 353.81, 459.218 ],
+          "row number" : 2,
+          "column number" : 3,
+          "row span" : 1,
+          "column span" : 1,
+          "kids" : [ ]
+        }, {
+          "type" : "table cell",
+          "page number" : 23,
+          "bounding box" : [ 353.81, 430.929, 500.671, 459.218 ],
+          "row number" : 2,
+          "column number" : 4,
+          "row span" : 1,
+          "column span" : 1,
+          "kids" : [ ]
+        } ]
+      }, {
+        "type" : "table row",
+        "row number" : 3,
+        "cells" : [ {
+          "type" : "table cell",
+          "page number" : 23,
+          "bounding box" : [ 95.889, 402.64, 189.378, 430.929 ],
+          "row number" : 3,
+          "column number" : 1,
+          "row span" : 1,
+          "column span" : 1,
+          "kids" : [ ]
+        }, {
+          "type" : "table cell",
+          "page number" : 23,
+          "bounding box" : [ 189.378, 402.64, 283.048, 430.929 ],
+          "row number" : 3,
+          "column number" : 2,
+          "row span" : 1,
+          "column span" : 1,
+          "kids" : [ ]
+        }, {
+          "type" : "table cell",
+          "page number" : 23,
+          "bounding box" : [ 283.048, 402.64, 353.81, 430.929 ],
+          "row number" : 3,
+          "column number" : 3,
+          "row span" : 1,
+          "column span" : 1,
+          "kids" : [ ]
+        }, {
+          "type" : "table cell",
+          "page number" : 23,
+          "bounding box" : [ 353.81, 402.64, 500.671, 430.929 ],
+          "row number" : 3,
+          "column number" : 4,
+          "row span" : 1,
+          "column span" : 1,
+          "kids" : [ ]
+        } ]
+      }, {
+        "type" : "table row",
+        "row number" : 4,
+        "cells" : [ {
+          "type" : "table cell",
+          "page number" : 23,
+          "bounding box" : [ 95.889, 374.321, 189.378, 402.64 ],
+          "row number" : 4,
+          "column number" : 1,
+          "row span" : 1,
+          "column span" : 1,
+          "kids" : [ ]
+        }, {
+          "type" : "table cell",
+          "page number" : 23,
+          "bounding box" : [ 189.378, 374.321, 283.048, 402.64 ],
+          "row number" : 4,
+          "column number" : 2,
+          "row span" : 1,
+          "column span" : 1,
+          "kids" : [ ]
+        }, {
+          "type" : "table cell",
+          "page number" : 23,
+          "bounding box" : [ 283.048, 374.321, 353.81, 402.64 ],
+          "row number" : 4,
+          "column number" : 3,
+          "row span" : 1,
+          "column span" : 1,
+          "kids" : [ ]
+        }, {
+          "type" : "table cell",
+          "page number" : 23,
+          "bounding box" : [ 353.81, 374.321, 500.671, 402.64 ],
+          "row number" : 4,
+          "column number" : 4,
+          "row span" : 1,
+          "column span" : 1,
+          "kids" : [ ]
+        } ]
+      } ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 139,
+    "page number" : 23,
+    "bounding box" : [ 225.598, 234.427, 369.52, 253.391 ],
+    "font" : "�޸ո���",
+    "font size" : 17.98,
+    "text color" : "[0.0]",
+    "content" : "0000년 00월 00일"
+  }, {
+    "type" : "paragraph",
+    "id" : 140,
+    "page number" : 23,
+    "bounding box" : [ 85.034, 160.948, 501.064, 179.911 ],
+    "font" : "�޸ո���",
+    "font size" : 17.98,
+    "text color" : "[0.0]",
+    "content" : "중소기업은행 귀하 비영리법인명 (인)"
+  }, {
+    "type" : "list",
+    "id" : 142,
+    "level" : "6",
+    "page number" : 23,
+    "bounding box" : [ 85.034, 84.237, 509.933, 107.671 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 132,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 23,
+      "bounding box" : [ 85.034, 84.237, 509.933, 107.671 ],
+      "font" : "HCRBatang",
+      "font size" : 8.99,
+      "text color" : "[0.0]",
+      "content" : "2) 기부금 내역서에 기재될 최소한의 내용을 기재한 예시 양식으로, 은행(자금세탁방지부)과 협의 하에 비영리법인별로 추가적인 내용이 기재된 별도 양식 사용 가능",
+      "kids" : [ ]
+    } ]
+  } ]
+}

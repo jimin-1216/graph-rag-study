@@ -1,0 +1,65 @@
+{
+  "collected_at": "2026-04-22",
+  "source": "https://open.law.go.kr/LSO/openApi/guideList.do",
+  "target_count": 6,
+  "targets": [
+    {
+      "slug": "spec_financial_transaction_act",
+      "kind": "law",
+      "query": "특정 금융거래정보의 보고 및 이용 등에 관한 법률",
+      "mst": "252787",
+      "law_id": "009244",
+      "search_path": "C:\\Jimin\\graph-rag-study\\data\\legal\\raw\\spec_financial_transaction_act_search.json",
+      "body_path": "C:\\Jimin\\graph-rag-study\\data\\legal\\raw\\spec_financial_transaction_act_body.json",
+      "structure_path": "C:\\Jimin\\graph-rag-study\\data\\legal\\raw\\spec_financial_transaction_act_structure.json"
+    },
+    {
+      "slug": "spec_financial_transaction_act_enforcement_decree",
+      "kind": "law",
+      "query": "특정 금융거래정보의 보고 및 이용 등에 관한 법률 시행령",
+      "mst": "281385",
+      "law_id": "009256",
+      "search_path": "C:\\Jimin\\graph-rag-study\\data\\legal\\raw\\spec_financial_transaction_act_enforcement_decree_search.json",
+      "body_path": "C:\\Jimin\\graph-rag-study\\data\\legal\\raw\\spec_financial_transaction_act_enforcement_decree_body.json",
+      "structure_path": "C:\\Jimin\\graph-rag-study\\data\\legal\\raw\\spec_financial_transaction_act_enforcement_decree_structure.json"
+    },
+    {
+      "slug": "aml_and_cft_business_rule",
+      "kind": "adm_rule",
+      "query": "자금세탁방지 및 공중협박자금조달금지에 관한 업무규정",
+      "rule_id": "2100000267264",
+      "search_path": "C:\\Jimin\\graph-rag-study\\data\\legal\\raw\\aml_and_cft_business_rule_search.json",
+      "body_path": "C:\\Jimin\\graph-rag-study\\data\\legal\\raw\\aml_and_cft_business_rule_body.json"
+    },
+    {
+      "slug": "proceeds_of_crime_act",
+      "kind": "law",
+      "query": "범죄수익은닉의 규제 및 처벌 등에 관한 법률",
+      "mst": "238751",
+      "law_id": "009245",
+      "search_path": "C:\\Jimin\\graph-rag-study\\data\\legal\\raw\\proceeds_of_crime_act_search.json",
+      "body_path": "C:\\Jimin\\graph-rag-study\\data\\legal\\raw\\proceeds_of_crime_act_body.json",
+      "structure_path": "C:\\Jimin\\graph-rag-study\\data\\legal\\raw\\proceeds_of_crime_act_structure.json"
+    },
+    {
+      "slug": "real_name_financial_transactions_act",
+      "kind": "law",
+      "query": "금융실명거래 및 비밀보장에 관한 법률",
+      "mst": "270423",
+      "law_id": "000549",
+      "search_path": "C:\\Jimin\\graph-rag-study\\data\\legal\\raw\\real_name_financial_transactions_act_search.json",
+      "body_path": "C:\\Jimin\\graph-rag-study\\data\\legal\\raw\\real_name_financial_transactions_act_body.json",
+      "structure_path": "C:\\Jimin\\graph-rag-study\\data\\legal\\raw\\real_name_financial_transactions_act_structure.json"
+    },
+    {
+      "slug": "real_name_financial_transactions_act_enforcement_decree",
+      "kind": "law",
+      "query": "금융실명거래 및 비밀보장에 관한 법률 시행령",
+      "mst": "266785",
+      "law_id": "003086",
+      "search_path": "C:\\Jimin\\graph-rag-study\\data\\legal\\raw\\real_name_financial_transactions_act_enforcement_decree_search.json",
+      "body_path": "C:\\Jimin\\graph-rag-study\\data\\legal\\raw\\real_name_financial_transactions_act_enforcement_decree_body.json",
+      "structure_path": "C:\\Jimin\\graph-rag-study\\data\\legal\\raw\\real_name_financial_transactions_act_enforcement_decree_structure.json"
+    }
+  ]
+}

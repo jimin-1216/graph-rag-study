@@ -1,0 +1,7 @@
+﻿document_id:ID(LegalDocument),slug,title,document_type,department,promulgation_date,effective_date,law_id,mst,rule_id,kind,:LABEL
+law:spec_financial_transaction_act,spec_financial_transaction_act,특정 금융거래정보의 보고 및 이용 등에 관한 법률,법률,금융위원회,20230718,20240719,009244,252787,,law,LegalDocument
+law:spec_financial_transaction_act_enforcement_decree,spec_financial_transaction_act_enforcement_decree,특정 금융거래정보의 보고 및 이용 등에 관한 법률 시행령,대통령령,금융위원회,20251230,20260102,009256,281385,,law,LegalDocument
+law:aml_and_cft_business_rule,aml_and_cft_business_rule,자금세탁방지 및 공중협박자금조달금지에 관한 업무규정,고시,금융정보분석원,20251022,20260122,,,2100000267264,adm_rule,LegalDocument
+law:proceeds_of_crime_act,proceeds_of_crime_act,범죄수익은닉의 규제 및 처벌 등에 관한 법률,법률,법무부,20220104,20220104,009245,238751,,law,LegalDocument
+law:real_name_financial_transactions_act,real_name_financial_transactions_act,금융실명거래 및 비밀보장에 관한 법률,법률,금융위원회,20250401,20250401,000549,270423,,law,LegalDocument
+law:real_name_financial_transactions_act_enforcement_decree,real_name_financial_transactions_act_enforcement_decree,금융실명거래 및 비밀보장에 관한 법률 시행령,대통령령,금융위원회,20241203,20241227,003086,266785,,law,LegalDocument

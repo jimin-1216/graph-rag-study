@@ -1,0 +1,24 @@
+[
+  {
+    "document_id": "internal:aml_policy",
+    "slug": "aml_policy",
+    "document_type": "내규",
+    "title": "자금세탁방지업무 취급규정 원문-원본",
+    "promulgation_date": "",
+    "effective_date": "",
+    "department": "",
+    "kind": "internal_rule",
+    "source_file": "자금세탁방지업무 취급규정 원문-원본.pdf"
+  },
+  {
+    "document_id": "internal:aml_guideline",
+    "slug": "aml_guideline",
+    "document_type": "내규",
+    "title": "자금세탁방지업무 취급지침 원문-원본",
+    "promulgation_date": "",
+    "effective_date": "",
+    "department": "",
+    "kind": "internal_rule",
+    "source_file": "자금세탁방지업무 취급지침 원문-원본.pdf"
+  }
+]

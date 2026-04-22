@@ -1,0 +1,827 @@
+{
+  "file name" : "RBA 자금세탁 위험평가업무 취급지침 원문-원본.pdf",
+  "number of pages" : 6,
+  "author" : null,
+  "title" : null,
+  "creation date" : "D:20260403131110+09'00'",
+  "modification date" : "D:20260403131110+09'00'",
+  "kids" : [ {
+    "type" : "heading",
+    "id" : 28,
+    "level" : "Doctitle",
+    "page number" : 1,
+    "bounding box" : [ 158.194, 753.618, 436.683, 770.433 ],
+    "heading level" : 1,
+    "font" : "�޸ո���",
+    "font size" : 15.943,
+    "text color" : "[0.0]",
+    "content" : "RBA 자금세탁 위험평가업무 취급지침"
+  }, {
+    "type" : "paragraph",
+    "id" : 34,
+    "level" : "3",
+    "page number" : 1,
+    "bounding box" : [ 390.748, 649.064, 508.764, 685.569 ],
+    "font" : "�޸ո���",
+    "font size" : 9.949,
+    "text color" : "[0.0]",
+    "content" : "2019. 4. 4. 제정 2025. 1.16. 제1차 개정 2025. 6.12. 제2차 개정"
+  }, {
+    "type" : "heading",
+    "id" : 29,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 253.423, 576.812, 341.335, 593.626 ],
+    "heading level" : 1,
+    "font" : "�޸ո���",
+    "font size" : 15.943,
+    "text color" : "[0.0]",
+    "content" : "제1장 총 칙"
+  }, {
+    "type" : "list",
+    "id" : 31,
+    "level" : "1",
+    "page number" : 1,
+    "bounding box" : [ 42.457, 323.543, 552.421, 539.715 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 3,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 42.457, 499.751, 552.421, 539.715 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제1조(목적) 이 지침은 「자금세탁방지업무 취급지침」제49조의6의 위험평가 및 효율적 관리에 관한 사항을 정하는데 그 목적이 있다.<개정 2025.6.12.>",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 42.457, 399.061, 552.421, 464.197 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제2조(적용범위) 자금세탁방지 및 공중협박자금조달금지(이하 “자금세탁방지” 라고 한다)에 대하여 관계 법령, 금융정보분석원 등이 따로 정한 경우 외에 는 이 지침에서 정하는 바에 따른다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 42.457, 323.543, 552.357, 363.507 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제3조(용어의 정의) 이 지침에서 사용하는 용어의 정의는 다음 각 호와 같다. <개정 2025.6.12.>",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 33,
+    "level" : "2",
+    "page number" : 1,
+    "bounding box" : [ 56.429, 71.818, 552.421, 313.162 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 4,
+    "next list id" : 35,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 56.429, 222.853, 552.421, 313.162 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "1. \"위험기반접근법(Risk-Based Approach, 이하 \"RBA\"라 한다)\"이란 국가, 고 객, 상품 및 서비스, 거래, 내부통제 등에 내재된 자금세탁 및 공중협박자 금조달위험(이하 \"자금세탁위험\"이라 한다)을 식별·분석·평가하여 위험 도에 따라 관리 수준을 차등화하는 방식을 말한다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 56.429, 172.508, 552.421, 212.473 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "2. “RBA 자금세탁 위험평가체계”란 자금세탁위험을 식별·분석·평가하 고, 자금세탁 고위험을 관리·통제하는 업무체계를 말한다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 56.429, 122.163, 552.421, 162.128 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "3. \"위험요인\"이란 국가, 고객, 상품 및 서비스, 거래, 내부통제 등으로 분류 하여 식별한 자금세탁위험을 말한다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 56.429, 71.818, 552.421, 111.783 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "4. “취약점”이란 업무절차, 조직 및 업무환경, 직원, 정보시스템 등으로 분 류한 내부통제 측면의 위험을 말한다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 35,
+    "level" : "2",
+    "page number" : 2,
+    "bounding box" : [ 56.429, 579.464, 552.421, 770.463 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 3,
+    "previous list id" : 33,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 56.429, 730.499, 552.421, 770.463 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "5. “잔여위험”이란 자금세탁위험에서 내부통제를 통해 관리되는 위험을 차 감한 순위험을 말한다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 56.429, 680.154, 552.421, 720.118 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "6. “의심거래 룰”이란 거래모니터링을 위해 설계된 자금세탁의심거래 유형 을 말한다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 56.429, 579.464, 552.421, 669.773 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "7. 이 지침에서 정하지 않은 용어는 「특정 금융거래정보의 보고 및 이용 등 에 관한 법률」 및 동법 시행령, 금융정보분석원의 「자금세탁방지 및 공 중협박자금조달금지에 관한 업무규정」, 「AML/CFT 관련 위혐평가 및 위 험기반접근법 처리 기준」 등에서 정하는 바에 따른다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 37,
+    "level" : "Subtitle",
+    "page number" : 2,
+    "bounding box" : [ 42.457, 503.946, 552.422, 543.91 ],
+    "heading level" : 3,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "제4조(설계 및 운영 등) ① RBA 자금세탁 위험평가체계는 AML보고책임자가 설계·운영한다.<개정 2025.1.16., 2025.6.12.>"
+  }, {
+    "type" : "list",
+    "id" : 39,
+    "level" : "3",
+    "page number" : 2,
+    "bounding box" : [ 56.429, 428.429, 552.422, 493.565 ],
+    "numbering style" : "circled arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 56.429, 453.601, 552.422, 493.565 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "② RBA 자금세탁 위험평가체계를 운영·관리하는 전담부서는 자금세탁방지 부로 한다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 56.429, 428.429, 527.771, 443.22 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "③ 본부부서는 RBA 자금세탁 위험평가체계에 따라 소관업무를 운영한다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 40,
+    "level" : "4",
+    "page number" : 2,
+    "bounding box" : [ 221.52, 376.031, 373.358, 392.845 ],
+    "font" : "�޸ո���",
+    "font size" : 15.943,
+    "text color" : "[0.0]",
+    "content" : "제2장 위험평가 절차"
+  }, {
+    "type" : "heading",
+    "id" : 41,
+    "level" : "Subtitle",
+    "page number" : 2,
+    "bounding box" : [ 42.457, 298.97, 552.421, 338.934 ],
+    "heading level" : 3,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "제5조(위험식별) ① 자금세탁위험을 초래할 우려가 있는 위험요인과 취약점을 파악한다."
+  }, {
+    "type" : "heading",
+    "id" : 43,
+    "level" : "Subtitle",
+    "page number" : 2,
+    "bounding box" : [ 56.429, 273.798, 505.226, 288.589 ],
+    "heading level" : 3,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "② 제1항의 위험요인은 다음 각 호와 같이 분류한다.<개정 2025.6.12.>"
+  }, {
+    "type" : "list",
+    "id" : 44,
+    "level" : "2",
+    "page number" : 2,
+    "bounding box" : [ 56.429, 72.418, 552.421, 263.417 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 4,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 56.429, 223.453, 552.421, 263.417 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "1. 국가위험 : 자금세탁방지제도와 금융거래 환경이 취약한 국가와의 금융거 래에서 발생할 수 있는 위험",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 56.429, 173.108, 552.421, 213.072 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "2. 고객위험 : 고객의 특성에 따라 다양하게 발생하는 자금세탁행위등의 위 험",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 56.429, 122.763, 552.421, 162.727 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "3. 상품 및 서비스위험 : 고객에게 제공하는 상품 및 서비스에 따라 다양하 게 발생하는 자금세탁행위등의 위험",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 56.429, 72.418, 552.421, 112.382 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "4. 채널위험 : 고객과 상품 또는 서비스를 연결하는 채널유형에 따라 발생할 수 있는 위험",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 45,
+    "level" : "Subtitle",
+    "page number" : 3,
+    "bounding box" : [ 56.429, 755.671, 382.05, 770.463 ],
+    "heading level" : 3,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "③ 제1항의 취약점은 다음 각 호와 같이 분류한다."
+  }, {
+    "type" : "list",
+    "id" : 46,
+    "level" : "2",
+    "page number" : 3,
+    "bounding box" : [ 56.429, 604.636, 552.421, 745.29 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 4,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 56.429, 730.499, 525.795, 745.29 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "1. 업무절차 : 자금세탁방지업무 처리절차로 인해 발생할 수 있는 취약점",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 56.429, 680.154, 552.421, 720.118 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "2. 조직 및 업무환경 : 자금세탁방지의무 이행에 부정적 영향을 미치는 조직 구성 및 문화 등으로 발생할 수 있는 취약점",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 56.429, 654.981, 448.797, 669.773 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "3. 직원 : 직원의 부주의 또는 고의로 발생할 수 있는 취약점",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 56.429, 604.636, 508.524, 644.6 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "4. 정보시스템 : 자금세탁방지를 지원하는 전산시스템의 부재, 오류 및 미흡 등으로 발생할 수 있는 취약점",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 47,
+    "level" : "1",
+    "page number" : 3,
+    "bounding box" : [ 42.457, 126.359, 552.421, 569.083 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 4,
+    "next list id" : 50,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 42.457, 529.119, 552.421, 569.083 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제6조(위험분석) ① 자금세탁 위험요인은 빈도, 영향의 크기 등을 기준으로 분 석한다.",
+      "kids" : [ {
+        "type" : "list",
+        "id" : 16,
+        "level" : "2",
+        "page number" : 3,
+        "bounding box" : [ 56.429, 453.601, 552.421, 518.738 ],
+        "numbering style" : "circled arabic numbers",
+        "number of list items" : 2,
+        "list items" : [ {
+          "type" : "list item",
+          "page number" : 3,
+          "bounding box" : [ 56.429, 503.946, 472.96, 518.738 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "② 취약점은 내부통제의 설계와 운영 등으로 구분하여 분석한다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 3,
+          "bounding box" : [ 56.429, 453.601, 552.421, 493.565 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "③ 위험요인과 취약점으로 구분하기 곤란한 경우에는 별도의 방법으로 분석 할 수 있다.",
+          "kids" : [ ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 42.457, 378.084, 552.421, 418.048 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제7조(위험평가) ① 위험평가는 자금세탁위험에서 내부통제 수준을 차감하여 잔여위험을 산출한다.",
+      "kids" : [ {
+        "type" : "list",
+        "id" : 17,
+        "level" : "2",
+        "page number" : 3,
+        "bounding box" : [ 56.429, 302.566, 552.421, 367.703 ],
+        "numbering style" : "circled arabic numbers",
+        "number of list items" : 2,
+        "list items" : [ {
+          "type" : "list item",
+          "page number" : 3,
+          "bounding box" : [ 56.429, 327.739, 552.421, 367.703 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "② 위험의 특성상 제1항의 방법으로 평가하기 곤란한 경우에는 별도의 방법 으로 평가할 수 있다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 3,
+          "bounding box" : [ 56.429, 302.566, 375.093, 317.358 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "③ 위험평가는 연 1회 이상 주기적으로 실시한다.",
+          "kids" : [ ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 42.457, 201.876, 552.421, 267.013 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제8조(경영진 보고) 전행 차원의 RBA 자금세탁 위험평가체계 운영현황은 은행 장에게 보고한다. 다만, RBA 자금세탁 위험평가체계의 취약점에 관한 사항 은 은행장이 이사회에 보고한다.<개정 2025.6.12.>",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 42.457, 126.359, 552.421, 166.323 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제9조(보고서 제출) ① 전행 차원의 RBA 자금세탁위험평가 관련 보고서는 금 융정보분석원에 제출할 수 있다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 48,
+    "level" : "3",
+    "page number" : 3,
+    "bounding box" : [ 56.429, 76.014, 552.421, 115.978 ],
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "② 제1항 보고서의 내용, 제출 주기, 제출 방법 등은 금융정보분석원이 정하 는 바에 따른다."
+  }, {
+    "type" : "heading",
+    "id" : 49,
+    "level" : "Doctitle",
+    "page number" : 4,
+    "bounding box" : [ 221.52, 753.618, 373.358, 770.433 ],
+    "heading level" : 1,
+    "font" : "�޸ո���",
+    "font size" : 15.943,
+    "text color" : "[0.0]",
+    "content" : "제3장 위험지표 관리"
+  }, {
+    "type" : "list",
+    "id" : 50,
+    "level" : "1",
+    "page number" : 4,
+    "bounding box" : [ 42.457, 68.822, 552.477, 716.522 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 4,
+    "previous list id" : 47,
+    "next list id" : 54,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 42.457, 676.558, 552.422, 716.522 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제10조(위험지표) ① 위험지표는 「AML/CFT 관련 위험평가 및 위험기반접근법 처리 기준」에서 정한 고유위험 지표 및 운영위험 지표를 말한다.",
+      "kids" : [ {
+        "type" : "list",
+        "id" : 22,
+        "level" : "2",
+        "page number" : 4,
+        "bounding box" : [ 56.429, 500.35, 484.238, 666.177 ],
+        "numbering style" : "circled arabic numbers",
+        "number of list items" : 2,
+        "list items" : [ {
+          "type" : "list item",
+          "page number" : 4,
+          "bounding box" : [ 56.429, 651.385, 484.238, 666.177 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "② 고유위험 지표는 다음 각 호와 같이 분류한다.<개정 2025.6.12.>",
+          "kids" : [ {
+            "type" : "list",
+            "id" : 6,
+            "level" : "3",
+            "page number" : 4,
+            "bounding box" : [ 56.429, 525.523, 235.193, 641.004 ],
+            "numbering style" : "arabic numbers",
+            "number of list items" : 5,
+            "list items" : [ {
+              "type" : "list item",
+              "page number" : 4,
+              "bounding box" : [ 56.429, 626.213, 165.151, 641.004 ],
+              "font" : "�޸ո���",
+              "font size" : 14.025,
+              "text color" : "[0.0]",
+              "content" : "1. 국가 위험요인",
+              "kids" : [ ]
+            }, {
+              "type" : "list item",
+              "page number" : 4,
+              "bounding box" : [ 56.429, 601.04, 165.151, 615.832 ],
+              "font" : "�޸ո���",
+              "font size" : 14.025,
+              "text color" : "[0.0]",
+              "content" : "2. 고객 위험요인",
+              "kids" : [ ]
+            }, {
+              "type" : "list item",
+              "page number" : 4,
+              "bounding box" : [ 56.429, 575.868, 235.193, 590.659 ],
+              "font" : "�޸ո���",
+              "font size" : 14.025,
+              "text color" : "[0.0]",
+              "content" : "3. 상품 및 서비스 위험요인",
+              "kids" : [ ]
+            }, {
+              "type" : "list item",
+              "page number" : 4,
+              "bounding box" : [ 56.429, 550.695, 165.151, 565.487 ],
+              "font" : "�޸ո���",
+              "font size" : 14.025,
+              "text color" : "[0.0]",
+              "content" : "4. 거래 위험요인",
+              "kids" : [ ]
+            }, {
+              "type" : "list item",
+              "page number" : 4,
+              "bounding box" : [ 56.429, 525.523, 193.216, 540.314 ],
+              "font" : "�޸ո���",
+              "font size" : 14.025,
+              "text color" : "[0.0]",
+              "content" : "5. 내부통제 위험요인",
+              "kids" : [ ]
+            } ]
+          } ]
+        }, {
+          "type" : "list item",
+          "page number" : 4,
+          "bounding box" : [ 56.429, 500.35, 375.093, 515.142 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "③ 운영위험 지표는 다음 각 호와 같이 분류한다.",
+          "kids" : [ ]
+        } ]
+      }, {
+        "type" : "list",
+        "id" : 23,
+        "level" : "3",
+        "page number" : 4,
+        "bounding box" : [ 56.429, 374.488, 214.205, 489.969 ],
+        "numbering style" : "arabic numbers",
+        "number of list items" : 5,
+        "list items" : [ {
+          "type" : "list item",
+          "page number" : 4,
+          "bounding box" : [ 56.429, 475.178, 165.151, 489.969 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "1. 전사통제 정책",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 4,
+          "bounding box" : [ 56.429, 450.005, 130.25, 464.797 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "2. 내부통제",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 4,
+          "bounding box" : [ 56.429, 424.833, 130.25, 439.624 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "3. 고객확인",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 4,
+          "bounding box" : [ 56.429, 399.66, 130.25, 414.452 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "4. 위험관리",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 4,
+          "bounding box" : [ 56.429, 374.488, 214.205, 389.279 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "5. 모니터링 및 보고관리",
+          "kids" : [ ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 42.457, 298.97, 552.421, 338.934 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제11조(위험지표 관리) ① 본부부서는 소관업무에 관한 위험지표 현황자료를 작성·관리한다.",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 24,
+        "level" : "4",
+        "page number" : 4,
+        "bounding box" : [ 56.429, 248.625, 552.421, 288.589 ],
+        "font" : "�޸ո���",
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "② 전담부서는 위험지표 현황자료를 집계하며, 본부부서와 협력하여 위험지 표를 개선한다."
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 42.457, 173.108, 552.477, 213.072 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제12조(위험지표 현황보고) 위험지표 현황은 금융정보분석원이 정한 보고주기, 보고방법 등에 따라 금융정보분석원에 보고한다.",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 25,
+        "level" : "5",
+        "page number" : 4,
+        "bounding box" : [ 237.471, 120.71, 357.406, 137.524 ],
+        "font" : "�޸ո���",
+        "font size" : 15.943,
+        "text color" : "[0.0]",
+        "content" : "제4장 위험 개선"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 42.457, 68.822, 552.421, 83.613 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제13조(개선계획 수립) ① 전담부서는 본부부서와 협력하여 자금세탁위험 완화",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 51,
+    "page number" : 5,
+    "bounding box" : [ 56.489, 755.671, 312.128, 770.463 ],
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "에 필요한 개선계획을 마련하여야 한다."
+  }, {
+    "type" : "heading",
+    "id" : 52,
+    "level" : "Subtitle",
+    "page number" : 5,
+    "bounding box" : [ 56.429, 730.499, 409.995, 745.29 ],
+    "heading level" : 3,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "② 제1항의 개선계획은 다음 각 호를 포함하여야 한다."
+  }, {
+    "type" : "list",
+    "id" : 53,
+    "level" : "3",
+    "page number" : 5,
+    "bounding box" : [ 56.429, 654.981, 280.888, 720.118 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 3,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 56.429, 705.326, 263.137, 720.118 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "1. 업무절차 및 정보시스템 개선",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 56.429, 680.154, 280.888, 694.945 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "2. 교육 및 연수, 의심거래 룰 반영",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 56.429, 654.981, 161.912, 669.773 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "3. 조직, 인력 등",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 54,
+    "level" : "1",
+    "page number" : 5,
+    "bounding box" : [ 42.457, 349.315, 552.421, 619.428 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 3,
+    "previous list id" : 50,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 42.457, 579.464, 552.421, 619.428 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제14조(개선계획 이행) ① 본부부서는 미흡 부분에 대한 업무절차 개선 등 개 선계획을 이행하여야 한다.",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 26,
+        "level" : "3",
+        "page number" : 5,
+        "bounding box" : [ 56.429, 554.291, 493.949, 569.083 ],
+        "font" : "�޸ո���",
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "② 전담부서는 본부부서의 개선계획 이행을 점검·관리하여야 한다."
+      }, {
+        "type" : "paragraph",
+        "id" : 27,
+        "level" : "4",
+        "page number" : 5,
+        "bounding box" : [ 209.526, 501.893, 385.351, 518.708 ],
+        "font" : "�޸ո���",
+        "font size" : 15.943,
+        "text color" : "[0.0]",
+        "content" : "제5장 교육 및 자료보존"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 42.457, 424.833, 552.421, 464.797 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제15조(직원교육) 전담부서는 자금세탁위험의 식별·분석·평가 등에 필요한 임직원 교육을 실시하여야 한다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 42.457, 349.315, 552.421, 389.279 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제16조(자료보존) RBA 자금세탁 위험평가업무와 관련된 자료는 5년 이상 보존 하여야 한다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 55,
+    "level" : "Subtitle",
+    "page number" : 5,
+    "bounding box" : [ 246.346, 273.798, 348.591, 288.589 ],
+    "heading level" : 2,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "부 칙<2019.4.4.>"
+  }, {
+    "type" : "paragraph",
+    "id" : 56,
+    "page number" : 5,
+    "bounding box" : [ 42.457, 198.28, 305.051, 213.072 ],
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "이 지침은 2019년 4월 4일부터 시행한다."
+  }, {
+    "type" : "heading",
+    "id" : 57,
+    "level" : "Subtitle",
+    "page number" : 5,
+    "bounding box" : [ 242.868, 122.763, 352.071, 137.554 ],
+    "heading level" : 2,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "부 칙<2025.1.16.>"
+  }, {
+    "type" : "paragraph",
+    "id" : 58,
+    "page number" : 6,
+    "bounding box" : [ 42.457, 730.499, 552.421, 770.463 ],
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "이 지침은 2025년 1월 16일부터 시행한다. (2025년 상반기 직제규정 개정에 따 른 일괄개정)"
+  }, {
+    "type" : "heading",
+    "id" : 59,
+    "level" : "Subtitle",
+    "page number" : 6,
+    "bounding box" : [ 246.346, 654.981, 348.593, 669.773 ],
+    "heading level" : 2,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "부칙<2025.6.12.>"
+  }, {
+    "type" : "paragraph",
+    "id" : 60,
+    "page number" : 6,
+    "bounding box" : [ 42.457, 579.464, 312.128, 594.255 ],
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "이 지침은 2025년 6월 12일부터 시행한다."
+  } ]
+}

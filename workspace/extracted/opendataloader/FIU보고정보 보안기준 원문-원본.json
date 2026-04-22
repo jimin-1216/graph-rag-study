@@ -1,0 +1,2374 @@
+{
+  "file name" : "FIU보고정보 보안기준 원문-원본.pdf",
+  "number of pages" : 11,
+  "author" : null,
+  "title" : null,
+  "creation date" : "D:20260403131030+09'00'",
+  "modification date" : "D:20260403131030+09'00'",
+  "kids" : [ {
+    "type" : "heading",
+    "id" : 20,
+    "level" : "Doctitle",
+    "page number" : 1,
+    "bounding box" : [ 217.442, 753.618, 377.435, 770.433 ],
+    "heading level" : 1,
+    "font" : "�޸ո���",
+    "font size" : 15.943,
+    "text color" : "[0.0]",
+    "content" : "FIU보고정보 보안기준"
+  }, {
+    "type" : "list",
+    "id" : 24,
+    "level" : "3",
+    "page number" : 1,
+    "bounding box" : [ 375.876, 649.664, 486.097, 673.223 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 375.876, 662.73, 486.097, 673.223 ],
+      "font" : "�޸ո���",
+      "font size" : 9.949,
+      "text color" : "[0.0]",
+      "content" : "2017. 8.31 제정",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 375.876, 649.664, 486.097, 660.157 ],
+      "font" : "�޸ո���",
+      "font size" : 9.949,
+      "text color" : "[0.0]",
+      "content" : "2018. 5.14 제1차 개정",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 25,
+    "level" : "4",
+    "page number" : 1,
+    "bounding box" : [ 373.238, 623.772, 486.097, 647.211 ],
+    "font" : "�޸ո���",
+    "font size" : 9.949,
+    "text color" : "[0.0]",
+    "content" : "2025. 1.16 제2차 개정 2025. 6.12. 제3차 개정"
+  }, {
+    "type" : "heading",
+    "id" : 21,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 257.5, 555.715, 337.377, 572.529 ],
+    "heading level" : 1,
+    "font" : "�޸ո���",
+    "font size" : 15.943,
+    "text color" : "[0.0]",
+    "content" : "제1장 총칙"
+  }, {
+    "type" : "list",
+    "id" : 22,
+    "level" : "1",
+    "page number" : 1,
+    "bounding box" : [ 42.457, 327.619, 552.421, 518.618 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 3,
+    "next list id" : 27,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 42.457, 478.654, 552.421, 518.618 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제1조(목적) 이 기준은 자금세탁방지·테러자금조달금지 관련 FIU보고정보의 안정성을 확보하기 위한 보안업무에 필요한 사항을 정함을 목적으로 한다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 42.457, 377.964, 552.421, 443.1 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제2조(적용범위) 자금세탁방지·테러자금조달금지 의무를 이행하기 위하여 수 집한 FIU보고정보의 보안업무와 관련하여 금융정보분석원(FIU) 및 감독기관 등이 따로 정한 사항을 제외하고는 이 기준에서 정하는 바에 따른다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 42.457, 327.619, 474.759, 342.411 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제3조(용어정의) 이 기준에서 사용하는 용어의 정의는 다음과 같다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 23,
+    "level" : "2",
+    "page number" : 1,
+    "bounding box" : [ 56.429, 75.894, 552.444, 317.238 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 3,
+    "next list id" : 26,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 56.429, 201.756, 552.423, 317.238 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "1. “FIU보고정보(이하 ‘보고정보’라고 함)”란 은행이 「특정금융거래정보 의 보고 및 이용 등에 관한 법률」제4조(의심거래보고), 제4조의2(고액현금 거래보고), 제5조의2(고객확인의무), 제5조의3(전신송금), 제10조제3항(의심 스러운 외국환 거래)의 업무를 위해 처리·저장·검색·보고 등을 위해 수 집한 정보를 말한다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 56.429, 126.239, 552.444, 191.376 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "2. “AML시스템”이란 AML/CFT(Anti Money Laundering/Combating the Financing of Terrorism) 업무를 위해 요구되는 정보를 수집·처리·저장· 검색·통신 등을 위해 제공하는 기술과 자원의 집합체를 말한다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 56.429, 75.894, 552.421, 115.858 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "3. “AML시스템 관리자”란 AML시스템과 관련한 IT 개발 및 운영, 유지 보 수를 담당하는 전산담당직원 중 선임자를 말한다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 26,
+    "level" : "2",
+    "page number" : 2,
+    "bounding box" : [ 56.429, 629.809, 552.421, 770.463 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "previous list id" : 23,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 56.429, 680.154, 552.421, 770.463 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "4. “정보보안”이란 컴퓨터 또는 정보처리능력을 가진 장치를 이용하여 수 집·가공·저장·검색·송신 또는 수신되는 정보의 유출·위변조·훼손 등을 방지하기 위하여 기술적·물리적·관리적 수단을 강구하는 일체의 행위를 말하며 사이버 안전을 포함한다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 56.429, 629.809, 552.421, 669.773 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "5. 이 기준에서 사용하는 용어는 특별히 정한 경우 외에는 「IT보안업무지 침」 및「자금세탁방지업무 취급규정」에서 정한 바에 따른다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 27,
+    "level" : "1",
+    "page number" : 2,
+    "bounding box" : [ 42.457, 72.418, 552.423, 594.255 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 4,
+    "previous list id" : 22,
+    "next list id" : 30,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 42.457, 554.291, 552.421, 594.255 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제4조(보안준수 의무) AML시스템을 사용하는 모든 임직원은 보고정보의 보안 을 준수하여야 한다.",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 8,
+        "level" : "3",
+        "page number" : 2,
+        "bounding box" : [ 205.449, 501.893, 389.309, 518.708 ],
+        "font" : "�޸ո���",
+        "font size" : 15.943,
+        "text color" : "[0.0]",
+        "content" : "제2장 보안관리책임자 등"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 42.457, 424.833, 552.421, 464.797 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제5조(보안관리책임자) ① 보안관리책임자는 보고정보의 안전한 관리에 관한 정보보안을 총괄하며, AML보고책임자가 담당한다.<개정 2025.1.16.>",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 10,
+        "level" : "4",
+        "page number" : 2,
+        "bounding box" : [ 56.429, 399.66, 477.283, 414.452 ],
+        "font" : "�޸ո���",
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "② 보안관리책임자의 역할은 다음 각 호와 같다.<개정 2025.6.12.>"
+      }, {
+        "type" : "list",
+        "id" : 11,
+        "level" : "2",
+        "page number" : 2,
+        "bounding box" : [ 56.429, 223.453, 452.035, 389.279 ],
+        "numbering style" : "arabic numbers",
+        "number of list items" : 7,
+        "list items" : [ {
+          "type" : "list item",
+          "page number" : 2,
+          "bounding box" : [ 56.429, 374.488, 347.092, 389.279 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "1. 보고정보의 보안관리 계획의 수립 및 이행",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 2,
+          "bounding box" : [ 56.429, 349.315, 354.049, 364.107 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "2. 보안 위협 점검 및 보완조치 이행계획 수립",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 2,
+          "bounding box" : [ 56.429, 324.143, 235.193, 338.934 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "3. 지속적인 보안 점검 수행",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 2,
+          "bounding box" : [ 56.429, 298.97, 266.856, 313.762 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "4. 보고정보의 유출, 오남용 방지",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 2,
+          "bounding box" : [ 56.429, 273.798, 368.32, 288.589 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "5. FIU보고자료 보안실태 정기적인 조사 및 개선",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 2,
+          "bounding box" : [ 56.429, 248.625, 277.41, 263.417 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "6. FIU보고자료 보호 및 관리 감독",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 2,
+          "bounding box" : [ 56.429, 223.453, 452.035, 238.244 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "7. 자료 기록 보관의무 수행 및 보유기간이 지난 정보의 파기",
+          "kids" : [ ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 42.457, 147.935, 552.423, 187.899 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제6조(보안관리담당자) 보안관리담당자는 정보보안 실무 등 보안관리책임자를 보좌하며 자금세탁방지부장이 담당한다.<개정 2018.5.14.>",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 42.457, 72.418, 552.421, 112.382 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제7조(AML시스템 관리자) AML시스템 관리자의 보안관련 역할은 다음 각 호와 같다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 28,
+    "level" : "2",
+    "page number" : 3,
+    "bounding box" : [ 56.429, 705.326, 326.103, 770.463 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 3,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 56.429, 755.671, 312.072, 770.463 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "1. 접근정보의 범위와 대상에 대한 기록",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 56.429, 730.499, 235.432, 745.29 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "2. AML시스템 운영 및 보수",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 56.429, 705.326, 326.103, 720.118 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "3. 제2호에 대한 작업내역의 기록 및 관리",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 29,
+    "level" : "Doctitle",
+    "page number" : 3,
+    "bounding box" : [ 193.455, 652.928, 401.302, 669.743 ],
+    "heading level" : 1,
+    "font" : "�޸ո���",
+    "font size" : 15.943,
+    "text color" : "[0.0]",
+    "content" : "제3장 보안관리 및 점검항목"
+  }, {
+    "type" : "list",
+    "id" : 30,
+    "level" : "1",
+    "page number" : 3,
+    "bounding box" : [ 42.457, 198.28, 552.421, 615.832 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 5,
+    "previous list id" : 27,
+    "next list id" : 34,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 42.457, 575.868, 552.421, 615.832 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제8조(보안관리 계획) 제5조에서 정한 보안관리 등의 각종 계획은 IT보안위원 회가 심의·의결하는 전행 정보보호 업무 계획을 참고하여 수립한다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 42.457, 525.523, 411.794, 540.314 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제9조(보안관리 대상) 보안관리 대상은 다음 각호와 같다.",
+      "kids" : [ {
+        "type" : "list",
+        "id" : 12,
+        "level" : "2",
+        "page number" : 3,
+        "bounding box" : [ 56.429, 424.833, 552.421, 515.142 ],
+        "numbering style" : "arabic numbers",
+        "number of list items" : 2,
+        "list items" : [ {
+          "type" : "list item",
+          "page number" : 3,
+          "bounding box" : [ 56.429, 475.178, 552.421, 515.142 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "1. 임직원 : 자금세탁방지·테러자금조달금지 업무를 수행하는 임직원(AML시 스템을 개발·운영·유지보수하는 내외부 직원을 포함)",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 3,
+          "bounding box" : [ 56.429, 424.833, 552.421, 464.797 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "2. 시스템 : AML시스템, AML시스템에 연결된 네트워크(이하 ‘내·외부망’ 이라 함), AML시스템 사용자 PC",
+          "kids" : [ ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 42.457, 349.315, 552.421, 389.279 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제10조(AML시스템) AML시스템의 서버, 데이터베이스, 어플리케이션을 포함하 며,“별표 1(AML시스템 보안위협 점검항목)”에 따라 점검한다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 42.457, 273.798, 552.421, 313.762 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제11조(내·외부망) 내·외부망은 “별표 2(AML시스템과 금융회사 내·외부망 접속시 보안위협)”에 따라 점검한다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 42.457, 198.28, 552.421, 238.244 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제12조(AML시스템 사용자 PC) ① AML시스템 사용자에 대한 점검대상은 다음 각호와 같다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 31,
+    "level" : "2",
+    "page number" : 3,
+    "bounding box" : [ 56.429, 122.763, 329.326, 187.899 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 3,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 56.429, 173.108, 329.326, 187.899 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "1. 본·지점의 AML시스템 이용 임직원 PC",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 56.429, 147.935, 217.427, 162.727 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "2. AML시스템 관리자 PC",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 56.429, 122.763, 203.155, 137.554 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "3. 의심거래 보고용 PC",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 32,
+    "level" : "3",
+    "page number" : 3,
+    "bounding box" : [ 56.429, 72.418, 552.421, 112.382 ],
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "② 제1항의 점검대상은 “별표 3(사용자 PC 보안위협 점검항목)”에 따라 점 검한다."
+  }, {
+    "type" : "heading",
+    "id" : 33,
+    "level" : "Doctitle",
+    "page number" : 4,
+    "bounding box" : [ 201.371, 753.618, 393.506, 770.433 ],
+    "heading level" : 1,
+    "font" : "�޸ո���",
+    "font size" : 15.943,
+    "text color" : "[0.0]",
+    "content" : "제4장 FIU보고정보의 관리"
+  }, {
+    "type" : "list",
+    "id" : 34,
+    "level" : "1",
+    "page number" : 4,
+    "bounding box" : [ 42.457, 169.512, 552.422, 716.522 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 4,
+    "previous list id" : 30,
+    "next list id" : 37,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 42.457, 676.558, 552.421, 716.522 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제13조(관련자료 이관) ① 의심거래 보고 업무담당자는 보고용 PC에 저장되는 자료를 특정 보안영역이나 서버 등으로 이관하여 안전하게 관리한다.",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 14,
+        "level" : "3",
+        "page number" : 4,
+        "bounding box" : [ 56.429, 651.385, 442.26, 666.177 ],
+        "font" : "�޸ո���",
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "② 제1항의 이관대상은 다음 각 호와 같다.<개정 2025.6.12.>"
+      }, {
+        "type" : "list",
+        "id" : 15,
+        "level" : "2",
+        "page number" : 4,
+        "bounding box" : [ 56.429, 575.868, 479.381, 641.004 ],
+        "numbering style" : "arabic numbers",
+        "number of list items" : 3,
+        "list items" : [ {
+          "type" : "list item",
+          "page number" : 4,
+          "bounding box" : [ 56.429, 626.213, 423.491, 641.004 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "1. 의심거래 보고 후 OUTPUT 폴더에 생성되는 XML파일",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 4,
+          "bounding box" : [ 56.429, 601.04, 479.381, 615.832 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "2. 의심거래 보고 후 INTPUT 폴더에 생성되는 금융거래 첨부자료",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 4,
+          "bounding box" : [ 56.429, 575.868, 438.003, 590.659 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "3. 금융정보분석원이 추가 요구한 의심거래 보고 관련 자료",
+          "kids" : [ ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 42.457, 500.35, 552.421, 540.314 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제14조(관련자료 삭제) ① 의심거래 보고 업무담당자는 의심거래 보고 후 관련 파일을 복구할 수 없도록 완전 삭제한다.",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 16,
+        "level" : "3",
+        "page number" : 4,
+        "bounding box" : [ 56.429, 475.178, 333.116, 489.969 ],
+        "font" : "�޸ո���",
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "② 제1항의 삭제대상은 다음 각 호와 같다."
+      }, {
+        "type" : "list",
+        "id" : 17,
+        "level" : "2",
+        "page number" : 4,
+        "bounding box" : [ 56.429, 399.66, 439.023, 464.797 ],
+        "numbering style" : "arabic numbers",
+        "number of list items" : 3,
+        "list items" : [ {
+          "type" : "list item",
+          "page number" : 4,
+          "bounding box" : [ 56.429, 450.005, 304.635, 464.797 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "1. OUTPUT 폴더에 남아있는 XML파일",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 4,
+          "bounding box" : [ 56.429, 424.833, 439.023, 439.624 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "2. INTPUT 폴더에 남아있는 첨부자료(3개월 금융거래 내역)",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 4,
+          "bounding box" : [ 56.429, 399.66, 431.047, 414.452 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "3. 금융정보분석원이 추가 요구한 의심거래 보고 관련자료",
+          "kids" : [ ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 42.457, 324.143, 552.421, 364.107 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제15조(통신구간) 금융정보분석원이 추가자료를 요청하는 경우 암호화 등 보안 조치 후 제공하며, 패스워드는 유선통화 등 안전한 방법으로 전달한다.",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 18,
+        "level" : "3",
+        "page number" : 4,
+        "bounding box" : [ 225.478, 271.745, 369.4, 288.559 ],
+        "font" : "�޸ո���",
+        "font size" : 15.943,
+        "text color" : "[0.0]",
+        "content" : "제5장 점검 및 보완"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 42.457, 169.512, 552.422, 234.648 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제16조(보안점검) ① 보안관리책임자는 제9조의 보안관리 대상에 대한 보안점 검을 소관부서로 요청하고, 보안점검 수행 부서장은 점검결과 및 증빙자료를 보안관리담당자에게 제출하여야 한다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 36,
+    "level" : "4",
+    "page number" : 4,
+    "bounding box" : [ 56.429, 68.822, 552.421, 159.131 ],
+    "numbering style" : "circled arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 56.429, 119.167, 552.357, 159.131 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "② 제1항의 보안점검은 자금세탁방지부에서 수행한다.<개정 2018.5.14., 2025.6.12.>",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 56.429, 68.822, 552.421, 108.786 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "③ 보안점검은 주기적으로 실시하며, 필요한 경우 외부전문기관을 활용할 수 있다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 37,
+    "level" : "1",
+    "page number" : 5,
+    "bounding box" : [ 42.457, 428.429, 552.421, 770.463 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 4,
+    "previous list id" : 34,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 42.457, 730.499, 552.421, 770.463 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제17조(취약점 분석·평가) ① 전행 차원에서 실시하는 전자금융기반시설에 대 한 취약점 분석·평가에 AML시스템을 포함하여 점검한다.",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 19,
+        "level" : "3",
+        "page number" : 5,
+        "bounding box" : [ 56.429, 680.154, 552.421, 720.118 ],
+        "font" : "�޸ո���",
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "② 보안관리책임자는 AML시스템에 대한 제1항의 취약점 분석·평가결과를 제출받아 점검결과를 확인한다."
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 42.457, 579.464, 552.421, 644.6 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제18조(보완조치 이행) 보안관리책임자는 제16조 및 제17조에 따른 점검결과 도출된 보안 미흡항목의 개선을 소관 부서장에게 통보·요구하며, 해당 부서 장은 조치결과를 보안관리책임자에게 제출한다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 42.457, 503.946, 552.421, 543.91 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제19조(위임) 보안 점검항목의 추가·변경과 그에 따른 별표 서식의 변경은 보 안관리책임자에게 위임하여 처리한다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 42.457, 428.429, 552.421, 468.393 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제20조(준용) 이 기준에 따른 보안점검 관련 제반사항은 IT보안업무지침 및 관 련 내규를 준용한다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 38,
+    "level" : "Subtitle",
+    "page number" : 5,
+    "bounding box" : [ 242.868, 352.911, 352.071, 367.703 ],
+    "heading level" : 2,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "부 칙<2017.8.31.>"
+  }, {
+    "type" : "list",
+    "id" : 39,
+    "level" : "4",
+    "page number" : 5,
+    "bounding box" : [ 42.457, 101.186, 552.421, 292.185 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 42.457, 277.394, 312.128, 292.185 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "이 기준은 2017년 8월 31일부터 시행한다.",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 1,
+        "page number" : 5,
+        "bounding box" : [ 242.868, 201.876, 352.071, 216.668 ],
+        "font" : "�޸ո���",
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "부 칙<2018.5.14.>"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 42.457, 101.186, 552.421, 141.15 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "이 기준은 2018년 5월 14일부터 시행한다. (2018년 컴플라이언스 강화를 위한 직제규정 개정에 따른 일괄개정)",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 40,
+    "level" : "Subtitle",
+    "page number" : 6,
+    "bounding box" : [ 242.868, 755.671, 352.071, 770.463 ],
+    "heading level" : 2,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "부 칙<2025.1.16.>"
+  }, {
+    "type" : "paragraph",
+    "id" : 41,
+    "page number" : 6,
+    "bounding box" : [ 42.457, 654.981, 552.421, 694.945 ],
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "이 기준은 2025년 1월 16일부터 시행한다. (2025년 상반기 직제규정 개정에 따 른 일괄개정)"
+  }, {
+    "type" : "heading",
+    "id" : 42,
+    "level" : "Subtitle",
+    "page number" : 6,
+    "bounding box" : [ 246.346, 579.464, 348.593, 594.255 ],
+    "heading level" : 2,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "부칙<2025.6.12.>"
+  }, {
+    "type" : "paragraph",
+    "id" : 43,
+    "page number" : 6,
+    "bounding box" : [ 42.457, 503.946, 312.128, 518.738 ],
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "이 기준은 2025년 6월 12일부터 시행한다."
+  }, {
+    "type" : "heading",
+    "id" : 44,
+    "level" : "Subtitle",
+    "page number" : 7,
+    "bounding box" : [ 56.609, 755.671, 303.676, 770.463 ],
+    "heading level" : 3,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "[별표1] AML시스템 보안위협 점검항목"
+  }, {
+    "type" : "table",
+    "id" : 45,
+    "level" : "5",
+    "page number" : 7,
+    "bounding box" : [ 57.929, 73.06, 538.87, 716.876 ],
+    "number of rows" : 2,
+    "number of columns" : 2,
+    "next table id" : 46,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 7,
+        "bounding box" : [ 58.109, 697.157, 129.171, 716.606 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 1,
+          "page number" : 7,
+          "bounding box" : [ 80.596, 700.598, 106.502, 713.544 ],
+          "font" : "Gulim",
+          "font size" : 12.946,
+          "text color" : "[0.0]",
+          "content" : "구분"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 7,
+        "bounding box" : [ 129.171, 697.157, 538.69, 716.606 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 2,
+          "page number" : 7,
+          "bounding box" : [ 307.753, 700.598, 359.686, 713.544 ],
+          "font" : "Gulim",
+          "font size" : 12.946,
+          "text color" : "[0.0]",
+          "content" : "점검항목"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 7,
+        "bounding box" : [ 58.109, 73.33, 129.171, 697.157 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 3,
+          "page number" : 7,
+          "bounding box" : [ 81.556, 378.87, 105.543, 391.816 ],
+          "font" : "Gulim",
+          "font size" : 12.946,
+          "text color" : "[0.0]",
+          "content" : "서버"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 7,
+        "bounding box" : [ 129.171, 73.33, 538.69, 697.157 ],
+        "row number" : 2,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "heading",
+          "id" : 7,
+          "level" : "Subtitle",
+          "page number" : 7,
+          "bounding box" : [ 130.609, 674.107, 224.536, 687.053 ],
+          "heading level" : 4,
+          "font" : "Gulim",
+          "font size" : 12.946,
+          "text color" : "[0.0]",
+          "content" : "① 접근통제 여부"
+        }, {
+          "type" : "list",
+          "id" : 8,
+          "level" : "1",
+          "page number" : 7,
+          "bounding box" : [ 136.366, 542.371, 469.066, 668.234 ],
+          "numbering style" : "unordered",
+          "number of list items" : 6,
+          "list items" : [ {
+            "type" : "list item",
+            "page number" : 7,
+            "bounding box" : [ 136.366, 655.288, 427.209, 668.234 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 인가받지 않은 관리자/사용자의 불법적인 접근 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 7,
+            "bounding box" : [ 136.366, 636.468, 357.886, 649.414 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 인가받지 않은 어플리케이션 접근 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 7,
+            "bounding box" : [ 136.366, 617.649, 469.066, 630.595 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ AML 시스템 세부업무에 대해 사용자별 접근권한 통제 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 7,
+            "bounding box" : [ 136.366, 598.83, 410.538, 611.775 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ AML 시스템 사용자 인증 및 식별의 안전성 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 7,
+            "bounding box" : [ 136.366, 580.01, 393.867, 592.956 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 5회이상 접속 오류시 사용제한 설정여부 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 7,
+            "bounding box" : [ 136.366, 542.371, 439.802, 574.136 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 시스템관리자에 대해 적절한 통제 장치 마련여부 점검 (접근내용 기록, AML 관련자료 검색 불가 등)",
+            "kids" : [ ]
+          } ]
+        }, {
+          "type" : "heading",
+          "id" : 9,
+          "level" : "Subtitle",
+          "page number" : 7,
+          "bounding box" : [ 130.609, 510.606, 224.536, 523.552 ],
+          "heading level" : 4,
+          "font" : "Gulim",
+          "font size" : 12.946,
+          "text color" : "[0.0]",
+          "content" : "② 계정정책 여부"
+        }, {
+          "type" : "list",
+          "id" : 10,
+          "level" : "1",
+          "page number" : 7,
+          "bounding box" : [ 136.366, 341.231, 537.071, 504.732 ],
+          "numbering style" : "unordered",
+          "number of list items" : 6,
+          "list items" : [ {
+            "type" : "list item",
+            "page number" : 7,
+            "bounding box" : [ 136.366, 472.967, 537.071, 504.732 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 사용자 계정과 비밀번호를 개인별로 부여하고 등록, 변경, 폐기를 쳬계적으로 관리하는지 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 7,
+            "bounding box" : [ 136.366, 454.148, 428.168, 467.093 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 외부 사용자에게 계정부여 시 적절한 통제장치 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 7,
+            "bounding box" : [ 136.366, 435.328, 334.499, 448.274 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 비밀번호 보관시 암호화 여부 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 7,
+            "bounding box" : [ 136.366, 416.509, 370.479, 429.455 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 로그인 패스워드 8자 이상 설정여부 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 7,
+            "bounding box" : [ 136.366, 397.689, 357.886, 410.635 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 사용자정의 패스워드 안전성 여부 점검",
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 4,
+              "level" : "2",
+              "page number" : 7,
+              "bounding box" : [ 142.243, 360.05, 536.949, 391.816 ],
+              "font" : "Gulim",
+              "font size" : 12.946,
+              "text color" : "[0.0]",
+              "content" : "- 특정 패턴, 제3자가 쉽게 알수 있도록 개인 정보로 구성, 사전적 단어, 특정 인물/널리 알려진 이름, 숫자와 영문자를 유사하게 치환"
+            } ]
+          }, {
+            "type" : "list item",
+            "page number" : 7,
+            "bounding box" : [ 136.366, 341.231, 410.538, 354.177 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 로그인 패스워드가 사용자 계정과 동일한지 점검",
+            "kids" : [ ]
+          } ]
+        }, {
+          "type" : "heading",
+          "id" : 11,
+          "level" : "Subtitle",
+          "page number" : 7,
+          "bounding box" : [ 130.609, 309.466, 271.311, 322.412 ],
+          "heading level" : 4,
+          "font" : "Gulim",
+          "font size" : 12.946,
+          "text color" : "[0.0]",
+          "content" : "③ 해킹 및 침해방지 여부"
+        }, {
+          "type" : "list",
+          "id" : 12,
+          "level" : "1",
+          "page number" : 7,
+          "bounding box" : [ 136.366, 83.633, 536.949, 303.592 ],
+          "numbering style" : "unordered",
+          "number of list items" : 10,
+          "list items" : [ {
+            "type" : "list item",
+            "page number" : 7,
+            "bounding box" : [ 136.366, 271.827, 536.949, 303.592 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 최소한의 서비스번호(PORT)와 기능만을 적용하고 업무목적 이외의 기능 및 프로그램 제거 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 7,
+            "bounding box" : [ 136.366, 253.007, 477.581, 265.953 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 시스템 프로그램, 유틸리티 등 중요한 보정(Patch) 여부 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 7,
+            "bounding box" : [ 136.366, 234.188, 460.67, 247.134 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 권한이 없는 자의 저장자료 조작, 파괴, 은닉, 유출 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 7,
+            "bounding box" : [ 136.366, 215.369, 402.742, 228.314 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 자료파괴 목적의 악성코드, 논리코드 공격 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 7,
+            "bounding box" : [ 136.366, 177.73, 536.829, 209.495 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 일시에 대량의 신호를 보내거나 부정한 명령을 처리하도록 하여 서버 등이 작동오류가 일어나도록 하는 공격 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 7,
+            "bounding box" : [ 136.366, 158.91, 406.1, 171.856 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 악의적인 명령어 주입 공격(SQL injection) 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 7,
+            "bounding box" : [ 136.366, 140.091, 366.761, 153.037 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 취약한 세션 관리(cookie injection) 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 7,
+            "bounding box" : [ 136.366, 121.271, 312.551, 134.217 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 악의적인 명령 실행(XSS) 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 7,
+            "bounding box" : [ 136.366, 102.452, 356.927, 115.398 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 버퍼 오버플로우(buffer overflow) 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 7,
+            "bounding box" : [ 136.366, 83.633, 469.306, 96.578 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 부적절한 파라미터(parameter), 포맷함수(Format string) 점검",
+            "kids" : [ ]
+          } ]
+        } ]
+      } ]
+    } ]
+  }, {
+    "type" : "table",
+    "id" : 46,
+    "level" : "5",
+    "page number" : 8,
+    "bounding box" : [ 57.929, 229.489, 538.87, 769.019 ],
+    "number of rows" : 3,
+    "number of columns" : 2,
+    "previous table id" : 45,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 8,
+        "bounding box" : [ 58.109, 550.797, 129.171, 768.749 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 8,
+        "bounding box" : [ 129.171, 550.797, 538.69, 768.749 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "list",
+          "id" : 2,
+          "page number" : 8,
+          "bounding box" : [ 136.366, 735.24, 422.291, 767.006 ],
+          "numbering style" : "unordered",
+          "number of list items" : 2,
+          "list items" : [ {
+            "type" : "list item",
+            "page number" : 8,
+            "bounding box" : [ 136.366, 754.06, 264.217, 767.006 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 접근통제 취약점 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 8,
+            "bounding box" : [ 136.366, 735.24, 422.291, 748.186 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 서버설정과 관련한 부적절한 환경설정 취약점 점검",
+            "kids" : [ ]
+          } ]
+        }, {
+          "type" : "heading",
+          "id" : 3,
+          "page number" : 8,
+          "bounding box" : [ 130.609, 716.421, 247.924, 729.367 ],
+          "heading level" : 4,
+          "font" : "Gulim",
+          "font size" : 12.946,
+          "text color" : "[0.0]",
+          "content" : "④ 접속기록 유지여부"
+        }, {
+          "type" : "list",
+          "id" : 4,
+          "page number" : 8,
+          "bounding box" : [ 136.366, 659.963, 536.95, 710.547 ],
+          "numbering style" : "unordered",
+          "number of list items" : 2,
+          "list items" : [ {
+            "type" : "list item",
+            "page number" : 8,
+            "bounding box" : [ 136.366, 678.782, 536.95, 710.547 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ AML시스템의 접속기록, 사용자 및 관리자의 로그인 및 접속기록 유지여부 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 8,
+            "bounding box" : [ 136.366, 659.963, 433.925, 672.909 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 전산 자료를 사용한 내역에 대한 접근 기록여부 점검",
+            "kids" : [ ]
+          } ]
+        }, {
+          "type" : "heading",
+          "id" : 5,
+          "page number" : 8,
+          "bounding box" : [ 130.609, 628.078, 324.082, 641.023 ],
+          "heading level" : 4,
+          "font" : "Gulim",
+          "font size" : 12.946,
+          "text color" : "[0.0]",
+          "content" : "⑤ 백업 및 재해복구 절차 수립여부"
+        }, {
+          "type" : "list",
+          "id" : 6,
+          "page number" : 8,
+          "bounding box" : [ 136.366, 552.8, 504.327, 622.204 ],
+          "numbering style" : "unordered",
+          "number of list items" : 4,
+          "list items" : [ {
+            "type" : "list item",
+            "page number" : 8,
+            "bounding box" : [ 136.366, 609.258, 346.972, 622.204 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ AML관련자료 5년이상 보관여부 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 8,
+            "bounding box" : [ 136.366, 590.439, 416.415, 603.385 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ AML시스템 문제 발생시 재동작 및 복구절차 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 8,
+            "bounding box" : [ 136.366, 571.619, 504.327, 584.565 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 자연재해, 인적재해, 기술적재해, 전자적 침해 등의 복구대책 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 8,
+            "bounding box" : [ 136.366, 552.8, 396.146, 565.746 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ AML시스템의 업무지속성 확보대책(BCP) 점검",
+            "kids" : [ ]
+          } ]
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 8,
+        "bounding box" : [ 58.109, 405.157, 129.171, 550.797 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 7,
+          "page number" : 8,
+          "bounding box" : [ 75.679, 462.419, 111.42, 493.585 ],
+          "font" : "Gulim",
+          "font size" : 12.946,
+          "text color" : "[0.0]",
+          "content" : "데이터 베이스"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 8,
+        "bounding box" : [ 129.171, 405.157, 538.69, 550.797 ],
+        "row number" : 2,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "list",
+          "id" : 8,
+          "page number" : 8,
+          "bounding box" : [ 136.366, 416.269, 500.009, 539.734 ],
+          "numbering style" : "unordered",
+          "number of list items" : 6,
+          "list items" : [ {
+            "type" : "list item",
+            "page number" : 8,
+            "bounding box" : [ 136.366, 526.788, 368.321, 539.734 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 데이터 보안 및 DB암호화 적용여부 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 8,
+            "bounding box" : [ 136.366, 504.732, 461.99, 517.678 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 비인가된 개인이나 시스템에 의한 DB 접근 허용여부 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 8,
+            "bounding box" : [ 136.366, 482.557, 411.017, 495.502 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ AML관련자료에 대한 DBA의 접근 허용여부 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 8,
+            "bounding box" : [ 136.366, 460.501, 469.066, 473.447 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 어플리케이션에 의해 부적절한 데이터 변경 가능여부 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 8,
+            "bounding box" : [ 136.366, 438.445, 421.092, 451.391 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ DB서비스를 방해하는 내외부 공격 등에 대한 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 8,
+            "bounding box" : [ 136.366, 416.269, 500.009, 429.215 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ DB 입출력 및 데이터 조회·변경·삭제 행위에 대한 기록여부 점검",
+            "kids" : [ ]
+          } ]
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 3,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 8,
+        "bounding box" : [ 58.109, 229.759, 129.171, 405.157 ],
+        "row number" : 3,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 9,
+          "page number" : 8,
+          "bounding box" : [ 75.679, 301.914, 111.42, 333.08 ],
+          "font" : "Gulim",
+          "font size" : 12.946,
+          "text color" : "[0.0]",
+          "content" : "어플리 케이션"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 8,
+        "bounding box" : [ 129.171, 229.759, 538.69, 405.157 ],
+        "row number" : 3,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "list",
+          "id" : 11,
+          "page number" : 8,
+          "bounding box" : [ 130.609, 238.264, 471.105, 396.73 ],
+          "numbering style" : "circled arabic numbers",
+          "number of list items" : 7,
+          "list items" : [ {
+            "type" : "list item",
+            "page number" : 8,
+            "bounding box" : [ 130.609, 383.785, 470.625, 396.73 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "① 개발 및 설계시 보안을 적용한 시큐어 코딩 적용여부 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 8,
+            "bounding box" : [ 130.609, 362.927, 416.055, 375.873 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "② 어플리케이션의 잠재적, 설계상 취약점 여부 점검",
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 10,
+              "page number" : 8,
+              "bounding box" : [ 136.366, 342.19, 298.158, 355.136 ],
+              "font" : "Gulim",
+              "font size" : 12.946,
+              "text color" : "[0.0]",
+              "content" : "▪ SQL Injection 공격 점검 등"
+            } ]
+          }, {
+            "type" : "list item",
+            "page number" : 8,
+            "bounding box" : [ 130.609, 321.453, 471.105, 334.398 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "③ 어플리케이션 내부에서 동작하는 악성코드(Web Shell) 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 8,
+            "bounding box" : [ 130.609, 300.595, 388.71, 313.541 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "④ 악성코드 등이 웹서버로 업로드 가능성 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 8,
+            "bounding box" : [ 130.609, 279.858, 335.938, 292.804 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "⑤ 웹서버 다운로드 공격 가능성 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 8,
+            "bounding box" : [ 130.609, 259.121, 454.194, 272.067 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "⑥ 악성 스크립트 공격(XSS:Cross Site Script) 취약점 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 8,
+            "bounding box" : [ 130.609, 238.264, 365.202, 251.209 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "⑦ 비 인가 사용자의 접근통제 가능성 점검",
+            "kids" : [ ]
+          } ]
+        } ]
+      } ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 47,
+    "level" : "Subtitle",
+    "page number" : 9,
+    "bounding box" : [ 56.609, 755.671, 429.608, 770.463 ],
+    "heading level" : 3,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "[별표2] AML시스템과 금융회사 내외부망 접속시 보안위협"
+  }, {
+    "type" : "table",
+    "id" : 48,
+    "level" : "6",
+    "page number" : 9,
+    "bounding box" : [ 57.929, 521.969, 534.193, 724.308 ],
+    "number of rows" : 3,
+    "number of columns" : 3,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 9,
+        "bounding box" : [ 58.109, 705.668, 129.081, 724.038 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 1,
+          "page number" : 9,
+          "bounding box" : [ 77.238, 708.51, 109.741, 721.455 ],
+          "font" : "Gulim",
+          "font size" : 12.946,
+          "text color" : "[0.0]",
+          "content" : "구 분"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 9,
+        "bounding box" : [ 129.081, 705.668, 208.448, 724.038 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 2,
+          "page number" : 9,
+          "bounding box" : [ 142.723, 708.51, 194.655, 721.455 ],
+          "font" : "Gulim",
+          "font size" : 12.946,
+          "text color" : "[0.0]",
+          "content" : "보안위협"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 9,
+        "bounding box" : [ 208.448, 705.668, 534.013, 724.038 ],
+        "row number" : 1,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 3,
+          "page number" : 9,
+          "bounding box" : [ 341.935, 708.51, 400.343, 721.455 ],
+          "font" : "Gulim",
+          "font size" : 12.946,
+          "text color" : "[0.0]",
+          "content" : "내용 상세"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 9,
+        "bounding box" : [ 58.109, 522.239, 129.081, 705.668 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 2,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 4,
+          "page number" : 9,
+          "bounding box" : [ 67.523, 607.46, 119.456, 620.406 ],
+          "font" : "Gulim",
+          "font size" : 12.946,
+          "text color" : "[0.0]",
+          "content" : "네크워크"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 9,
+        "bounding box" : [ 129.081, 610.612, 208.448, 705.668 ],
+        "row number" : 2,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 5,
+          "page number" : 9,
+          "bounding box" : [ 142.723, 651.692, 194.655, 664.638 ],
+          "font" : "Gulim",
+          "font size" : 12.946,
+          "text color" : "[0.0]",
+          "content" : "접근통제"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 9,
+        "bounding box" : [ 208.448, 610.612, 534.013, 705.668 ],
+        "row number" : 2,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "list",
+          "id" : 6,
+          "level" : "1",
+          "page number" : 9,
+          "bounding box" : [ 213.604, 620.526, 528.914, 695.804 ],
+          "numbering style" : "unordered",
+          "number of list items" : 3,
+          "list items" : [ {
+            "type" : "list item",
+            "page number" : 9,
+            "bounding box" : [ 213.604, 682.858, 464.269, 695.804 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 인가되지 않은 사용자의 불법적인 접근 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 9,
+            "bounding box" : [ 213.604, 662.12, 452.635, 675.066 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 인가되지 않은 단말의 불법적인 접근 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 9,
+            "bounding box" : [ 213.604, 620.526, 528.914, 654.329 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 사전에 허용된 특정금융거래 관련 프로그램 이외의 타 프로 그램을 통한 불법적 접근 점검",
+            "kids" : [ ]
+          } ]
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 3,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 9,
+        "bounding box" : [ 129.081, 522.239, 208.448, 610.612 ],
+        "row number" : 3,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 7,
+          "page number" : 9,
+          "bounding box" : [ 142.723, 559.992, 194.655, 572.938 ],
+          "font" : "Gulim",
+          "font size" : 12.946,
+          "text color" : "[0.0]",
+          "content" : "정보유출"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 9,
+        "bounding box" : [ 208.448, 522.239, 534.013, 610.612 ],
+        "row number" : 3,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "list",
+          "id" : 8,
+          "level" : "1",
+          "page number" : 9,
+          "bounding box" : [ 213.604, 539.135, 499.41, 593.675 ],
+          "numbering style" : "unordered",
+          "number of list items" : 3,
+          "list items" : [ {
+            "type" : "list item",
+            "page number" : 9,
+            "bounding box" : [ 213.604, 580.729, 440.881, 593.675 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 허가된 사용자의 시스템 정보 유출 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 9,
+            "bounding box" : [ 213.604, 559.992, 464.269, 572.938 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 허가된 운영자의 부주의한 시스템 사용 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 9,
+            "bounding box" : [ 213.604, 539.135, 499.41, 552.081 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 허용 프로그램 등을 이용한 불법적 정보 유출 점검",
+            "kids" : [ ]
+          } ]
+        } ]
+      } ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 49,
+    "level" : "Subtitle",
+    "page number" : 10,
+    "bounding box" : [ 56.609, 755.671, 299.478, 770.463 ],
+    "heading level" : 3,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "[별표3] 사용자 PC 보안위협 점검항목"
+  }, {
+    "type" : "table",
+    "id" : 50,
+    "level" : "7",
+    "page number" : 10,
+    "bounding box" : [ 57.929, 58.915, 538.87, 724.308 ],
+    "number of rows" : 3,
+    "number of columns" : 3,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 10,
+        "bounding box" : [ 58.109, 704.619, 100.866, 724.038 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 1,
+          "page number" : 10,
+          "bounding box" : [ 66.444, 708.03, 92.35, 720.976 ],
+          "font" : "Gulim",
+          "font size" : 12.946,
+          "text color" : "[0.0]",
+          "content" : "구분"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 10,
+        "bounding box" : [ 100.866, 704.619, 538.69, 724.038 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 2,
+          "page number" : 10,
+          "bounding box" : [ 293.601, 708.03, 345.533, 720.976 ],
+          "font" : "Gulim",
+          "font size" : 12.946,
+          "text color" : "[0.0]",
+          "content" : "점검항목"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 10,
+        "bounding box" : [ 58.109, 59.185, 100.866, 704.619 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 2,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 3,
+          "page number" : 10,
+          "bounding box" : [ 71.361, 375.514, 87.568, 388.459 ],
+          "font" : "Gulim",
+          "font size" : 12.946,
+          "text color" : "[0.0]",
+          "content" : "PC"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 10,
+        "bounding box" : [ 100.866, 59.185, 172.018, 704.619 ],
+        "row number" : 2,
+        "column number" : 2,
+        "row span" : 2,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 4,
+          "page number" : 10,
+          "bounding box" : [ 103.984, 347.224, 168.869, 416.629 ],
+          "font" : "Gulim",
+          "font size" : 12.946,
+          "text color" : "[0.0]",
+          "content" : "윈도우 보안 점검항목 (PC 취약점 점검항목)"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 10,
+        "bounding box" : [ 172.018, 200.061, 538.69, 704.619 ],
+        "row number" : 2,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "heading",
+          "id" : 10,
+          "level" : "Subtitle",
+          "page number" : 10,
+          "bounding box" : [ 173.426, 686.454, 413.793, 699.4 ],
+          "heading level" : 4,
+          "font" : "Gulim",
+          "font size" : 12.946,
+          "text color" : "[0.0]",
+          "content" : "① 최신 서비스팩과 보안패치 설치여부 점검"
+        }, {
+          "type" : "list",
+          "id" : 11,
+          "level" : "1",
+          "page number" : 10,
+          "bounding box" : [ 179.303, 611.176, 435.844, 680.58 ],
+          "numbering style" : "unordered",
+          "number of list items" : 4,
+          "list items" : [ {
+            "type" : "list item",
+            "page number" : 10,
+            "bounding box" : [ 179.303, 667.634, 424.21, 680.58 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 한글(HWP) 최신 보안 패치 설치 여부 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 10,
+            "bounding box" : [ 179.303, 648.815, 405.38, 661.761 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ MS-Office 최신보안패치 적용여부 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 10,
+            "bounding box" : [ 179.303, 629.995, 389.069, 642.941 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 윈도우 최신 보안패치 적용여부 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 10,
+            "bounding box" : [ 179.303, 611.176, 435.844, 624.122 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 윈도우 자동 업데이트 서비스 실행 여부 점검",
+            "kids" : [ ]
+          } ]
+        }, {
+          "type" : "heading",
+          "id" : 12,
+          "level" : "Subtitle",
+          "page number" : 10,
+          "bounding box" : [ 173.426, 580.37, 349.388, 593.316 ],
+          "heading level" : 4,
+          "font" : "Gulim",
+          "font size" : 12.946,
+          "text color" : "[0.0]",
+          "content" : "② 불필요한 자원 공유여부 점검"
+        }, {
+          "type" : "list",
+          "id" : 13,
+          "level" : "1",
+          "page number" : 10,
+          "bounding box" : [ 179.303, 505.092, 512.003, 574.496 ],
+          "numbering style" : "unordered",
+          "number of list items" : 4,
+          "list items" : [ {
+            "type" : "list item",
+            "page number" : 10,
+            "bounding box" : [ 179.303, 561.55, 394.826, 574.496 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 사용자 공유폴더 설정 여부 확인 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 10,
+            "bounding box" : [ 179.303, 542.731, 406.58, 555.677 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 윈도우 기본공유 폴더 활성화 여부 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 10,
+            "bounding box" : [ 179.303, 523.911, 418.333, 536.857 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 비인가 보조기억매체 실행 허용 여부 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 10,
+            "bounding box" : [ 179.303, 505.092, 512.003, 518.038 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 보안 보조기억매체 또는 보조기억매체 보안 적용 여부 점검",
+            "kids" : [ ]
+          } ]
+        }, {
+          "type" : "heading",
+          "id" : 14,
+          "level" : "Subtitle",
+          "page number" : 10,
+          "bounding box" : [ 173.426, 474.286, 325.881, 487.231 ],
+          "heading level" : 4,
+          "font" : "Gulim",
+          "font size" : 12.946,
+          "text color" : "[0.0]",
+          "content" : "③ 계정정책 수립 여부 점검"
+        }, {
+          "type" : "list",
+          "id" : 15,
+          "level" : "1",
+          "page number" : 10,
+          "bounding box" : [ 179.303, 304.911, 453.474, 468.412 ],
+          "numbering style" : "unordered",
+          "number of list items" : 7,
+          "list items" : [ {
+            "type" : "list item",
+            "page number" : 10,
+            "bounding box" : [ 179.303, 455.466, 359.805, 468.412 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 로그인 패스워드 설정여부 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 10,
+            "bounding box" : [ 179.303, 436.647, 442.56, 449.593 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 로그인 패스워드 분기 1회 이상 변경여부 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 10,
+            "bounding box" : [ 179.303, 417.827, 413.296, 430.773 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 로그인 패스워드 8자 이상 설정여부 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 10,
+            "bounding box" : [ 179.303, 399.008, 406.58, 411.954 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 사용자 정의 패스워드 안전성 여부 점검",
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 5,
+              "level" : "2",
+              "page number" : 10,
+              "bounding box" : [ 185.06, 361.369, 536.949, 393.134 ],
+              "font" : "Gulim",
+              "font size" : 12.946,
+              "text color" : "[0.0]",
+              "content" : "- 특정 패턴, 제3자가 쉽게 알수 있도록 개인 정보로 구성, 사전적 단어, 특정인물/널리 알려진 이름, 숫자와 영문자를 유사하게 치환"
+            } ]
+          }, {
+            "type" : "list item",
+            "page number" : 10,
+            "bounding box" : [ 179.303, 342.55, 453.474, 355.495 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 로그인 패스워드가 사용자 계정과 동일한지 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 10,
+            "bounding box" : [ 179.303, 323.73, 307.034, 336.676 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 화면보호기 사용 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 10,
+            "bounding box" : [ 179.303, 304.911, 389.069, 317.857 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 화면보호기 비밀번호 설정 여부 점검",
+            "kids" : [ ]
+          } ]
+        }, {
+          "type" : "heading",
+          "id" : 16,
+          "level" : "Subtitle",
+          "page number" : 10,
+          "bounding box" : [ 173.426, 274.104, 407.917, 287.05 ],
+          "heading level" : 4,
+          "font" : "Gulim",
+          "font size" : 12.946,
+          "text color" : "[0.0]",
+          "content" : "④ 디스크 드라이브 안정적 포맷 여부 점검"
+        }, {
+          "type" : "paragraph",
+          "id" : 17,
+          "level" : "3",
+          "page number" : 10,
+          "bounding box" : [ 179.303, 255.285, 512.483, 268.231 ],
+          "font" : "Gulim",
+          "font size" : 12.946,
+          "text color" : "[0.0]",
+          "content" : "▪ 하드디스크의 파일시스템이 NTFS(안전성 권장 포맷)여부 점검"
+        }, {
+          "type" : "heading",
+          "id" : 18,
+          "level" : "Subtitle",
+          "page number" : 10,
+          "bounding box" : [ 173.426, 224.479, 419.55, 237.424 ],
+          "heading level" : 4,
+          "font" : "Gulim",
+          "font size" : 12.946,
+          "text color" : "[0.0]",
+          "content" : "⑤ 바이러스 백신의 최신 업데이트 여부 점검"
+        }, {
+          "type" : "paragraph",
+          "id" : 19,
+          "level" : "3",
+          "page number" : 10,
+          "bounding box" : [ 179.303, 205.659, 465.108, 218.605 ],
+          "font" : "Gulim",
+          "font size" : 12.946,
+          "text color" : "[0.0]",
+          "content" : "▪ 바이러스 백신의 사용 및 최신 업데이트 여부 점검"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 3,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 10,
+        "bounding box" : [ 172.018, 59.185, 538.69, 200.061 ],
+        "row number" : 3,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "heading",
+          "id" : 20,
+          "level" : "Subtitle",
+          "page number" : 10,
+          "bounding box" : [ 173.426, 179.648, 279.106, 192.593 ],
+          "heading level" : 4,
+          "font" : "Gulim",
+          "font size" : 12.946,
+          "text color" : "[0.0]",
+          "content" : "바이러스 백신 점검"
+        }, {
+          "type" : "list",
+          "id" : 21,
+          "level" : "1",
+          "page number" : 10,
+          "bounding box" : [ 179.303, 66.731, 537.303, 173.774 ],
+          "numbering style" : "unordered",
+          "number of list items" : 3,
+          "list items" : [ {
+            "type" : "list item",
+            "page number" : 10,
+            "bounding box" : [ 179.303, 160.828, 389.069, 173.774 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 최신 바이러스에 대한 치료여부 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 10,
+            "bounding box" : [ 179.303, 104.37, 537.303, 154.955 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 악성 애드웨어 프로그램 삭제여부 점점 (예, 애드웨어 해당 키워드: Click, Side, Top, Tap, Tab, Sponsor, Shop(ping), Find, Boan 등)",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 10,
+            "bounding box" : [ 179.303, 66.731, 537.065, 98.496 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 불필요한 그리드 삭제여부 점점 (예, 그리드 해당 프로세스: topfindupdata, mutidownload, sysloy,",
+            "kids" : [ ]
+          } ]
+        } ]
+      } ]
+    } ]
+  }, {
+    "type" : "table",
+    "id" : 51,
+    "level" : "8",
+    "page number" : 11,
+    "bounding box" : [ 57.929, 470.185, 538.87, 769.019 ],
+    "number of rows" : 3,
+    "number of columns" : 3,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 11,
+        "bounding box" : [ 58.109, 470.455, 100.896, 768.749 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 3,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 11,
+        "bounding box" : [ 100.896, 753.016, 171.988, 768.749 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 11,
+        "bounding box" : [ 171.988, 753.016, 538.69, 768.749 ],
+        "row number" : 1,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 1,
+          "page number" : 11,
+          "bounding box" : [ 190.937, 754.539, 252.613, 767.485 ],
+          "font" : "Gulim",
+          "font size" : 12.946,
+          "text color" : "[0.0]",
+          "content" : "askmgr 등)"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 11,
+        "bounding box" : [ 100.896, 624.996, 171.988, 753.016 ],
+        "row number" : 2,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 2,
+          "page number" : 11,
+          "bounding box" : [ 105.543, 647.616, 167.311, 730.685 ],
+          "font" : "Gulim",
+          "font size" : 12.946,
+          "text color" : "[0.0]",
+          "content" : "개인정보 보호 점검항목 (개인정보보 호법)"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 11,
+        "bounding box" : [ 171.988, 624.996, 538.69, 753.016 ],
+        "row number" : 2,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "list",
+          "id" : 3,
+          "level" : "1",
+          "page number" : 11,
+          "bounding box" : [ 179.303, 630.715, 537.069, 747.587 ],
+          "numbering style" : "unordered",
+          "number of list items" : 4,
+          "list items" : [ {
+            "type" : "list item",
+            "page number" : 11,
+            "bounding box" : [ 179.303, 713.784, 537.069, 747.587 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 개인정보(주민등록번호, 신용카드번호, 계좌번호 등)에 포함된 정보에 대해서는 안전한 암호알고리듬으로 암호화하여 저장 여부 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 11,
+            "bounding box" : [ 179.303, 693.047, 513.442, 705.992 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 개인정보(주민등록번호 등) 송·수신시 암호화 조치 여부 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 11,
+            "bounding box" : [ 179.303, 672.309, 424.69, 685.255 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 개인정보 접속기록의 위변조 방지 여부 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 11,
+            "bounding box" : [ 179.303, 630.715, 536.109, 664.398 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 출력 복사시 보호조치, 개인정보 표시제한 보호 조치 점검 (FIU보고시 예외)",
+            "kids" : [ ]
+          } ]
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 3,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 11,
+        "bounding box" : [ 100.896, 470.455, 171.988, 624.996 ],
+        "row number" : 3,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 4,
+          "page number" : 11,
+          "bounding box" : [ 109.86, 523.792, 162.992, 571.859 ],
+          "font" : "Gulim",
+          "font size" : 12.946,
+          "text color" : "[0.0]",
+          "content" : "네트워크 보안 점검 항목"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 11,
+        "bounding box" : [ 171.988, 470.455, 538.69, 624.996 ],
+        "row number" : 3,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "list",
+          "id" : 5,
+          "level" : "1",
+          "page number" : 11,
+          "bounding box" : [ 179.303, 478.961, 537.069, 616.57 ],
+          "numbering style" : "unordered",
+          "number of list items" : 4,
+          "list items" : [ {
+            "type" : "list item",
+            "page number" : 11,
+            "bounding box" : [ 179.303, 582.887, 537.069, 616.57 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 인터넷 주요회선의 이상징후에 대한 트래픽변화, 유형 모니터링 여부 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 11,
+            "bounding box" : [ 179.303, 541.292, 536.829, 575.095 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 비인가 외부 해킹시도, 서비스거부공격에 대한 침입탐지 및 차단 여부 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 11,
+            "bounding box" : [ 179.303, 499.818, 536.83, 533.501 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 무선랜서비스, 무선인터넷서비스를 제공할 경우 사용자인증, 데이터 암호화 등 보안조치 마련 여부 점검",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 11,
+            "bounding box" : [ 179.303, 478.961, 424.21, 491.906 ],
+            "font" : "Gulim",
+            "font size" : 12.946,
+            "text color" : "[0.0]",
+            "content" : "▪ 정보통신설비의 보안설정 적정성 여부 점검",
+            "kids" : [ ]
+          } ]
+        } ]
+      } ]
+    } ]
+  } ]
+}

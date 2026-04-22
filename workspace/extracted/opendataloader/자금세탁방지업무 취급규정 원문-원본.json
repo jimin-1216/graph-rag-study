@@ -1,0 +1,2342 @@
+{
+  "file name" : "자금세탁방지업무 취급규정 원문-원본.pdf",
+  "number of pages" : 17,
+  "author" : null,
+  "title" : null,
+  "creation date" : "D:20260402103959+09'00'",
+  "modification date" : "D:20260402103959+09'00'",
+  "kids" : [ {
+    "type" : "heading",
+    "id" : 143,
+    "level" : "Doctitle",
+    "page number" : 1,
+    "bounding box" : [ 197.533, 753.618, 397.344, 770.433 ],
+    "heading level" : 1,
+    "font" : "�޸ո���",
+    "font size" : 15.943,
+    "text color" : "[0.0]",
+    "content" : "자금세탁방지업무 취급규정"
+  }, {
+    "type" : "paragraph",
+    "id" : 146,
+    "page number" : 1,
+    "bounding box" : [ 398.784, 679.271, 503.967, 689.765 ],
+    "font" : "�޸ո���",
+    "font size" : 9.949,
+    "text color" : "[0.0]",
+    "content" : "2001.11.20 제정"
+  }, {
+    "type" : "list",
+    "id" : 147,
+    "level" : "2",
+    "page number" : 1,
+    "bounding box" : [ 398.784, 601.357, 503.967, 676.819 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 6,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 398.784, 666.326, 503.967, 676.819 ],
+      "font" : "�޸ո���",
+      "font size" : 9.949,
+      "text color" : "[0.0]",
+      "content" : "2003. 2.21 제1차 개정",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 398.784, 653.38, 503.967, 663.873 ],
+      "font" : "�޸ո���",
+      "font size" : 9.949,
+      "text color" : "[0.0]",
+      "content" : "2004. 3. 3 제2차 개정",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 398.784, 640.314, 503.967, 650.807 ],
+      "font" : "�޸ո���",
+      "font size" : 9.949,
+      "text color" : "[0.0]",
+      "content" : "2005. 5.27 제3차 개정",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 398.784, 627.368, 503.967, 637.861 ],
+      "font" : "�޸ո���",
+      "font size" : 9.949,
+      "text color" : "[0.0]",
+      "content" : "2006. 1.16 제4차 개정",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 398.784, 614.422, 503.967, 624.916 ],
+      "font" : "�޸ո���",
+      "font size" : 9.949,
+      "text color" : "[0.0]",
+      "content" : "2007. 1.18 제5차 개정",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 398.784, 601.357, 503.967, 611.85 ],
+      "font" : "�޸ո���",
+      "font size" : 9.949,
+      "text color" : "[0.0]",
+      "content" : "2008. 2. 1 제6차 개정",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 148,
+    "level" : "3",
+    "page number" : 1,
+    "bounding box" : [ 398.784, 575.465, 503.967, 598.904 ],
+    "font" : "�޸ո���",
+    "font size" : 9.949,
+    "text color" : "[0.0]",
+    "content" : "2008. 7.31 제7차 개정 2008.12.19 제8차 개정"
+  }, {
+    "type" : "list",
+    "id" : 149,
+    "level" : "2",
+    "page number" : 1,
+    "bounding box" : [ 398.784, 523.442, 504.074, 572.892 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 3,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 398.784, 562.399, 503.967, 572.892 ],
+      "font" : "�޸ո���",
+      "font size" : 9.949,
+      "text color" : "[0.0]",
+      "content" : "2010. 8.23 제9차 개정",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 398.784, 549.453, 503.967, 559.947 ],
+      "font" : "�޸ո���",
+      "font size" : 9.949,
+      "text color" : "[0.0]",
+      "content" : "2011. 1.14 제10차 개정",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 398.784, 523.442, 504.074, 547.001 ],
+      "font" : "�޸ո���",
+      "font size" : 9.949,
+      "text color" : "[0.0]",
+      "content" : "2012. 6. 1 제11차 개정 (전부개정)",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 150,
+    "level" : "2",
+    "page number" : 1,
+    "bounding box" : [ 398.784, 484.484, 503.967, 520.989 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 3,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 398.784, 510.496, 503.967, 520.989 ],
+      "font" : "�޸ո���",
+      "font size" : 9.949,
+      "text color" : "[0.0]",
+      "content" : "2012. 7.12 제12차 개정",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 398.784, 497.55, 503.967, 508.043 ],
+      "font" : "�޸ո���",
+      "font size" : 9.949,
+      "text color" : "[0.0]",
+      "content" : "2013. 1.10 제13차 개정",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 398.784, 484.484, 503.967, 494.978 ],
+      "font" : "�޸ո���",
+      "font size" : 9.949,
+      "text color" : "[0.0]",
+      "content" : "2014.10.23 제14차 개정",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 151,
+    "level" : "2",
+    "page number" : 1,
+    "bounding box" : [ 398.784, 458.593, 503.967, 482.032 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 398.784, 471.538, 503.967, 482.032 ],
+      "font" : "�޸ո���",
+      "font size" : 9.949,
+      "text color" : "[0.0]",
+      "content" : "2018. 5.14 제15차 개정",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 398.784, 458.593, 503.967, 469.086 ],
+      "font" : "�޸ո���",
+      "font size" : 9.949,
+      "text color" : "[0.0]",
+      "content" : "2019. 1.15 제16차 개정",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 152,
+    "level" : "3",
+    "page number" : 1,
+    "bounding box" : [ 398.784, 419.635, 503.967, 456.02 ],
+    "font" : "�޸ո���",
+    "font size" : 9.949,
+    "text color" : "[0.0]",
+    "content" : "2019. 6.27 제17차 개정 2025. 1.16 제18차 개정 2025. 5.22 제19차 개정"
+  }, {
+    "type" : "heading",
+    "id" : 144,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 253.423, 351.578, 341.335, 368.392 ],
+    "heading level" : 1,
+    "font" : "�޸ո���",
+    "font size" : 15.943,
+    "text color" : "[0.0]",
+    "content" : "제1장 총 칙"
+  }, {
+    "type" : "list",
+    "id" : 145,
+    "level" : "1",
+    "page number" : 1,
+    "bounding box" : [ 42.457, 73.137, 552.422, 314.481 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "next list id" : 153,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 42.457, 198.999, 552.421, 314.481 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제1조(목적) 이 규정은 「특정 금융거래 정보의 보고 및 이용 등에 관한 법 률」(이하 “특정금융정보법”이라 한다) 및 동법 시행령, 「자금세탁방지 및 공중협박자금조달금지에 관한 업무규정」에 따라 합리적이고 효과적인 자금 세탁방지제도를 구축·운영하는데 필요한 사항을 정하는데 그 목적이 있다. <개정 2019.6.27.>",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 42.457, 73.137, 552.422, 163.446 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제2조(적용범위) 자금세탁방지 및 공중협박·대량살상무기확산자금조달금지(이 하 “자금세탁방지등” 이라 한다) 활동과 관련하여 관계법령, 금융정보분석 원(KoFIU) 및 감독기관 등이 따로 정하는 경우를 제외하고는 이 규정에서 정 하는 바에 따른다.<개정 2019.6.27.>",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 153,
+    "level" : "1",
+    "page number" : 2,
+    "bounding box" : [ 42.457, 730.499, 552.421, 770.463 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 145,
+    "next list id" : 167,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 42.457, 730.499, 552.421, 770.463 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제3조(용어의 정의) 이 규정에서 사용하는 용어의 정의는 다음과 같다.<개정 2014.10.23., 2019.6.27., 2025.5.22.>",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 155,
+    "level" : "3",
+    "page number" : 2,
+    "bounding box" : [ 56.429, 378.084, 552.421, 720.118 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 4,
+    "next list id" : 164,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 56.429, 654.981, 552.421, 720.118 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "1. “보고대상거래”란 「특정금융정보법」제4조제1항에 따른 의심되는 거래 (신고대상거래 포함)와 동법 제4조의2제1항 및 제2항에 따른 고액 현금거 래를 말한다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 56.429, 554.291, 552.421, 644.6 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "2. “의심되는 거래”라 함은 금융거래와 관련하여 수수한 재산이 불법재산 이라고 의심되는 합당한 근거가 있거나, 거래상대방이 불법 차명금융거래, 자금세탁 및 공중협박자금조달(이하 “자금세탁등” 이라 한다) 행위를 하 고 있다고 의심되는 합당한 근거가 있는 거래를 말한다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 56.429, 403.256, 552.421, 543.91 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "3. “불법재산”이라 함은 「범죄수익은닉의 규제 및 처벌 등에 관한 법률」 (이하 “범죄수익규제법”이라 한다) 제2조제4호에 따른 범죄수익등, 「마 약류불법거래 방지에 관한 특례법」제2조제5항에 따른 불법수익등 및 「공중 등 협박목적 및 대량살상무기 확산을 위한 자금조달행위의 금지에 관한 법률」(이하 “공중협박자금조달금지법”이라 한다) 제2조제1호에 따 른 공중협박자금을 말한다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 56.429, 378.084, 392.844, 392.875 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "4. “자금세탁행위”는 다음 각 목의 행위를 말한다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 157,
+    "level" : "4",
+    "page number" : 2,
+    "bounding box" : [ 70.461, 76.014, 552.422, 367.703 ],
+    "numbering style" : "korean letters",
+    "number of list items" : 3,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 70.461, 277.394, 552.421, 367.703 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "가. 범죄수익등의 취득 또는 처분에 관한 사실 또는 범죄수익의 발생 원인 에 관한 사실을 가장하거나 특정범죄를 조장하거나 적법하게 취득한 재산으로 가장할 목적으로 범죄수익등을 은닉하는 행위 및 그에 대한 미수, 예비, 음모행위",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 70.461, 176.704, 552.422, 267.013 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "나. 마약류범죄의 발견 또는 불법수익등의 출처에 관한 수사를 방해하거나 불법수익등의 몰수를 회피할 목적으로 불법수익등의 성질, 소재, 출처 또는 귀속 관계를 숨기거나 가장하는 행위 및 그에 대한 미수, 예비, 음모행위",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 70.461, 76.014, 552.421, 166.323 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "다. 「조세범 처벌법」 제3조, 「관세법」 제270조, 「지방세기본법」 제 102조 또는 「특정범죄 가중처벌 등에 관한 법률」 제8조의 죄를 범할 목적 또는 세법에 따라 납부하여야 하는 조세(「지방세기본법」에 따 른 지방세를 포함한다. 이하 같다)를 탈루할 목적으로 재산의 취득·",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 162,
+    "page number" : 3,
+    "bounding box" : [ 97.507, 730.499, 552.421, 773.417 ],
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "처분 또는 발생 원인에 관한 사실을 가장(假裝)하거나 그 재산을 은닉 하는 행위"
+  }, {
+    "type" : "list",
+    "id" : 164,
+    "level" : "3",
+    "page number" : 3,
+    "bounding box" : [ 56.429, 126.359, 552.422, 720.118 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 9,
+    "previous list id" : 155,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 56.429, 654.981, 552.421, 720.118 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "5. “공중협박자금조달행위”라 함은 공중협박자금에 이용된다는 정을 알면 서 자금 또는 재산을 모집·제공·운반·보관하는 행위 및 이를 강요하거 나 권유하는 행위를 말한다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 56.429, 604.636, 552.422, 644.6 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "6. “고액 현금거래”라 함은 금융거래 중 일정금액 이상의 현금(외국통화는 제외한다)거래를 말한다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 56.429, 529.119, 552.422, 594.255 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "7. “신고대상거래”란 「범죄수익규제법」제5조제1항에 따른 범죄수익의 은 닉·가장 및 「공중협박자금조달금지법」제5조제2항에 따른 공중협박자금 의 모집·제공·운반·보관 등의 범죄와 관련된 금융거래를 말한다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 56.429, 428.429, 552.421, 518.738 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "8. “자금세탁방지 모니터링 시스템”이란 비정상적인 거래행위 또는 거래패 턴에 대한 모니터링 등을 효과적으로 수행하기 위해 의심되는 거래의 판 단 외에 룰(rule), 스코어링(scoring) 등 다양한 분석기법을 활용하여 자금세 탁방지등 업무를 모니터링하는 시스템을 말한다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 56.429, 378.084, 552.421, 418.048 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "9. “보고책임자”란 자금세탁방지등 업무를 총괄하고 보고대상거래에 대하 여 금융정보분석원장에게 보고 업무를 수행하는 자를 말한다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 56.429, 302.566, 552.422, 367.703 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "10. “전담부서”란 보고책임자의 업무를 보조하는 조직으로서 자금세탁방지 등 업무를 전담하고 보고책임자에 의한 자금세탁방지등 업무의 효율적 운 영을 위하여 실무적으로 지원하는 부서를 말한다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 56.429, 252.221, 552.421, 292.185 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "11. “실무전담직원”이란 보고책임자의 지시에 따라 자금세탁방지등 업무를 수행하는 전담부서의 직원을 말한다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 56.429, 201.876, 552.421, 241.84 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "12. “전산담당직원”이란 의심되는 거래 및 고액 현금거래 보고 등 자금세 탁방지등 관련 전산업무를 담당하는 자를 말한다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 56.429, 126.359, 552.421, 191.495 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "13. “담당책임자”란 의심되는 거래 보고서 또는 신고서를 작성하여 보고책 임자에게 보고하거나, 관할 수사기관에 신고하는 자로 지정된 본부 및 영 업점(이하 “부점”) 책임자를 말한다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 165,
+    "level" : "Doctitle",
+    "page number" : 3,
+    "bounding box" : [ 221.52, 73.961, 373.358, 90.776 ],
+    "heading level" : 1,
+    "font" : "�޸ո���",
+    "font size" : 15.943,
+    "text color" : "[0.0]",
+    "content" : "제2장 내부통제 체계"
+  }, {
+    "type" : "heading",
+    "id" : 166,
+    "level" : "Subtitle",
+    "page number" : 4,
+    "bounding box" : [ 189.497, 753.618, 405.38, 770.433 ],
+    "heading level" : 1,
+    "font" : "�޸ո���",
+    "font size" : 15.943,
+    "text color" : "[0.0]",
+    "content" : "제1절 구성원별 역할 및 책임"
+  }, {
+    "type" : "list",
+    "id" : 167,
+    "level" : "1",
+    "page number" : 4,
+    "bounding box" : [ 42.457, 399.66, 552.421, 716.522 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "previous list id" : 153,
+    "next list id" : 190,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 42.457, 676.558, 552.421, 716.522 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제4조(이사회) 자금세탁방지등 활동과 관련하여 이사회가 수행하여야 할 역할 및 책임은 다음 각 호와 같다.<개정 2025.5.22.>",
+      "kids" : [ {
+        "type" : "list",
+        "id" : 138,
+        "level" : "3",
+        "page number" : 4,
+        "bounding box" : [ 56.429, 475.178, 552.421, 666.177 ],
+        "numbering style" : "arabic numbers",
+        "number of list items" : 3,
+        "list items" : [ {
+          "type" : "list item",
+          "page number" : 4,
+          "bounding box" : [ 56.429, 626.213, 552.421, 666.177 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "1. 「특정금융정보법」 제5조제1항제2호에 따른 절차 및 업무지침(이하 “업 무지침”이라 한다)인 이 규정의 제정·개정 및 폐지",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 4,
+          "bounding box" : [ 56.429, 601.04, 403.102, 615.832 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "2. 독립적 감사 결과 및 사후조치에 대한 검토와 승인",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 4,
+          "bounding box" : [ 56.429, 475.178, 552.421, 590.659 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "3. 은행장·준법감시인·보고책임자 등에게 내부통제체계(「독점규제 및 공 정거래에 관한 법률」제2조 제12호 계열회사와 「상법」 제342조의2에 따 른 자회사를 포함하는 내부통제체계를 의미하며 이하 같다) 구축·운영 실태의 보고요구, 취약점에 대한 개선지시, 취약점 개선조치 사항에 대한 검토와 승인",
+          "kids" : [ ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 42.457, 399.66, 552.421, 439.624 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제5조(은행장) 자금세탁방지등 활동과 관련하여 은행장이 수행하여야 할 역할 및 책임은 다음 각 호와 같다.<개정 2019.6.27., 2025.5.22.>",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 170,
+    "level" : "3",
+    "page number" : 4,
+    "bounding box" : [ 56.429, 97.59, 552.421, 389.279 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 5,
+    "next list id" : 187,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 56.429, 374.488, 452.035, 389.279 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "1. 자금세탁방지등을 위한 내부통제체계의 총괄적 구축·운영",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 56.429, 273.798, 552.421, 364.107 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "2. 업무지침인 이 규정의 제정·개정·폐지 안건의 이사회 상정(법규 개정에 따른 용어변경, 자구수정 등 업무지침인 이 규정의 내용의 실질적인 변화 를 수반하지 않는 개정의 경우에는 은행장이 이를 승인할 수 있다) 및 세 부 업무지침인 「자금세탁방지업무 취급지침」 승인",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 56.429, 248.625, 326.103, 263.417 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "3. 전문인력 배치 등 지원조직 구성·유지",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 56.429, 198.28, 552.421, 238.244 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "4. 보고책임자 등에게 보고받은 내부통제체계의 취약점 개선 및 개선조치 사 항의 이사회 보고",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 56.429, 97.59, 552.421, 187.899 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "5. 다음 각 목의 기준(준법감시인등을 보고책임자로 임명하는 경우에는 적용 하지 아니한다)에 따라 다른 직을 겸하는지 여부 등을 고려하여 직무를 충실하게 수행할 수 있는 보고책임자를 임명 및 그 임면사항을 금융정보 분석원의 장에게 통보",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 175,
+    "level" : "4",
+    "page number" : 4,
+    "bounding box" : [ 70.461, 72.418, 552.422, 87.209 ],
+    "numbering style" : "korean letters",
+    "number of list items" : 1,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 70.461, 72.418, 552.422, 87.209 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "가. 자격요건(법령에 따라 준법감시인등을 둘 의무가 부여된 금융회사등에",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 177,
+    "page number" : 5,
+    "bounding box" : [ 84.434, 755.671, 144.822, 770.463 ],
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "한정한다)"
+  }, {
+    "type" : "list",
+    "id" : 179,
+    "level" : "3",
+    "page number" : 5,
+    "bounding box" : [ 84.434, 453.601, 552.422, 745.29 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 4,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 84.434, 604.636, 552.421, 745.29 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "1) 「특정금융정보법」 제2조제1호의 금융회사등 또는 「금융회사의 지 배구조에 관한 법률 시행령」 제21조제2항제2호가목부터 바목까지의 기 관에서 2년 이상(자금세탁방지등을 주된 업무로 하지 않은 경우 경력의 절반만 인정하고 월단위 이하 15일 이상은 1월로 하며 15일 미만은 계 산하지 아니한다. 이하 같다) 자금세탁방지등 관련 분야 업무를 수행한 경력이 있는 사람",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 84.434, 554.291, 552.421, 594.255 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "2) 자금세탁방지등 관련 분야의 석사학위 이상의 학위소지자로서 2년 이 상 자금세탁방지등 관련 분야 업무를 수행한 경력이 있는 사람",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 84.434, 503.946, 552.421, 543.91 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "3) 변호사 또는 공인회계사의 자격을 가진 사람으로서 2년 이상 자금세 탁방지등 관련 분야 업무를 수행한 경력이 있는 사람",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 84.434, 453.601, 552.422, 493.565 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "4) 금융정보분석원, 「특정금융정보법」 제10조제4항에 따른 검찰총장등 을 장으로 하는 법집행기관(금융위원회와 중앙선거관리위원회를 포함한",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 182,
+    "level" : "4",
+    "page number" : 5,
+    "bounding box" : [ 84.434, 403.256, 552.423, 443.22 ],
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "다), 「특정금융정보법 시행령」 제15조제3항 각 호의 검사수탁기관에서 2년 이상 자금세탁방지등 관련 분야 업무를 수행한 경력이 있는 사람"
+  }, {
+    "type" : "heading",
+    "id" : 185,
+    "level" : "Subtitle",
+    "page number" : 5,
+    "bounding box" : [ 70.461, 378.084, 336.899, 392.875 ],
+    "heading level" : 3,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "나. 직위 : 사내이사 또는 업무집행책임자"
+  }, {
+    "type" : "list",
+    "id" : 187,
+    "level" : "3",
+    "page number" : 5,
+    "bounding box" : [ 56.429, 252.221, 552.421, 367.703 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "previous list id" : 170,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 56.429, 327.739, 552.421, 367.703 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "6. 자금세탁행위등의 위험을 관리하고 경감하기 위한 경영진의 승인을 거친 정책·통제·절차에 관한 사항",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 56.429, 252.221, 552.421, 317.358 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "7. 보고책임자가 수행하는 자금세탁방지등 업무를 상당한 주의를 다하여 감 독할 책임(준법감시인등을 둘 법령상 의무가 있는 금융회사등의 경우 준법 감시인등을 보조하는 범위에 한정한다)",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 190,
+    "level" : "1",
+    "page number" : 5,
+    "bounding box" : [ 42.457, 176.704, 552.421, 216.668 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 167,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 42.457, 176.704, 552.421, 216.668 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제6조(감사) 자금세탁방지등 활동과 관련하여 감사가 수행하여야 할 역할 및 책임은 다음 각 호와 같다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 191,
+    "level" : "3",
+    "page number" : 5,
+    "bounding box" : [ 56.429, 76.014, 552.421, 166.323 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 56.429, 126.359, 552.421, 166.323 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "1. 감사는 경영진과 독립적인 입장에서 연1회 이상 자금세탁방지등 업무의 운영실태를 조사·점검·평가하여 이사회에 보고하여야 한다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 56.429, 76.014, 552.421, 115.978 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "2. 감사는 자금세탁방지등 업무의 운영에 관하여 시정의견이 있는 경우, 이 를 포함하여 이사회에 보고하고 문제점을 시정하게 하는 등 다음 각 목의",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 192,
+    "page number" : 6,
+    "bounding box" : [ 70.402, 755.671, 179.12, 770.463 ],
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "업무를 수행한다."
+  }, {
+    "type" : "list",
+    "id" : 193,
+    "level" : "4",
+    "page number" : 6,
+    "bounding box" : [ 70.461, 705.326, 521.958, 745.29 ],
+    "numbering style" : "korean letters",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 70.461, 730.499, 389.07, 745.29 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "가. 자금세탁방지등 업무의 개선을 위한 권고사항",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 70.461, 705.326, 521.958, 720.118 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "나. 자금세탁방지등 업무의 취약점 및 개선방안에 대한 이행여부 확인",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 195,
+    "level" : "Subtitle",
+    "page number" : 6,
+    "bounding box" : [ 42.457, 629.809, 552.421, 669.773 ],
+    "heading level" : 3,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "제6조의2(준법감시인) 자금세탁방지등 활동과 관련하여 준법감시인이 수행하여 야 할 역할 및 책임은 다음 각 호와 같다."
+  }, {
+    "type" : "list",
+    "id" : 198,
+    "level" : "3",
+    "page number" : 6,
+    "bounding box" : [ 56.429, 554.291, 552.421, 619.428 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 56.429, 604.636, 445.079, 619.428 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "1. 임직원의 직무 수행시 업무지침인 이 규정 준수여부 감독",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 56.429, 554.291, 552.421, 594.255 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "2. 보고책임자가 수행하는 자금세탁방지등 업무를 상당한 주의를 다하여 감독할 책임",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 201,
+    "page number" : 6,
+    "bounding box" : [ 42.457, 529.119, 174.677, 543.91 ],
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "[본조신설 2025.5.22.]"
+  }, {
+    "type" : "heading",
+    "id" : 202,
+    "level" : "Subtitle",
+    "page number" : 6,
+    "bounding box" : [ 42.457, 453.601, 552.421, 493.565 ],
+    "heading level" : 3,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "제7조(보고책임자) ① 보고책임자는 AML보고책임자로 하며, 타 업무를 겸임할 수 있다.<개정 2014.10.23., 2025.1.16.>"
+  }, {
+    "type" : "list",
+    "id" : 203,
+    "level" : "4",
+    "page number" : 6,
+    "bounding box" : [ 56.429, 403.256, 552.358, 443.22 ],
+    "numbering style" : "circled arabic numbers",
+    "number of list items" : 1,
+    "next list id" : 216,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 56.429, 403.256, 552.358, 443.22 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "② 보고책임자의 역할 및 책임은 다음 각 호와 같다.<개정 2014.10.23., 2019.6.27., 2025.5.22.>",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 206,
+    "level" : "3",
+    "page number" : 6,
+    "bounding box" : [ 56.429, 327.739, 542.946, 392.875 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 3,
+    "next list id" : 215,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 56.429, 378.084, 473.024, 392.875 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "1. 의심되는 거래 및 고액 현금거래의 금융정보분석원장 앞 보고",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 56.429, 352.911, 340.136, 367.703 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "2. 금융거래시 고객확인 이행관련 업무 총괄",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 56.429, 327.739, 542.946, 342.53 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "3. 다음 각 목의 자금세탁방지등을 위한 내부통제체계의 구체적 구축·운영",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 208,
+    "level" : "4",
+    "page number" : 6,
+    "bounding box" : [ 70.461, 76.014, 552.421, 317.358 ],
+    "numbering style" : "korean letters",
+    "number of list items" : 7,
+    "next list id" : 213,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 70.461, 302.566, 515.001, 317.358 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "가. 세부 업무지침인 「자금세탁방지업무 취급지침」의 마련 및 운용",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 70.461, 252.221, 552.421, 292.185 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "나. 직무기술서 등에 자금세탁방지등의 업무와 관련한 임직원별 역할과 책 임 및 보고체계 등 명시",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 70.461, 176.704, 552.421, 241.84 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "다. 전자금융기술의 발전, 금융 신상품의 개발 등에 따른 자금세탁행위 및 공중협박자금·대량살상무기확산자금 조달(이하 \"자금세탁행위등\"이라 한다) 유형과 기법에 대한 대응방안 마련",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 70.461, 151.531, 284.126, 166.323 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "라. 직원알기제도의 수립 및 운영",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 70.461, 126.359, 277.17, 141.15 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "마. 임직원에 대한 교육 및 연수",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 70.461, 101.186, 417.015, 115.978 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "바. 자금세탁방지등의 업무와 관련된 자료의 보존책임",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 70.461, 76.014, 552.421, 90.805 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "사. 자금세탁방지등 관련 내부통제체계 구축·운영실태의 정기적 점검 및",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 213,
+    "level" : "4",
+    "page number" : 7,
+    "bounding box" : [ 70.461, 705.326, 552.421, 770.463 ],
+    "numbering style" : "korean letters",
+    "number of list items" : 2,
+    "previous list id" : 208,
+    "list items" : [ {
+      "type" : "list item",
+      "id" : 210,
+      "page number" : 7,
+      "bounding box" : [ 84.434, 730.499, 552.421, 770.463 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "그 결과 발견된 취약점의 은행장 등에 대한 보고(다만, 은행장은 준법감 시인등이 점검·보고하도록 할 수 있다)",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 70.461, 705.326, 389.069, 720.118 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "아. 해외지점 등의 자금세탁방지등 업무실태 점검",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 215,
+    "level" : "3",
+    "page number" : 7,
+    "bounding box" : [ 56.429, 503.946, 552.421, 694.945 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "previous list id" : 206,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 56.429, 654.981, 552.421, 694.945 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "4. 다음 각 목의 사항을 포함하여 금융정보분석원과의 업무협조 및 정보교환 등을 위한 조치",
+      "kids" : [ {
+        "type" : "list",
+        "id" : 57,
+        "level" : "4",
+        "page number" : 7,
+        "bounding box" : [ 70.461, 529.119, 552.421, 644.6 ],
+        "numbering style" : "korean letters",
+        "number of list items" : 2,
+        "list items" : [ {
+          "type" : "list item",
+          "page number" : 7,
+          "bounding box" : [ 70.461, 579.464, 552.421, 644.6 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "가. 특정금융거래정보의 분석을 위해 금융정보분석원장이 문서에 의해 외 국환거래 등을 이용한 금융거래 관련 정보 또는 자료의 제공을 요청하 는 경우 그 제공",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 7,
+          "bounding box" : [ 70.461, 529.119, 552.421, 569.083 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "나. 의심되는 거래보고 및 고액현금거래보고와 관련한 내부보고체계 운용 상황의 점검·개선사항에 대하여 금융정보분석원과의 정보교환 등",
+          "kids" : [ ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 56.429, 503.946, 263.137, 518.738 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "5. 내부보고체계의 수립 및 운영",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 216,
+    "level" : "4",
+    "page number" : 7,
+    "bounding box" : [ 56.429, 378.084, 552.421, 493.565 ],
+    "numbering style" : "circled arabic numbers",
+    "number of list items" : 2,
+    "previous list id" : 203,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 56.429, 428.429, 552.421, 493.565 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "③ 보고책임자는 업무수행과 관련하여 필요한 경우 임직원에게 정보의 제공 및 자료의 제출을 요구할 수 있으며, 해당 임직원은 이에 충실히 응하여야 한다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 56.429, 378.084, 552.421, 418.048 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "④ 보고책임자이거나 보고책임자이었던 자는 당해 직무수행과 관련한 사유 로 은행으로부터 부당한 조치를 받아서는 아니된다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 218,
+    "level" : "1",
+    "page number" : 7,
+    "bounding box" : [ 42.457, 151.531, 552.421, 342.53 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 4,
+    "next list id" : 220,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 42.457, 277.394, 552.421, 342.53 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제8조(전담부서 등) 은행은 자금세탁방지등의 업무 수행을 위하여 전담부서를 설치하고 전담직원을 지정하는 등 필요한 조직을 구축하여야 한다.<개정 2018.5.14., 2025.5.22.>",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 70,
+        "page number" : 7,
+        "bounding box" : [ 42.457, 252.221, 174.677, 267.013 ],
+        "font" : "�޸ո���",
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "[제목개정 2025.5.22.]"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 42.457, 201.876, 186.681, 216.668 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제9조 삭제<2025.5.22.>",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 42.457, 176.704, 193.635, 191.495 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제10조 삭제<2025.5.22.>",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 42.457, 151.531, 193.635, 166.323 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제11조 삭제<2025.5.22.>",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 219,
+    "level" : "Doctitle",
+    "page number" : 7,
+    "bounding box" : [ 225.478, 99.134, 369.4, 115.948 ],
+    "heading level" : 1,
+    "font" : "�޸ո���",
+    "font size" : 15.943,
+    "text color" : "[0.0]",
+    "content" : "제2절 교육 및 연수"
+  }, {
+    "type" : "list",
+    "id" : 220,
+    "level" : "1",
+    "page number" : 8,
+    "bounding box" : [ 42.457, 72.418, 552.421, 770.463 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 4,
+    "previous list id" : 218,
+    "next list id" : 223,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 42.457, 705.326, 552.421, 770.463 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제12조(교육 및 연수) ① 보고책임자는 자금세탁방지제도에 대한 임직원의 이 해와 관심도 제고를 위한 교육 및 연수프로그램을 수립하고 연1회 이상 교 육을 실시하여야 한다.",
+      "kids" : [ {
+        "type" : "list",
+        "id" : 74,
+        "level" : "2",
+        "page number" : 8,
+        "bounding box" : [ 56.429, 604.636, 552.422, 694.945 ],
+        "numbering style" : "circled arabic numbers",
+        "number of list items" : 2,
+        "list items" : [ {
+          "type" : "list item",
+          "page number" : 8,
+          "bounding box" : [ 56.429, 654.981, 552.421, 694.945 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "② 교육 및 연수는 직위 또는 담당업무 등 교육대상에 따라 적절하게 구분 하여 실시하되, 집합, 전달, 화상 등 다양한 방법으로 실시할 수 있다.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 8,
+          "bounding box" : [ 56.429, 604.636, 552.422, 644.6 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "③ 교육 및 연수를 실시한 후에는 그 일자, 대상, 내용 등 교육 관련사항을 기록· 보존하여야 한다.",
+          "kids" : [ ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 42.457, 529.119, 552.421, 569.083 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제13조(교육내용) 교육 및 연수에는 다음 각 호의 내용이 포함되어야 한다.<개 정 2019.6.27.>",
+      "kids" : [ {
+        "type" : "list",
+        "id" : 75,
+        "level" : "3",
+        "page number" : 8,
+        "bounding box" : [ 56.429, 302.566, 552.421, 518.738 ],
+        "numbering style" : "arabic numbers",
+        "number of list items" : 8,
+        "list items" : [ {
+          "type" : "list item",
+          "page number" : 8,
+          "bounding box" : [ 56.429, 503.946, 389.07, 518.738 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "1. 자금세탁방지등에 관한 법규 및 제도의 주요내용",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 8,
+          "bounding box" : [ 56.429, 478.774, 354.049, 493.565 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "2. 자금세탁방지등과 관련된 내부정책 및 절차",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 8,
+          "bounding box" : [ 56.429, 453.601, 305.115, 468.393 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "3. 의심되는 거래의 유형 및 최근 동향",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 8,
+          "bounding box" : [ 56.429, 428.429, 424.091, 443.22 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "4. 고객확인의 이행과 관련한 고객 유형별 업무 처리절차",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 8,
+          "bounding box" : [ 56.429, 403.256, 417.015, 418.048 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "5. 의심되는 거래 및 고액 현금거래 보고 업무 처리절차",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 8,
+          "bounding box" : [ 56.429, 378.084, 319.147, 392.875 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "6. 국가위험 및 요주의 인물에 관한 사항",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 8,
+          "bounding box" : [ 56.429, 327.739, 552.421, 367.703 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "7. 금융거래에 내재된 자금세탁위험을 평가하여 위험도에 따라 관리수준을 차등화하는 업무체계에 관한 사항",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 8,
+          "bounding box" : [ 56.429, 302.566, 354.048, 317.358 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "8. 자금세탁방지등과 관련된 임직원의 역할 등",
+          "kids" : [ ]
+        } ]
+      }, {
+        "type" : "paragraph",
+        "id" : 76,
+        "level" : "4",
+        "page number" : 8,
+        "bounding box" : [ 225.478, 250.169, 369.399, 266.983 ],
+        "font" : "�޸ո���",
+        "font size" : 15.943,
+        "text color" : "[0.0]",
+        "content" : "제3절 직원알기제도"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 42.457, 147.935, 552.421, 213.072 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제14조(정의) 직원알기제도란 은행이 자금세탁등에 자신의 임직원이 이용되지 않도록 하기 위해 임직원을 채용(재직 중 포함)하는 때에 그 신원사항 등을 확인하는 것을 말한다.<개정 2014.10.23.>",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 42.457, 72.418, 552.421, 112.382 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제15조(제도운용) 보고책임자는 직원알기제도의 이행과 관련된 절차와 방법을 수립하고 수립된 절차 등이 원활하게 운용될 수 있도록 적절한 조치를 취하",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 221,
+    "page number" : 9,
+    "bounding box" : [ 56.489, 755.671, 123.23, 770.463 ],
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "여야 한다."
+  }, {
+    "type" : "heading",
+    "id" : 222,
+    "level" : "Doctitle",
+    "page number" : 9,
+    "bounding box" : [ 225.478, 703.273, 369.399, 720.088 ],
+    "heading level" : 1,
+    "font" : "�޸ո���",
+    "font size" : 15.943,
+    "text color" : "[0.0]",
+    "content" : "제4절 고객확인의무"
+  }, {
+    "type" : "list",
+    "id" : 223,
+    "level" : "1",
+    "page number" : 9,
+    "bounding box" : [ 42.457, 575.868, 552.422, 666.177 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 220,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 42.457, 575.868, 552.422, 666.177 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제16조(고객확인의무) ① 임직원은 당행이 제공하는 금융거래 또는 서비스가 자금세탁등의 불법행위에 이용되지 않도록 금융거래를 이용한 자금세탁행위 와 공중협박자금조달행위를 방지하기 위하여 합당한 주의로써 다음 각 호의 구분에 따른 사항을 확인하여야 한다.<개정 2025.5.22.>",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 228,
+    "level" : "3",
+    "page number" : 9,
+    "bounding box" : [ 56.429, 374.488, 552.421, 565.487 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 3,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 56.429, 525.523, 552.421, 565.487 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "1. 고객이 계좌를 신규로 개설하거나 일정금액 이상으로 일회성 금융거래를 하는 경우: 고객의 신원과 실제소유자를 확인",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 56.429, 450.005, 552.421, 515.142 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "2. 고객의 실제 소유자 여부가 의심되는 등 고객이 자금세탁행위나 공중협박 자금조달행위를 할 우려가 있는 경우: 제1호의 사항을 확인하고 금융거래 의 목적 및 거래자금의 원천 등을 추가로 확인",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 56.429, 374.488, 552.421, 439.624 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "3. 가상자산사업자인 고객에 대해 제1호, 제2호 외 관계법령에 따른 신고 및 변경신고 의무 이행, 신고 불수리 및 신고 등의 직권 말소 제외사실 등을 확인",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 232,
+    "level" : "2",
+    "page number" : 9,
+    "bounding box" : [ 56.429, 72.418, 552.477, 364.107 ],
+    "numbering style" : "circled arabic numbers",
+    "number of list items" : 4,
+    "next list id" : 238,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 56.429, 273.798, 552.477, 364.107 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "② 원칙적으로 금융거래가 이루어지기 전에 고객확인을 하여야 한다. 다만, 금융거래의 성질 등으로 인하여 불가피한 경우로서 금융정보분석원장이 정 하는 경우에는 금융거래가 이루어진 후에 고객확인을 할 수 있다.<신설 2025.5.22.>",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 56.429, 198.28, 552.421, 263.417 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "③ 고객확인을 한 고객과 거래가 유지되는 동안 지속적으로 고객확인을 하 는 절차, 비대면 거래 시 고객확인과 관련된 절차 및 고객확인을 고객에게 공지하는 절차를 마련해야 한다.<신설 2025.5.22.>",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 56.429, 122.763, 552.421, 187.899 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "④ 은행은 효율적인 고객확인을 위하여 자금세탁등과 관련된 위험을 식별하 고 평가하는 절차와 고객별 자금세탁위험도를 감안한 차별화된 고객확인 절 차를 수립·운영하여야 한다.<신설 2025.5.22.>",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 56.429, 72.418, 552.421, 112.382 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "⑤ 고객과 금융거래를 하는 때에 신원을 확인하여야 하며, 신뢰할 수 있고 독립적인 문서·자료·정보 등을 통하여 그 정확성을 검증하여야 한다. 다",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 238,
+    "level" : "2",
+    "page number" : 10,
+    "bounding box" : [ 56.429, 503.946, 552.477, 770.463 ],
+    "numbering style" : "circled arabic numbers",
+    "number of list items" : 4,
+    "previous list id" : 232,
+    "list items" : [ {
+      "type" : "list item",
+      "id" : 235,
+      "page number" : 10,
+      "bounding box" : [ 56.489, 730.499, 552.477, 770.463 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "만, 자금세탁행위의 위험이 낮은 경우 등에는 검증방법을 달리할 수 있다. <신설 2025.5.22.>",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 10,
+      "bounding box" : [ 56.429, 654.981, 552.421, 720.118 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "⑥ 고객이 신원확인 정보 등의 제공을 거부하거나 자료를 제출하지 않는 등 고객확인을 할 수 없는 때에는 그 고객과의 거래를 거절하는 등의 조치를 하여야 한다.<신설 2025.5.22.>",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 10,
+      "bounding box" : [ 56.429, 579.464, 552.421, 644.6 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "⑦ 전신송금의 방법으로 관계법령 및 지침에서 정한 금액 이상을 송금하는 경우 송금 관련 정보를 보관·제공하는 등의 조치를 취하여야 한다.<신설 2025.5.22.>",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 10,
+      "bounding box" : [ 56.429, 503.946, 552.421, 569.083 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "⑧ 제3자를 통하여 본 조의 고객확인을 수행하는 경우, 관계법령에서 정한 제3자를 통한 고객확인 이행요건 확인 등의 절차를 수립·운영하여야 한다. <신설 2025.5.22.>",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 242,
+    "level" : "Subtitle",
+    "page number" : 10,
+    "bounding box" : [ 42.457, 403.256, 552.421, 468.393 ],
+    "heading level" : 3,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "제17조(고위험군에 대한 강화된 고객확인) 자금세탁의 위험이 높다고 평가되는 고객 및 거래에 대해서는 거래 시 자금세탁행위를 방지하기 위한 별도의 절 차와 방법을 수립·운영하여야 한다.<개정 2025.5.22.>"
+  }, {
+    "type" : "paragraph",
+    "id" : 246,
+    "page number" : 10,
+    "bounding box" : [ 42.457, 378.084, 174.677, 392.875 ],
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "[제목개정 2025.5.22.]"
+  }, {
+    "type" : "paragraph",
+    "id" : 247,
+    "level" : "3",
+    "page number" : 10,
+    "bounding box" : [ 45.575, 296.917, 549.302, 342.5 ],
+    "font" : "�޸ո���",
+    "font size" : 15.943,
+    "text color" : "[0.0]",
+    "content" : "제5절 자금세탁위험평가 체계 및 신상품 등에 대한 자금세탁위험 사 전검토 <개정 2019.6.27.>"
+  }, {
+    "type" : "heading",
+    "id" : 248,
+    "level" : "Subtitle",
+    "page number" : 10,
+    "bounding box" : [ 42.457, 194.684, 552.421, 259.821 ],
+    "heading level" : 3,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "제18조(위험평가 체계) 은행 자체 및 금융거래에 내재된 자금세탁등 위험을 식 별·분석·평가하고 위험도에 따라 관리를 차등화하는 업무체계를 수립·운 영하여야 한다."
+  }, {
+    "type" : "paragraph",
+    "id" : 249,
+    "page number" : 10,
+    "bounding box" : [ 42.457, 169.512, 174.677, 184.303 ],
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "[본조신설 2019.6.27.]"
+  }, {
+    "type" : "heading",
+    "id" : 251,
+    "level" : "Subtitle",
+    "page number" : 10,
+    "bounding box" : [ 42.457, 68.822, 552.422, 133.958 ],
+    "heading level" : 3,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "제19조(신상품 사전검토) 신규 금융상품 및 서비스를 제공하기 전 자금세탁등 위험을 평가하기 위한 절차 및 방법을 수립·운영하여야 한다.<개정 2025.5.22.>"
+  }, {
+    "type" : "heading",
+    "id" : 254,
+    "level" : "Subtitle",
+    "page number" : 11,
+    "bounding box" : [ 42.457, 730.499, 552.421, 770.463 ],
+    "heading level" : 3,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "제20조(위험경감) 제18조 및 제19조에서 식별·분석·평가한 자금세탁등 위험 을 관리·경감하는 적절한 조치를 하여야 한다."
+  }, {
+    "type" : "paragraph",
+    "id" : 255,
+    "page number" : 11,
+    "bounding box" : [ 42.457, 705.326, 174.677, 720.118 ],
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "[본조신설 2019.6.27.]"
+  }, {
+    "type" : "paragraph",
+    "id" : 257,
+    "level" : "3",
+    "page number" : 11,
+    "bounding box" : [ 75.919, 652.928, 519.019, 669.743 ],
+    "font" : "�޸ո���",
+    "font size" : 15.943,
+    "text color" : "[0.0]",
+    "content" : "제6절 해외지점 등의 자금세탁방지 <신설 2019.6.27., 2025.5.22.>"
+  }, {
+    "type" : "heading",
+    "id" : 259,
+    "level" : "Subtitle",
+    "page number" : 11,
+    "bounding box" : [ 42.457, 575.868, 552.421, 615.832 ],
+    "heading level" : 3,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "제21조(자금세탁방지법규 준수) ① 해외지점 등은 자금세탁방지등에 관한 국내 및 현지법규를 준수하여야 한다.<개정 2025.5.22.>"
+  }, {
+    "type" : "paragraph",
+    "id" : 262,
+    "level" : "4",
+    "page number" : 11,
+    "bounding box" : [ 56.429, 500.35, 552.421, 565.487 ],
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "② 해외지점 등에 적용되는 자금세탁방지등 관련 국내법규와 현지법규의 기 준이 다른 경우에는 소재국의 현지법규가 허용하는 범위 내에서 더 높은 기 준을 적용하여야 한다.<개정 2025.5.22.>"
+  }, {
+    "type" : "paragraph",
+    "id" : 264,
+    "page number" : 11,
+    "bounding box" : [ 42.457, 475.178, 174.677, 489.969 ],
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "[본조신설 2019.6.27.]"
+  }, {
+    "type" : "heading",
+    "id" : 266,
+    "level" : "Subtitle",
+    "page number" : 11,
+    "bounding box" : [ 42.457, 374.488, 552.421, 439.624 ],
+    "heading level" : 3,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "제22조(자금세탁방지 관리체계) 해외지점 등의 자금세탁방지등 의무 이행을 관 리·감독하여야 하며, 자금세탁방지등에 필요한 업무처리절차와 방법을 수립 하고 운영하여야 한다.<개정 2025.5.22.>"
+  }, {
+    "type" : "paragraph",
+    "id" : 268,
+    "page number" : 11,
+    "bounding box" : [ 42.457, 349.315, 174.677, 364.107 ],
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "[본조신설 2019.6.27.]"
+  }, {
+    "type" : "paragraph",
+    "id" : 269,
+    "level" : "3",
+    "page number" : 11,
+    "bounding box" : [ 163.351, 296.917, 431.585, 313.732 ],
+    "font" : "�޸ո���",
+    "font size" : 15.943,
+    "text color" : "[0.0]",
+    "content" : "제7절 금융제재 준수 <신설 2019.6.27.>"
+  }, {
+    "type" : "heading",
+    "id" : 271,
+    "level" : "Subtitle",
+    "page number" : 11,
+    "bounding box" : [ 42.457, 219.857, 552.421, 259.821 ],
+    "heading level" : 3,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "제23조(금융제재법규 준수) 국내 본·지점 및 해외지점 등은 국내외 금융제재 준수 관련 법규를 준수하여야 한다.<개정 2025.5.22.>"
+  }, {
+    "type" : "paragraph",
+    "id" : 273,
+    "page number" : 11,
+    "bounding box" : [ 42.457, 194.684, 174.677, 209.476 ],
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "[본조신설 2019.6.27.]"
+  }, {
+    "type" : "heading",
+    "id" : 274,
+    "level" : "Subtitle",
+    "page number" : 11,
+    "bounding box" : [ 42.457, 119.167, 552.421, 159.131 ],
+    "heading level" : 3,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "제24조(금융제재법규 준수 체계) 금융제재대상과의 거래를 효과적으로 차단하 기 위한 금융제재준수 프로그램 등을 마련하여 운영하여야 한다."
+  }, {
+    "type" : "paragraph",
+    "id" : 275,
+    "page number" : 11,
+    "bounding box" : [ 42.457, 93.994, 174.677, 108.786 ],
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "[본조신설 2019.6.27.]"
+  }, {
+    "type" : "heading",
+    "id" : 276,
+    "level" : "Doctitle",
+    "page number" : 12,
+    "bounding box" : [ 229.436, 753.618, 365.322, 770.433 ],
+    "heading level" : 1,
+    "font" : "�޸ո���",
+    "font size" : 15.943,
+    "text color" : "[0.0]",
+    "content" : "제3장 보고체계 등"
+  }, {
+    "type" : "list",
+    "id" : 277,
+    "level" : "1",
+    "page number" : 12,
+    "bounding box" : [ 42.457, 374.488, 552.421, 716.522 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 12,
+      "bounding box" : [ 42.457, 651.385, 552.421, 716.522 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제25조(의심되는 거래 보고) ① 모든 임직원은 의심되는 거래로 판단되는 거래 가 발생하거나 발생할 가능성이 있는 경우에는 담당책임자에게 즉시 보고하 여야 한다.<개정 2014.10.23.>",
+      "kids" : [ {
+        "type" : "list",
+        "id" : 100,
+        "level" : "2",
+        "page number" : 12,
+        "bounding box" : [ 56.429, 475.178, 552.423, 641.004 ],
+        "numbering style" : "circled arabic numbers",
+        "number of list items" : 3,
+        "list items" : [ {
+          "type" : "list item",
+          "page number" : 12,
+          "bounding box" : [ 56.429, 601.04, 552.421, 641.004 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "② 담당책임자는 제1항의 보고사항이 의심되는 거래로 판단되는 경우에는 지체없이 보고책임자에게 보고하여야 한다.<개정 2014.10.23.>",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 12,
+          "bounding box" : [ 56.429, 550.695, 552.421, 590.659 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "③ 담당책임자는 제1항의 보고사항이 신고대상거래인 경우에는 지체없이 관 할 수사기관에 신고후 보고책임자에게 보고하여야 한다<개정 2014.10.23.>",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 12,
+          "bounding box" : [ 56.429, 475.178, 552.423, 540.314 ],
+          "font" : "�޸ո���",
+          "font size" : 14.025,
+          "text color" : "[0.0]",
+          "content" : "④ 보고책임자는 제2항에 따라 보고받은 내용을 검토하여 의심되는 거래로 판단되거나 제3항에 따른 보고를 받은 경우에는 지체없이 금융정보분석원장 에게 보고하여야 한다.<개정 2014.10.23., 2025.5.22.>",
+          "kids" : [ ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 12,
+      "bounding box" : [ 42.457, 374.488, 552.421, 439.624 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제26조(고액 현금거래 보고) 보고책임자는 보고대상 고액 현금거래를 추출하여 동거래 발생후 30일 이내에 금융정보분석원장에게 보고하여야 한다.<개정 2025.5.22.>",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 281,
+    "level" : "1",
+    "page number" : 12,
+    "bounding box" : [ 42.457, 119.167, 552.421, 338.934 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "next list id" : 285,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 12,
+      "bounding box" : [ 42.457, 298.97, 552.421, 338.934 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제26조의2(모니터링 체계 등) 은행은 자금세탁등을 예방하기 위하여 고객과의 금융거래 등에 대한 지속적인 모니터링체계를 수립하여 운영하여야 한다.",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 15,
+        "page number" : 12,
+        "bounding box" : [ 42.457, 273.798, 174.677, 288.589 ],
+        "font" : "�޸ո���",
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "[본조신설 2025.5.22.]"
+      }, {
+        "type" : "paragraph",
+        "id" : 17,
+        "level" : "2",
+        "page number" : 12,
+        "bounding box" : [ 199.332, 221.4, 395.605, 238.214 ],
+        "font" : "�޸ո���",
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "제4장 기타 <신설 2025.5.22.>"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 12,
+      "bounding box" : [ 42.457, 119.167, 552.421, 184.303 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제27조(자료의 보존) 보고책임자는 고객확인 및 검증자료, 금융거래기록, 의심 되는 거래 보고서 등을 포함한 내·외부 보고서 및 관련 자료 등을 관계 법 령 등에서 정하는 바에 따라 보존하여야 한다.<개정 2014.10.23.>",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 283,
+    "page number" : 12,
+    "bounding box" : [ 42.457, 93.994, 423.303, 108.786 ],
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "[제28조에서 이동, 종전 제27조는 제28조로 이동 2025.5.22.]"
+  }, {
+    "type" : "list",
+    "id" : 285,
+    "level" : "1",
+    "page number" : 13,
+    "bounding box" : [ 42.457, 705.326, 552.421, 770.463 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 281,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 13,
+      "bounding box" : [ 42.457, 705.326, 552.421, 770.463 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제28조(비밀유지) 임직원은 보고 또는 신고를 하고자 하거나, 보고 또는 신고를 한 경우 거래상대방을 포함하여 다른 사람에게 그 사실을 누설하여서는 아 니된다.<개정 2014.10.23.>",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 287,
+    "page number" : 13,
+    "bounding box" : [ 42.457, 654.981, 552.421, 694.945 ],
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "[제목개정 2014.10.23.][제27조에서 이동, 종전 제28조는 제27조로 이동 2025.5.22.]"
+  }, {
+    "type" : "list",
+    "id" : 290,
+    "level" : "1",
+    "page number" : 13,
+    "bounding box" : [ 42.457, 453.601, 552.421, 619.428 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 13,
+      "bounding box" : [ 42.457, 579.464, 552.421, 619.428 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제28조의2(보안관리) 은행은 자금세탁방지업무와 관련한 금융정보분석원 보고 정보 등에 대한 보안관리를 위한 정책을 수립하여야 한다.",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 12,
+        "page number" : 13,
+        "bounding box" : [ 42.457, 554.291, 174.677, 569.083 ],
+        "font" : "�޸ո���",
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "[본조신설 2025.5.22.]"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 13,
+      "bounding box" : [ 42.457, 453.601, 552.421, 518.738 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제29조(기타) 이 규정의 시행과 관련하여 자금세탁방지등 업무 수행에 필요한 세부사항은「자금세탁방지업무취급지침」등 따로 정한 세칙에서 정하는 바 에 따른다.<개정 2019.6.27.>",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 291,
+    "level" : "Subtitle",
+    "page number" : 13,
+    "bounding box" : [ 242.868, 378.084, 352.071, 392.875 ],
+    "heading level" : 2,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "부칙<2001.11.20.>"
+  }, {
+    "type" : "paragraph",
+    "id" : 292,
+    "page number" : 13,
+    "bounding box" : [ 42.457, 302.566, 319.084, 317.358 ],
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "이 규정은 2001년 11월 28일부터 시행한다."
+  }, {
+    "type" : "heading",
+    "id" : 293,
+    "level" : "Subtitle",
+    "page number" : 13,
+    "bounding box" : [ 246.346, 227.049, 348.593, 241.84 ],
+    "heading level" : 2,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "부칙<2003.2.21.>"
+  }, {
+    "type" : "list",
+    "id" : 294,
+    "level" : "2",
+    "page number" : 13,
+    "bounding box" : [ 42.457, 151.531, 305.051, 166.323 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "next list id" : 296,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 13,
+      "bounding box" : [ 42.457, 151.531, 305.051, 166.323 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "이 규정은 2003년 2월 3일부터 시행한다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 295,
+    "level" : "Subtitle",
+    "page number" : 13,
+    "bounding box" : [ 249.825, 76.014, 345.114, 90.805 ],
+    "heading level" : 2,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "부칙<2004.3.3.>"
+  }, {
+    "type" : "list",
+    "id" : 296,
+    "level" : "2",
+    "page number" : 14,
+    "bounding box" : [ 42.457, 151.531, 312.128, 770.463 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 5,
+    "previous list id" : 294,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 14,
+      "bounding box" : [ 42.457, 755.671, 312.128, 770.463 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "이 규정은 2004년 1월 28일부터 시행한다.",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 5,
+        "page number" : 14,
+        "bounding box" : [ 246.346, 680.154, 348.593, 694.945 ],
+        "font" : "�޸ո���",
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "부칙<2005.5.27.>"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 14,
+      "bounding box" : [ 42.457, 604.636, 312.128, 619.428 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "이 규정은 2005년 5월 27일부터 시행한다.",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 6,
+        "page number" : 14,
+        "bounding box" : [ 246.346, 529.119, 348.593, 543.91 ],
+        "font" : "�޸ո���",
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "부칙<2006.1.16.>"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 14,
+      "bounding box" : [ 42.457, 453.601, 312.128, 468.393 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "이 규정은 2006년 1월 16일부터 시행한다.",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 7,
+        "page number" : 14,
+        "bounding box" : [ 246.346, 378.084, 348.593, 392.875 ],
+        "font" : "�޸ո���",
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "부칙<2007.1.18.>"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 14,
+      "bounding box" : [ 42.457, 302.566, 312.128, 317.358 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "이 규정은 2007년 1월 12일부터 시행한다.",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 8,
+        "page number" : 14,
+        "bounding box" : [ 249.825, 227.049, 345.114, 241.84 ],
+        "font" : "�޸ո���",
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "부칙<2008.2.1.>"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 14,
+      "bounding box" : [ 42.457, 151.531, 305.051, 166.323 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "이 규정은 2008년 2월 1일부터 시행한다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 297,
+    "level" : "Subtitle",
+    "page number" : 14,
+    "bounding box" : [ 246.346, 76.014, 348.593, 90.805 ],
+    "heading level" : 2,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "부칙<2008.7.31.>"
+  }, {
+    "type" : "paragraph",
+    "id" : 298,
+    "page number" : 15,
+    "bounding box" : [ 42.457, 755.671, 312.128, 770.463 ],
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "이 규정은 2008년 7월 31일부터 시행한다."
+  }, {
+    "type" : "heading",
+    "id" : 299,
+    "level" : "Subtitle",
+    "page number" : 15,
+    "bounding box" : [ 242.868, 680.154, 352.071, 694.945 ],
+    "heading level" : 2,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "부칙<2008.12.19.>"
+  }, {
+    "type" : "paragraph",
+    "id" : 300,
+    "page number" : 15,
+    "bounding box" : [ 42.457, 604.636, 319.084, 619.428 ],
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "이 규정은 2008년 12월 22일부터 시행한다."
+  }, {
+    "type" : "heading",
+    "id" : 301,
+    "level" : "Subtitle",
+    "page number" : 15,
+    "bounding box" : [ 246.346, 529.119, 348.593, 543.91 ],
+    "heading level" : 2,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "부칙<2010.8.23.>"
+  }, {
+    "type" : "list",
+    "id" : 302,
+    "level" : "2",
+    "page number" : 15,
+    "bounding box" : [ 42.457, 151.531, 459.048, 468.393 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 3,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 15,
+      "bounding box" : [ 42.457, 453.601, 312.128, 468.393 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "이 규정은 2010년 8월 23일부터 시행한다.",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 2,
+        "page number" : 15,
+        "bounding box" : [ 246.346, 378.084, 348.593, 392.875 ],
+        "font" : "�޸ո���",
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "부칙<2011.1.14.>"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 15,
+      "bounding box" : [ 42.457, 302.566, 459.048, 317.358 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "이 규정은 2011년 상반기 부점장 정기인사 발령일부터 시행한다.",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 3,
+        "page number" : 15,
+        "bounding box" : [ 249.825, 227.049, 345.114, 241.84 ],
+        "font" : "�޸ո���",
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "부칙<2012.6.1.>"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 15,
+      "bounding box" : [ 42.457, 151.531, 305.051, 166.323 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "이 규정은 2012년 6월 1일부터 시행한다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 303,
+    "level" : "Subtitle",
+    "page number" : 15,
+    "bounding box" : [ 246.346, 76.014, 348.593, 90.805 ],
+    "heading level" : 2,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "부칙<2012.7.12.>"
+  }, {
+    "type" : "list",
+    "id" : 304,
+    "level" : "2",
+    "page number" : 16,
+    "bounding box" : [ 42.457, 554.291, 552.421, 770.463 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 16,
+      "bounding box" : [ 42.457, 730.499, 552.421, 770.463 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "이 규정은 2012년 하반기 부점장 정기인사 발령일부터 시행한다. (2012년 하반 기 직제규정 개정에 따른 일괄개정)",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 1,
+        "page number" : 16,
+        "bounding box" : [ 246.346, 654.981, 348.593, 669.773 ],
+        "font" : "�޸ո���",
+        "font size" : 14.025,
+        "text color" : "[0.0]",
+        "content" : "부칙<2013.1.10.>"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 16,
+      "bounding box" : [ 42.457, 554.291, 552.421, 594.255 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "이 규정은 2013년 상반기 부점장 정기인사 발령일부터 시행한다. (2013년 상반 기 직제규정 개정에 따른 일괄개정)",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 305,
+    "level" : "Subtitle",
+    "page number" : 16,
+    "bounding box" : [ 242.868, 478.774, 352.071, 493.565 ],
+    "heading level" : 2,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "부칙<2014.10.23.>"
+  }, {
+    "type" : "list",
+    "id" : 306,
+    "level" : "1",
+    "page number" : 16,
+    "bounding box" : [ 42.457, 302.566, 552.421, 418.048 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 16,
+      "bounding box" : [ 42.457, 352.911, 552.421, 418.048 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제1조(시행일) 이 규정은 2014년 10월 23일부터 시행한다. 다만 제3조제2항의 불법 차명금융거래 관련 의심되는 거래 보고는 2014년 11월 29일부터 시행 한다.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 16,
+      "bounding box" : [ 42.457, 302.566, 552.421, 342.53 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "제2조(담당책임자에 대한 특례) 제11조제1항의 본부내 담당책임자는 2015년 상 반기 정기 인사이동 이후부터 지정·운용한다.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 307,
+    "level" : "Subtitle",
+    "page number" : 16,
+    "bounding box" : [ 246.346, 227.049, 348.593, 241.84 ],
+    "heading level" : 2,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "부칙<2018.5.14.>"
+  }, {
+    "type" : "list",
+    "id" : 308,
+    "level" : "2",
+    "page number" : 16,
+    "bounding box" : [ 42.457, 126.359, 552.421, 166.323 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "next list id" : 310,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 16,
+      "bounding box" : [ 42.457, 126.359, 552.421, 166.323 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "이 규정은 2018년 5월 14일부터 시행한다. (2018년 컴플라이언스 강화를 위한 직제규정 개정에 따른 일괄개정)",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 309,
+    "level" : "Subtitle",
+    "page number" : 17,
+    "bounding box" : [ 246.346, 755.671, 348.593, 770.463 ],
+    "heading level" : 2,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "부칙<2019.1.15.>"
+  }, {
+    "type" : "list",
+    "id" : 310,
+    "level" : "2",
+    "page number" : 17,
+    "bounding box" : [ 42.457, 654.981, 552.421, 694.945 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 308,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 17,
+      "bounding box" : [ 42.457, 654.981, 552.421, 694.945 ],
+      "font" : "�޸ո���",
+      "font size" : 14.025,
+      "text color" : "[0.0]",
+      "content" : "이 규정은 2019년 상반기 부점장 정기인사 발령일부터 시행한다. (2019년 상반 기 직제규정 개정에 따른 일괄개정)",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 311,
+    "level" : "Subtitle",
+    "page number" : 17,
+    "bounding box" : [ 246.346, 579.464, 348.593, 594.255 ],
+    "heading level" : 2,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "부칙<2019.6.27.>"
+  }, {
+    "type" : "paragraph",
+    "id" : 312,
+    "page number" : 17,
+    "bounding box" : [ 42.457, 503.946, 305.051, 518.738 ],
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "이 규정은 2019년 7월 1일부터 시행한다."
+  }, {
+    "type" : "heading",
+    "id" : 313,
+    "level" : "Subtitle",
+    "page number" : 17,
+    "bounding box" : [ 246.346, 428.429, 348.593, 443.22 ],
+    "heading level" : 2,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "부칙<2025.1.16.>"
+  }, {
+    "type" : "paragraph",
+    "id" : 314,
+    "page number" : 17,
+    "bounding box" : [ 42.457, 327.739, 552.421, 367.703 ],
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "이 규정은 2025년 1월 16일부터 시행한다. (2025년 상반기 직제규정 개정에 따 른 일괄개정)"
+  }, {
+    "type" : "heading",
+    "id" : 315,
+    "level" : "Subtitle",
+    "page number" : 17,
+    "bounding box" : [ 246.346, 252.221, 348.593, 267.013 ],
+    "heading level" : 2,
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "부칙<2025.5.22.>"
+  }, {
+    "type" : "paragraph",
+    "id" : 316,
+    "page number" : 17,
+    "bounding box" : [ 42.457, 151.531, 552.421, 191.495 ],
+    "font" : "�޸ո���",
+    "font size" : 14.025,
+    "text color" : "[0.0]",
+    "content" : "이 규정은 2025년 5월 13일부터 시행한다. 다만, 제5조제5호가목의 개정사항은 2027년 5월 13일부터 시행한다."
+  } ]
+}
