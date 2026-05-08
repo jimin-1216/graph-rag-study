@@ -1,3 +1,4 @@
 workspace/.env
 workspace/scripts/__pycache__/
 *.pyc
+study/260415/Ontology.pdf
