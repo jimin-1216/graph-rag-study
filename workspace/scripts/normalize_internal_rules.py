@@ -23,8 +23,9 @@ FILE_SLUGS = {
     "자금세탁방지업무 취급지침 원문-원본.md": "aml_guideline",
 }
 
-ARTICLE_RE = re.compile(r"^(?:-+\s*)?(제\d+(?:의\d+)?조)\(([^)]+)\)\s*(.*)$")
-STRUCTURE_RE = re.compile(r"^(제\d+(?:편|장|절))\s+(.+)$")
+ARTICLE_RE = re.compile(r"^(?:#+\s*)?(?:-+\s*)?(제\d+조(?:의\d+)?)\(([^)]+)\)\s*(.*)$")
+DELETED_ARTICLE_RE = re.compile(r"^(?:#+\s*)?(?:-+\s*)?(제\d+조(?:의\d+)?)\s*삭제\s*(<[^>]*>)?\s*$")
+STRUCTURE_RE = re.compile(r"^(?:#+\s*)?(제\d+(?:편|장|절))\s+(.+)$")
 SUPPLEMENTARY_RE = re.compile(r"^(?:#+\s*)?부칙(?:<[^>]+>)?\s*$")
 APPENDIX_RE = re.compile(r"^(?:-+\s*)?\[?(별표|별지서식)\s*([0-9]+)?\]?\s*(.*)$")
 LAW_NAME_PATTERN = re.compile(r"「([^」]+)」")
@@ -43,6 +44,12 @@ def write_json(path: Path, payload: object) -> None:
 def clean_text(value: str) -> str:
     value = value.replace("\u00a0", " ")
     return re.sub(r"\s+", " ", value).strip()
+
+
+def strip_revision_tags(value: str) -> str:
+    value = re.sub(r"\s*<[^>]*(개정|신설|삭제|본조신설)[^>]*>\s*", "", value)
+    value = re.sub(r"\s*\[[^\]]*(개정|신설|삭제|본조신설)[^\]]*\]\s*", "", value)
+    return value.strip()
 
 
 def normalize_line(line: str) -> str:
@@ -141,7 +148,7 @@ def sanitize_for_children(text: str) -> str:
 
 
 def trim_at_next_article(text: str) -> str:
-    match = re.search(r"(?m)\n\s*-?\s*(제\d+(?:의\d+)?조)\(", text)
+    match = re.search(r"(?m)\n\s*-?\s*(제\d+조(?:의\d+)?)\(", text)
     if match:
         return text[: match.start()].strip()
     return text.strip()
@@ -183,6 +190,8 @@ def build_blocks(markdown: str) -> tuple[list[dict], list[dict], list[dict]]:
             extras.append(current_extra)
             current_extra = None
 
+    in_supplementary = False
+
     for raw_line in markdown.splitlines():
         line = normalize_line(raw_line)
         if not line:
@@ -190,6 +199,7 @@ def build_blocks(markdown: str) -> tuple[list[dict], list[dict], list[dict]]:
 
         structure_match = STRUCTURE_RE.match(line)
         article_match = ARTICLE_RE.match(line)
+        deleted_match = DELETED_ARTICLE_RE.match(line)
         supplementary_match = SUPPLEMENTARY_RE.match(line)
         appendix_match = APPENDIX_RE.match(line)
 
@@ -202,9 +212,26 @@ def build_blocks(markdown: str) -> tuple[list[dict], list[dict], list[dict]]:
         if should_skip_preamble(line):
             continue
 
+        if deleted_match and not in_supplementary:
+            flush_article()
+            flush_extra()
+            article_no = deleted_match.group(1)
+            articles.append(
+                {
+                    "article_no": article_no,
+                    "title": "삭제",
+                    "parent_heading_no": heading_stack[-1]["unit_no"] if heading_stack else "",
+                    "parts": [line],
+                    "raw_text": line,
+                    "text": clean_text(line),
+                }
+            )
+            continue
+
         if supplementary_match:
             flush_article()
             flush_extra()
+            in_supplementary = True
             extra_seq += 1
             current_extra = {
                 "unit_type": "supplementary",
@@ -232,7 +259,9 @@ def build_blocks(markdown: str) -> tuple[list[dict], list[dict], list[dict]]:
         if structure_match:
             flush_article()
             flush_extra()
+            in_supplementary = False
             heading_no, heading_title = structure_match.groups()
+            heading_title = strip_revision_tags(heading_title)
             heading_type = "part" if heading_no.endswith("편") else "chapter" if heading_no.endswith("장") else "section"
             if heading_type == "part":
                 heading_stack = []
@@ -252,7 +281,7 @@ def build_blocks(markdown: str) -> tuple[list[dict], list[dict], list[dict]]:
             heading_stack.append({"unit_type": heading_type, "unit_no": heading_no})
             continue
 
-        if article_match:
+        if article_match and not in_supplementary:
             flush_article()
             flush_extra()
             article_no, article_title, rest = article_match.groups()
