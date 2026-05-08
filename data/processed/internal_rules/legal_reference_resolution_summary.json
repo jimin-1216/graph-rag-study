@@ -1,0 +1,109 @@
+{
+  "resolved_count": 79,
+  "unresolved_count": 36,
+  "confidence_breakdown": {
+    "high": 79
+  },
+  "top_unresolved": [
+    {
+      "raw_target_id": "독점규제 및 공 정거래에 관한 법률",
+      "normalized_target_id": "독점규제 및 공 정거래에 관한법률",
+      "target_bucket": "law"
+    },
+    {
+      "raw_target_id": "상법",
+      "normalized_target_id": "상법",
+      "target_bucket": "law"
+    },
+    {
+      "raw_target_id": "독점규제 및 공 정거래에 관한 법률",
+      "normalized_target_id": "독점규제 및 공 정거래에 관한법률",
+      "target_bucket": "law"
+    },
+    {
+      "raw_target_id": "상법",
+      "normalized_target_id": "상법",
+      "target_bucket": "law"
+    },
+    {
+      "raw_target_id": "자금세탁방지업무 취급지침",
+      "normalized_target_id": "자금세탁방지업무 취급지침",
+      "target_bucket": "unknown"
+    },
+    {
+      "raw_target_id": "자금세탁방지업무 취급지침",
+      "normalized_target_id": "자금세탁방지업무 취급지침",
+      "target_bucket": "unknown"
+    },
+    {
+      "raw_target_id": "자금세탁방지업무 취급지침",
+      "normalized_target_id": "자금세탁방지업무 취급지침",
+      "target_bucket": "unknown"
+    },
+    {
+      "raw_target_id": "자금세탁방지업무 취급지침",
+      "normalized_target_id": "자금세탁방지업무 취급지침",
+      "target_bucket": "unknown"
+    },
+    {
+      "raw_target_id": "자금세탁방지업무 취급지침",
+      "normalized_target_id": "자금세탁방지업무 취급지침",
+      "target_bucket": "unknown"
+    },
+    {
+      "raw_target_id": "자금세탁방지업무 취급지침",
+      "normalized_target_id": "자금세탁방지업무 취급지침",
+      "target_bucket": "unknown"
+    },
+    {
+      "raw_target_id": "자금세탁방지업무취급지침",
+      "normalized_target_id": "자금세탁방지업무취급지침",
+      "target_bucket": "unknown"
+    },
+    {
+      "raw_target_id": "자금세탁방지업무 취급규정",
+      "normalized_target_id": "자금세탁방지업무 취급규정",
+      "target_bucket": "adm_rule"
+    },
+    {
+      "raw_target_id": "자금세탁방지업무 취 급규정",
+      "normalized_target_id": "자금세탁방지업무 취 급규정",
+      "target_bucket": "adm_rule"
+    },
+    {
+      "raw_target_id": "자금세탁방지업무 취급규정",
+      "normalized_target_id": "자금세탁방지업무 취급규정",
+      "target_bucket": "adm_rule"
+    },
+    {
+      "raw_target_id": "유가증권시장 공시규정",
+      "normalized_target_id": "유가증권시장 공시규정",
+      "target_bucket": "adm_rule"
+    },
+    {
+      "raw_target_id": "코스닥시장 공시규정",
+      "normalized_target_id": "코스닥시장 공시규정",
+      "target_bucket": "adm_rule"
+    },
+    {
+      "raw_target_id": "유가증권시장 공시규정",
+      "normalized_target_id": "유가증권시장 공시규정",
+      "target_bucket": "adm_rule"
+    },
+    {
+      "raw_target_id": "코스닥시장 공시규정",
+      "normalized_target_id": "코스닥시장 공시규정",
+      "target_bucket": "adm_rule"
+    },
+    {
+      "raw_target_id": "유가증권시장 공시규정",
+      "normalized_target_id": "유가증권시장 공시규정",
+      "target_bucket": "adm_rule"
+    },
+    {
+      "raw_target_id": "코스닥시장 공시규정",
+      "normalized_target_id": "코스닥시장 공시규정",
+      "target_bucket": "adm_rule"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "collected_at": "2026-04-23",
+  "source": "https://open.law.go.kr/LSO/openApi/guideList.do",
+  "target_count": 11,
+  "targets": [
+    {
+      "slug": "credit_information_act",
+      "kind": "law",
+      "query": "신용정보의 이용 및 보호에 관한 법률",
+      "mst": "260423",
+      "law_id": "001540",
+      "title": "신용정보의 이용 및 보호에 관한 법률",
+      "search_path": "C:\\Jimin\\graph-rag-study\\data\\legal\\raw\\credit_information_act_search.json",
+      "body_path": "C:\\Jimin\\graph-rag-study\\data\\legal\\raw\\credit_information_act_body.json",
+      "structure_path": "C:\\Jimin\\graph-rag-study\\data\\legal\\raw\\credit_information_act_structure.json"
+    },
+    {
+      "slug": "foreign_exchange_transactions_act",
+      "kind": "law",
+      "query": "외국환거래법",
+      "mst": "276137",
+      "law_id": "001525",
+      "title": "외국환거래법",
+      "search_path": "C:\\Jimin\\graph-rag-study\\data\\legal\\raw\\foreign_exchange_transactions_act_search.json",
+      "body_path": "C:\\Jimin\\graph-rag-study\\data\\legal\\raw\\foreign_exchange_transactions_act_body.json",
+      "structure_path": "C:\\Jimin\\graph-rag-study\\data\\legal\\raw\\foreign_exchange_transactions_act_structure.json"
+    },
+    {
+      "slug": "counter_terrorism_financing_act",
+      "kind": "law",
+      "query": "공중 등 협박목적 및 대량살상무기확산을 위한 자금조달행위의 금지에 관한 법률",
+      "mst": "268619",
+      "law_id": "010588",
+      "title": "공중 등 협박목적 및 대량살상무기확산을 위한 자금조달행위의 금지에 관한 법률",
+      "search_path": "C:\\Jimin\\graph-rag-study\\data\\legal\\raw\\counter_terrorism_financing_act_search.json",
+      "body_path": "C:\\Jimin\\graph-rag-study\\data\\legal\\raw\\counter_terrorism_financing_act_body.json",
+      "structure_path": "C:\\Jimin\\graph-rag-study\\data\\legal\\raw\\counter_terrorism_financing_act_structure.json"
+    },
+    {
+      "slug": "narcotics_illegal_trade_act",
+      "kind": "law",
+      "query": "마약류 불법거래 방지에 관한 특례법",
+      "mst": "228085",
+      "law_id": "001125",
+      "title": "마약류 불법거래 방지에 관한 특례법",
+      "search_path": "C:\\Jimin\\graph-rag-study\\data\\legal\\raw\\narcotics_illegal_trade_act_search.json",
+      "body_path": "C:\\Jimin\\graph-rag-study\\data\\legal\\raw\\narcotics_illegal_trade_act_body.json",
+      "structure_path": "C:\\Jimin\\graph-rag-study\\data\\legal\\raw\\narcotics_illegal_trade_act_structure.json"
+    },
+    {
+      "slug": "tax_crimes_punishment_act",
+      "kind": "law",
+      "query": "조세범 처벌법",
+      "mst": "224875",
+      "law_id": "001583",
+      "title": "조세범 처벌법",
+      "search_path": "C:\\Jimin\\graph-rag-study\\data\\legal\\raw\\tax_crimes_punishment_act_search.json",
+      "body_path": "C:\\Jimin\\graph-rag-study\\data\\legal\\raw\\tax_crimes_punishment_act_body.json",
+      "structure_path": "C:\\Jimin\\graph-rag-study\\data\\legal\\raw\\tax_crimes_punishment_act_structure.json"
+    },
+    {
+      "slug": "customs_act",
+      "kind": "law",
+      "query": "관세법",
+      "mst": "280363",
+      "law_id": "001556",
+      "title": "관세법",
+      "search_path": "C:\\Jimin\\graph-rag-study\\data\\legal\\raw\\customs_act_search.json",
+      "body_path": "C:\\Jimin\\graph-rag-study\\data\\legal\\raw\\customs_act_body.json",
+      "structure_path": "C:\\Jimin\\graph-rag-study\\data\\legal\\raw\\customs_act_structure.json"
+    },
+    {
+      "slug": "local_tax_basic_act",
+      "kind": "law",
+      "query": "지방세기본법",
+      "mst": "283257",
+      "law_id": "011177",
+      "title": "지방세기본법",
+      "search_path": "C:\\Jimin\\graph-rag-study\\data\\legal\\raw\\local_tax_basic_act_search.json",
+      "body_path": "C:\\Jimin\\graph-rag-study\\data\\legal\\raw\\local_tax_basic_act_body.json",
+      "structure_path": "C:\\Jimin\\graph-rag-study\\data\\legal\\raw\\local_tax_basic_act_structure.json"
+    },
+    {
+      "slug": "aggravated_punishment_specific_crimes_act",
+      "kind": "law",
+      "query": "특정범죄 가중처벌 등에 관한 법률",
+      "mst": "270397",
+      "law_id": "001676",
+      "title": "특정범죄 가중처벌 등에 관한 법률",
+      "search_path": "C:\\Jimin\\graph-rag-study\\data\\legal\\raw\\aggravated_punishment_specific_crimes_act_search.json",
+      "body_path": "C:\\Jimin\\graph-rag-study\\data\\legal\\raw\\aggravated_punishment_specific_crimes_act_body.json",
+      "structure_path": "C:\\Jimin\\graph-rag-study\\data\\legal\\raw\\aggravated_punishment_specific_crimes_act_structure.json"
+    },
+    {
+      "slug": "capital_markets_act",
+      "kind": "law",
+      "query": "자본시장과 금융투자업에 관한 법률",
+      "mst": "273695",
+      "law_id": "010513",
+      "title": "자본시장과 금융투자업에 관한 법률",
+      "search_path": "C:\\Jimin\\graph-rag-study\\data\\legal\\raw\\capital_markets_act_search.json",
+      "body_path": "C:\\Jimin\\graph-rag-study\\data\\legal\\raw\\capital_markets_act_body.json",
+      "structure_path": "C:\\Jimin\\graph-rag-study\\data\\legal\\raw\\capital_markets_act_structure.json"
+    },
+    {
+      "slug": "financial_companies_governance_act",
+      "kind": "law",
+      "query": "금융회사의 지배구조에 관한 법률",
+      "mst": "277253",
+      "law_id": "012338",
+      "title": "금융회사의 지배구조에 관한 법률",
+      "search_path": "C:\\Jimin\\graph-rag-study\\data\\legal\\raw\\financial_companies_governance_act_search.json",
+      "body_path": "C:\\Jimin\\graph-rag-study\\data\\legal\\raw\\financial_companies_governance_act_body.json",
+      "structure_path": "C:\\Jimin\\graph-rag-study\\data\\legal\\raw\\financial_companies_governance_act_structure.json"
+    },
+    {
+      "slug": "financial_companies_governance_act_enforcement_decree",
+      "kind": "law",
+      "query": "금융회사의 지배구조에 관한 법률 시행령",
+      "mst": "284695",
+      "law_id": "012620",
+      "title": "금융회사의 지배구조에 관한 법률 시행령",
+      "search_path": "C:\\Jimin\\graph-rag-study\\data\\legal\\raw\\financial_companies_governance_act_enforcement_decree_search.json",
+      "body_path": "C:\\Jimin\\graph-rag-study\\data\\legal\\raw\\financial_companies_governance_act_enforcement_decree_body.json",
+      "structure_path": "C:\\Jimin\\graph-rag-study\\data\\legal\\raw\\financial_companies_governance_act_enforcement_decree_structure.json"
+    }
+  ]
+}
